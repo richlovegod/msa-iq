@@ -1,0 +1,343 @@
+[
+  {
+    "id": "ath434-201-2025",
+    "date": "2025-01-30",
+    "dateDisplay": "2025/01（頂線）· 2025/09–10（研討會）",
+    "competitor": "Alterity Therapeutics",
+    "drug": "ATH434",
+    "trial": "ATH434-201 · Ph2（早期 MSA，隨機雙盲安慰劑對照）",
+    "sourceType": "新聞稿",
+    "level": "pos",
+    "readout": "分析族群 n=71（ATH434 50mg n=25、75mg n=24、安慰劑 n=22）。公司公布：改良版 UMSARS Part I（日常生活功能）相對安慰劑達臨床與統計顯著改善，50mg 劑量相對治療效果 48%；兩個劑量皆見疾病進展減緩，並見姿勢性低血壓症狀穩定、行走與站立功能保留。資料於 2025/09 ANA 年會與 2025/10 MDS 國際大會發表。",
+    "implication": "→ MSA 領域少見的正面 Ph2 訊號；惟為公司發布口徑、樣本數小，需待完整同儕審查論文與更大型試驗確認。",
+    "links": [
+      {
+        "label": "Alterity 頂線新聞稿 2025/01",
+        "url": "https://www.globenewswire.com/news-release/2025/01/30/3017941/0/en/Alterity-Therapeutics-Announces-Positive-ATH434-Phase-2-Trial-Results-in-Multiple-System-Atrophy-Led-By-Robust-Clinical-Efficacy.html"
+      },
+      {
+        "label": "MDS 大會發表 2025/10",
+        "url": "https://www.globenewswire.com/news-release/2025/10/09/3164032/0/en/Alterity-Therapeutics-Presents-Positive-Data-from-ATH434-Phase-2-Trial-at-the-2025-International-Congress-of-Parkinson-s-Disease-and-Movement-Disorders.html"
+      }
+    ],
+    "en": {
+      "trial": "ATH434-201 · Ph2 (early MSA, randomised double-blind placebo-controlled)",
+      "sourceType": "Press release",
+      "readout": "Analysis population n=71 (ATH434 50mg n=25, 75mg n=24, placebo n=22). Per the company: a clinically and statistically significant improvement over placebo on modified UMSARS Part I (activities of daily living), with a 48% relative treatment effect at 50mg; both doses slowed disease progression, with stabilised orthostatic hypotension symptoms and preserved walking and standing. Presented at the ANA annual meeting in 2025/09 and the MDS International Congress in 2025/10.",
+      "implication": "→ A rare positive Ph2 signal in MSA; but these are company-framed results in a small sample, pending full peer-reviewed publication and larger trials.",
+      "links": [
+        {
+          "label": "Alterity topline release 2025/01",
+          "url": "https://www.globenewswire.com/news-release/2025/01/30/3017941/0/en/Alterity-Therapeutics-Announces-Positive-ATH434-Phase-2-Trial-Results-in-Multiple-System-Atrophy-Led-By-Robust-Clinical-Efficacy.html"
+        },
+        {
+          "label": "MDS Congress presentation 2025/10",
+          "url": "https://www.globenewswire.com/news-release/2025/10/09/3164032/0/en/Alterity-Therapeutics-Presents-Positive-Data-from-ATH434-Phase-2-Trial-at-the-2025-International-Congress-of-Parkinson-s-Disease-and-Movement-Disorders.html"
+        }
+      ],
+      "dateDisplay": "2025/01 (topline) · 2025/09–10 (congresses)"
+    }
+  },
+  {
+    "id": "amulet-ph2",
+    "date": "2024-01-31",
+    "dateDisplay": "2024/01 讀出 · 2026 刊於 Lancet Neurology",
+    "competitor": "Lundbeck",
+    "drug": "Amlenetug（Lu AF82422）",
+    "trial": "AMULET · Ph2（n=40 治療 / 21 安慰劑）",
+    "sourceType": "論文",
+    "level": "info",
+    "readout": "**未達主要終點**：以貝氏模型評估 72 週 UMSARS（Part I+II）總分進展，減緩 19%，未達統計顯著。次要終點改良版 UMSARS 減緩 27%（Part I 22%、Part II 17%）；事後分析中較輕症次族群減緩 42%。",
+    "implication": "→ 主要終點未達仍推進 Ph3（MASCOT, NCT06706622），顯示業界對「早期病人＋改良版量表」設計的押注；也凸顯 UMSARS 總分作為主要終點的靈敏度問題。",
+    "links": [
+      {
+        "label": "Lancet Neurology 論文摘要",
+        "url": "https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(26)00100-6/abstract"
+      },
+      {
+        "label": "Lundbeck AMULET 讀出簡報 2024/01",
+        "url": "https://www.lundbeck.com/content/dam/lundbeck-com/masters/global-site/global-site/investors/2024/amulet-update/Lu%20AF82422%20phase%20II%20PoC%20read-out%20(AMULET)_31012024.pdf"
+      }
+    ],
+    "en": {
+      "trial": "AMULET · Ph2 (n=40 treated / 21 placebo)",
+      "sourceType": "Paper",
+      "readout": "**Primary endpoint missed**: using a Bayesian model of 72-week progression in total UMSARS (Part I+II), progression was slowed by 19%, not statistically significant. On the secondary modified UMSARS, slowing was 27% (Part I 22%, Part II 17%); a post-hoc less-impaired subgroup showed 42% slowing.",
+      "implication": "→ Advancing to Ph3 (MASCOT, NCT06706622) despite the missed primary endpoint shows the industry betting on an early-patient plus modified-scale design, and highlights the sensitivity problem of total UMSARS as a primary endpoint.",
+      "links": [
+        {
+          "label": "Lancet Neurology abstract",
+          "url": "https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(26)00100-6/abstract"
+        },
+        {
+          "label": "Lundbeck AMULET read-out deck 2024/01",
+          "url": "https://www.lundbeck.com/content/dam/lundbeck-com/masters/global-site/global-site/investors/2024/amulet-update/Lu%20AF82422%20phase%20II%20PoC%20read-out%20(AMULET)_31012024.pdf"
+        }
+      ],
+      "dateDisplay": "Read out 2024/01 · published in Lancet Neurology 2026"
+    }
+  },
+  {
+    "id": "ono2808-ph2",
+    "date": "2026-05-27",
+    "dateDisplay": "2025/10 期中 · 2026/05 WPC",
+    "competitor": "小野藥品 Ono",
+    "drug": "ONO-2808",
+    "trial": "ONO-2808-03 · Ph2（雙盲核心部分 24 週）",
+    "sourceType": "研討會摘要",
+    "level": "pos",
+    "readout": "安全性：TEAE 發生率安慰劑 91%（21/23）vs ONO-2808 93%（64/69），無非預期安全訊號。療效：**MSA-P 次族群** 24 週 mUMSARS 自基線變化 安慰劑 3.90 vs 中劑量 1.39、高劑量 1.16；MRI 腦容積評估見劑量依存的萎縮抑制傾向。公司與 Deciphera 規劃樞紐性 Ph3。",
+    "implication": "→ 又一個非 α-synuclein 標的（S1P5／寡突膠質）的正面訊號；但屬次族群分析，須待 Ph3 驗證。",
+    "links": [
+      {
+        "label": "Ono 期中分析 2025/10/09",
+        "url": "https://www.ono-pharma.com/en/news/20251009.html"
+      },
+      {
+        "label": "Ono WPC 發表 2026/05",
+        "url": "https://www.ono-pharma.com/en/news/20260528.html"
+      }
+    ],
+    "en": {
+      "competitor": "Ono Pharmaceutical",
+      "trial": "ONO-2808-03 · Ph2 (24-week double-blind core part)",
+      "sourceType": "Conference abstract",
+      "readout": "Safety: TEAE incidence 91% on placebo (21/23) vs 93% on ONO-2808 (64/69), with no unexpected signals. Efficacy: in the **MSA-P subgroup**, 24-week change from baseline in mUMSARS was 3.90 on placebo vs 1.39 (medium dose) and 1.16 (high dose); MRI brain-volume assessment showed a dose-dependent trend toward suppressed atrophy. Ono and Deciphera plan a pivotal Ph3.",
+      "implication": "→ Another positive signal from a non-α-synuclein target (S1P5 / oligodendrocytes), but it rests on a subgroup analysis and awaits Ph3 confirmation.",
+      "links": [
+        {
+          "label": "Ono interim analysis 2025/10/09",
+          "url": "https://www.ono-pharma.com/en/news/20251009.html"
+        },
+        {
+          "label": "Ono WPC presentation 2026/05",
+          "url": "https://www.ono-pharma.com/en/news/20260528.html"
+        }
+      ],
+      "dateDisplay": "2025/10 interim · 2026/05 WPC"
+    }
+  },
+  {
+    "id": "mstar-ph3",
+    "date": "2021-09-27",
+    "dateDisplay": "2021/09",
+    "competitor": "Biohaven",
+    "drug": "Verdiperstat",
+    "trial": "M-STAR · Ph3（n=250，300/600mg BID vs 安慰劑）",
+    "sourceType": "新聞稿",
+    "level": "neg",
+    "readout": "**主要療效終點未與安慰劑區隔**，關鍵次要終點亦然。此前 Ph2 曾見 UMSARS 有利趨勢（12 週），Ph3 未能重現。",
+    "implication": "→ MSA 領域規模最大的 Ph3 失敗案之一，也是「Ph2 趨勢無法在 Ph3 重現」的典型；後續設計普遍轉向更早期病人與改良版量表。",
+    "links": [
+      {
+        "label": "Biohaven 更新新聞稿 2021/09",
+        "url": "https://www.prnewswire.com/news-releases/biohaven-provides-update-on-phase-3-trial-and-multiple-system-atrophy-msa-program-301385193.html"
+      },
+      {
+        "label": "NeurologyLive 報導",
+        "url": "https://www.neurologylive.com/view/msa-therapy-verdiperstat-fails-primary-end-point-mstar-trial"
+      }
+    ],
+    "en": {
+      "trial": "M-STAR · Ph3 (n=250, 300/600mg BID vs placebo)",
+      "sourceType": "Press release",
+      "readout": "**The primary efficacy endpoint did not separate from placebo**, nor did the key secondary endpoints. Favourable UMSARS trends seen in Ph2 at 12 weeks were not reproduced.",
+      "implication": "→ One of the largest Ph3 failures in MSA and a textbook case of Ph2 trends failing to replicate; subsequent designs have shifted toward earlier patients and modified scales.",
+      "links": [
+        {
+          "label": "Biohaven update release 2021/09",
+          "url": "https://www.prnewswire.com/news-releases/biohaven-provides-update-on-phase-3-trial-and-multiple-system-atrophy-msa-program-301385193.html"
+        },
+        {
+          "label": "NeurologyLive coverage",
+          "url": "https://www.neurologylive.com/view/msa-therapy-verdiperstat-fails-primary-end-point-mstar-trial"
+        }
+      ],
+      "dateDisplay": "2021/09"
+    }
+  },
+  {
+    "id": "ion464-stop",
+    "date": "2025-02-12",
+    "dateDisplay": "2025/02",
+    "competitor": "Ionis／Biogen",
+    "drug": "ION464（BIIB101）",
+    "trial": "HORIZON · Ph1（鞘內，NCT04165486）",
+    "sourceType": "新聞稿",
+    "level": "neg",
+    "readout": "Ph1 更新顯示安全、耐受良好，未見與試驗藥相關的嚴重不良事件或死亡。**2025/02/12 Biogen 宣布終止 ION464／BIIB101 開發**（截至 2025/03 Ionis 管線仍列此案）。公開來源未見以療效或安全為由的具體說明。",
+    "implication": "→ α-synuclein ASO 路線在 MSA 少一個大廠推手；標的正確與否未被此決定回答，不宜過度解讀。",
+    "links": [
+      {
+        "label": "ClinicalTrials NCT04165486",
+        "url": "https://clinicaltrials.gov/study/NCT04165486"
+      },
+      {
+        "label": "NeurologyLive — Ph1 進度更新",
+        "url": "https://www.neurologylive.com/view/continued-progress-phase-1-study-antisense-oligonucleotide-ion464-msa"
+      },
+      {
+        "label": "ALZFORUM — ION464",
+        "url": "https://www.alzforum.org/therapeutics/ion464"
+      }
+    ],
+    "en": {
+      "competitor": "Ionis / Biogen",
+      "trial": "HORIZON · Ph1 (intrathecal, NCT04165486)",
+      "sourceType": "Press release",
+      "readout": "The Ph1 update showed the drug was safe and well tolerated, with no serious adverse events or deaths related to study drug. **On 2025/02/12 Biogen announced it was discontinuing ION464/BIIB101** (as of 2025/03 Ionis still listed it in its pipeline). Public sources give no specific efficacy or safety rationale.",
+      "implication": "→ The α-synuclein ASO route in MSA loses a large-cap sponsor; the decision does not answer whether the target is right, so it should not be over-read.",
+      "links": [
+        {
+          "label": "ClinicalTrials NCT04165486",
+          "url": "https://clinicaltrials.gov/study/NCT04165486"
+        },
+        {
+          "label": "NeurologyLive — Ph1 progress update",
+          "url": "https://www.neurologylive.com/view/continued-progress-phase-1-study-antisense-oligonucleotide-ion464-msa"
+        },
+        {
+          "label": "ALZFORUM — ION464",
+          "url": "https://www.alzforum.org/therapeutics/ion464"
+        }
+      ],
+      "dateDisplay": "2025/02"
+    }
+  },
+  {
+    "id": "mayo-msc-ph12",
+    "date": "2019-07-02",
+    "dateDisplay": "2019（Neurology）",
+    "competitor": "Mayo Clinic",
+    "drug": "鞘內自體脂肪 MSC",
+    "trial": "Ph1/2 劑量遞增（24 人）",
+    "sourceType": "論文",
+    "level": "pos",
+    "readout": "24 名早期 MSA 病人接受 10–200M 自體脂肪 MSC 鞘內注射。UMSARS 總分進展 0.40±0.59 分/月，顯著低於配對歷史對照的 1.44±1.42 分/月（p=0.004），且見劑量依存趨勢。安全性：無可歸因的嚴重不良事件，惟高劑量出現疼痛性植入反應（腰神經根）。",
+    "implication": "→ 目前 MSA 細胞治療最常被引用的人體數據；**對照為歷史配對而非同期安慰劑**，正由 NCT05167721 的隨機雙盲試驗檢驗。劑量與給藥途徑決定安全窗口。",
+    "links": [
+      {
+        "label": "Singer 2019 Neurology",
+        "url": "https://www.neurology.org/doi/10.1212/wnl.0000000000007720"
+      },
+      {
+        "label": "隨機對照試驗 NCT05167721",
+        "url": "https://clinicaltrials.gov/study/NCT05167721"
+      }
+    ],
+    "en": {
+      "drug": "Intrathecal autologous adipose MSC",
+      "trial": "Ph1/2 dose escalation (24 patients)",
+      "sourceType": "Paper",
+      "readout": "24 patients with early MSA received 10–200M autologous adipose MSC intrathecally. UMSARS total progression was 0.40±0.59 points/month versus 1.44±1.42 in a matched historical control group (p=0.004), with an apparent dose-dependent effect. Safety: no attributable serious adverse events, but a painful implantation response (lumbar nerve roots) at high doses.",
+      "implication": "→ The most-cited human data for cell therapy in MSA; **the comparator is a matched historical control rather than a concurrent placebo**, which the randomised NCT05167721 is now testing. Dose and route define the safety window.",
+      "links": [
+        {
+          "label": "Singer 2019 Neurology",
+          "url": "https://www.neurology.org/doi/10.1212/wnl.0000000000007720"
+        },
+        {
+          "label": "Randomised trial NCT05167721",
+          "url": "https://clinicaltrials.gov/study/NCT05167721"
+        }
+      ],
+      "dateDisplay": "2019 (Neurology)"
+    }
+  },
+  {
+    "id": "korea-msc-2012",
+    "date": "2012-07-01",
+    "dateDisplay": "2012",
+    "competitor": "Yonsei（南韓）",
+    "drug": "自體骨髓 MSC",
+    "trial": "隨機對照（33 人，MSA-C）",
+    "sourceType": "論文",
+    "level": "pos",
+    "readout": "MSA-C 病人隨機接受自體骨髓 MSC（動脈內＋靜脈）或安慰劑：MSC 組 UMSARS 總分與 Part II 惡化顯著較小（p=0.047、0.008），腦部葡萄糖代謝與灰質密度下降較少；無直接相關的嚴重不良事件。",
+    "implication": "→ 早期但屬**隨機對照**的人體證據，支持 MSC 在 MSA 的概念；樣本小、單中心，且為自體細胞。",
+    "links": [
+      {
+        "label": "Lee 2012（PubMed 22829267）",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22829267/"
+      }
+    ],
+    "en": {
+      "competitor": "Yonsei (South Korea)",
+      "drug": "Autologous bone-marrow MSC",
+      "trial": "Randomised controlled (33 patients, MSA-C)",
+      "sourceType": "Paper",
+      "readout": "MSA-C patients were randomised to autologous bone-marrow MSC (intra-arterial plus IV) or placebo: the MSC group had significantly smaller increases in total and Part II UMSARS (p=0.047, 0.008) and less decline in cerebral glucose metabolism and grey-matter density, with no directly related serious adverse events.",
+      "implication": "→ Early but **randomised** human evidence supporting the MSC concept in MSA; small, single-centre, and autologous.",
+      "links": [
+        {
+          "label": "Lee 2012 (PubMed 22829267)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/22829267/"
+        }
+      ],
+      "dateDisplay": "2012"
+    }
+  },
+  {
+    "id": "foralumab-pet-2026",
+    "date": "2026-05-14",
+    "dateDisplay": "2026/05",
+    "competitor": "Tiziana Life Sciences",
+    "drug": "Foralumab 鼻噴",
+    "trial": "Ph2a（NCT06868628）",
+    "sourceType": "新聞稿",
+    "level": "info",
+    "readout": "公司公布 Ph2a 前 2 名 MSA 受試者的定量 PET 影像：鼻噴 foralumab 後基底核與視丘攝取顯著下降（代表微膠細胞活化降低）。**n=2、無對照、尚無臨床療效數據。**",
+    "implication": "→ 免疫調節路線的早期機轉訊號；與 MSC 的抗神經發炎敘事相鄰，值得追蹤但遠未成證據。",
+    "links": [
+      {
+        "label": "Tiziana 新聞稿 2026/05/14",
+        "url": "https://www.globenewswire.com/news-release/2026/05/14/3294743/0/en/Tiziana-Reports-Reduced-Brain-Inflammation-in-Multiple-System-Atrophy-Patients-Treated-with-Intranasal-Foralumab.html"
+      }
+    ],
+    "en": {
+      "drug": "Nasal foralumab",
+      "trial": "Ph2a (NCT06868628)",
+      "sourceType": "Press release",
+      "readout": "The company reported quantitative PET imaging from the first 2 MSA patients in the Ph2a: significantly reduced basal ganglia and thalamic uptake after nasal foralumab (indicating lower microglial activation). **n=2, uncontrolled, with no clinical efficacy data.**",
+      "implication": "→ An early mechanistic signal for the immune-modulation route, adjacent to the anti-neuroinflammation narrative of MSC; worth tracking but far from evidence.",
+      "links": [
+        {
+          "label": "Tiziana release 2026/05/14",
+          "url": "https://www.globenewswire.com/news-release/2026/05/14/3294743/0/en/Tiziana-Reports-Reduced-Brain-Inflammation-in-Multiple-System-Atrophy-Patients-Treated-with-Intranasal-Foralumab.html"
+        }
+      ],
+      "dateDisplay": "2026/05"
+    }
+  },
+  {
+    "id": "ampreloxetine-withdrawal",
+    "date": "2026-07-20",
+    "dateDisplay": "2026/07（線上）",
+    "competitor": "Theravance Biopharma",
+    "drug": "Ampreloxetine",
+    "trial": "隨機停藥試驗（73 名 MSA 合併 nOH）",
+    "sourceType": "論文",
+    "level": "info",
+    "readout": "**未達主要終點**。次要分析：隨機到安慰劑者功能惡化，續用 ampreloxetine 者維持開放標籤期水準；站立血壓在停藥後顯著下降。作者標示為 Class III 證據。",
+    "implication": "→ 症狀治療（姿勢性低血壓）而非疾病修飾；提醒 MSA 試驗「停藥設計」可作為維持療效的替代驗證路徑。",
+    "links": [
+      {
+        "label": "Freeman 2026 Neurology（PubMed 42475649）",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42475649/"
+      }
+    ],
+    "en": {
+      "trial": "Randomised withdrawal trial (73 MSA patients with nOH)",
+      "sourceType": "Paper",
+      "readout": "**Primary endpoints not met.** Secondary analysis: patients randomised to placebo worsened while those continuing ampreloxetine maintained their open-label level of function, and standing blood pressure fell significantly after withdrawal. The authors classify this as Class III evidence.",
+      "implication": "→ Symptomatic treatment of orthostatic hypotension rather than disease modification; a reminder that withdrawal designs offer an alternative way to demonstrate maintained benefit in MSA.",
+      "links": [
+        {
+          "label": "Freeman 2026 Neurology (PubMed 42475649)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42475649/"
+        }
+      ],
+      "dateDisplay": "2026/07 (online)"
+    }
+  }
+]

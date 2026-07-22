@@ -1,0 +1,164 @@
+[
+  {
+    "id": "pubmed:42475649",
+    "date": "2026-07-20",
+    "dateDisplay": "2026/07",
+    "title": "Mechanism-Based Therapy With Ampreloxetine for Neurogenic Orthostatic Hypotension in Multiple System Atrophy: A Randomized Withdrawal Trial",
+    "journal": "Neurology · Freeman R 等",
+    "tag": "症狀治療 · 試驗",
+    "highlight": true,
+    "note": "→ 73 名 MSA 合併神經性姿勢性低血壓者的隨機停藥試驗；主要終點未達，次要分析顯示停藥者惡化、續用者維持功能（Class III）。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42475649/",
+    "urlLabel": "論文 ↗ PubMed 42475649",
+    "en": {
+      "journal": "Neurology · Freeman R et al.",
+      "tag": "Symptomatic therapy · trial",
+      "note": "→ Randomised withdrawal trial in 73 MSA patients with neurogenic orthostatic hypotension; primary endpoints missed, with secondary analysis showing withdrawal worsened function while continued treatment maintained it (Class III).",
+      "urlLabel": "Paper ↗ PubMed 42475649"
+    }
+  },
+  {
+    "id": "pubmed:42474003",
+    "date": "2026-07-17",
+    "dateDisplay": "2026/07",
+    "title": "Plasma Total and Phosphorylated alpha-Synuclein as Biomarkers in Multiple System Atrophy: A Multicenter Study",
+    "journal": "Curr Neuropharmacol · Yuan X 等",
+    "tag": "生物標記",
+    "highlight": true,
+    "note": "→ 多中心研究血漿總量與磷酸化 α-synuclein 作為 MSA 生物標記——關乎未來試驗能否用血液指標追療效。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42474003/",
+    "urlLabel": "論文 ↗ PubMed 42474003",
+    "en": {
+      "journal": "Curr Neuropharmacol · Yuan X et al.",
+      "tag": "Biomarker",
+      "note": "→ A multicentre study of plasma total and phosphorylated alpha-synuclein as MSA biomarkers — relevant to whether future trials can track effect with a blood measure.",
+      "urlLabel": "Paper ↗ PubMed 42474003"
+    }
+  },
+  {
+    "id": "pubmed:42444112",
+    "date": "2026-07-13",
+    "dateDisplay": "2026/07",
+    "title": "Prospective Validation of the Movement Disorder Society Prodromal Multiple System Atrophy Criteria in Pure Autonomic Failure",
+    "journal": "Mov Disord · Millar Vernetti P 等",
+    "tag": "早期診斷 · 準則驗證",
+    "highlight": true,
+    "note": "→ 前瞻驗證 MDS「前驅期 MSA」診斷準則——早期診斷是疾病修飾試驗能否收到早期病人的前提。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42444112/",
+    "urlLabel": "論文 ↗ PubMed 42444112",
+    "en": {
+      "journal": "Mov Disord · Millar Vernetti P et al.",
+      "tag": "Early diagnosis · criteria validation",
+      "note": "→ Prospective validation of the MDS prodromal MSA criteria — early diagnosis is the precondition for enrolling early patients into disease-modifying trials.",
+      "urlLabel": "Paper ↗ PubMed 42444112"
+    }
+  },
+  {
+    "id": "pubmed:42421647",
+    "date": "2026-07-09",
+    "dateDisplay": "2026/07",
+    "title": "Aiming at the Seed: alpha-Synuclein Immunotherapy in Multiple System Atrophy",
+    "journal": "Mov Disord · Jain A 等",
+    "tag": "α-syn 免疫療法 · 評論",
+    "highlight": false,
+    "note": "→ 針對 MSA α-synuclein 免疫療法的評論，對應 amlenetug 等抗體路線的現況討論。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42421647/",
+    "urlLabel": "論文 ↗ PubMed 42421647",
+    "en": {
+      "journal": "Mov Disord · Jain A et al.",
+      "tag": "alpha-syn immunotherapy · commentary",
+      "note": "→ A commentary on alpha-synuclein immunotherapy in MSA, tracking the state of the antibody route represented by amlenetug.",
+      "urlLabel": "Paper ↗ PubMed 42421647"
+    }
+  },
+  {
+    "id": "pubmed:42430980",
+    "date": "2026-07-08",
+    "dateDisplay": "2026/07",
+    "title": "Plasma cfDNA hypermethylation at SNCA intron 1 as a potential blood-based epigenetic signal in Parkinson disease and multiple system atrophy",
+    "journal": "Parkinsonism Relat Disord · Hu S 等",
+    "tag": "生物標記 · 表觀遺傳",
+    "highlight": false,
+    "note": "→ 以血漿 cfDNA 的 SNCA 甲基化作為 PD／MSA 的血液表觀遺傳訊號。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42430980/",
+    "urlLabel": "論文 ↗ PubMed 42430980",
+    "en": {
+      "journal": "Parkinsonism Relat Disord · Hu S et al.",
+      "tag": "Biomarker · epigenetics",
+      "note": "→ Plasma cfDNA methylation at SNCA as a blood-based epigenetic signal in PD and MSA.",
+      "urlLabel": "Paper ↗ PubMed 42430980"
+    }
+  },
+  {
+    "id": "pubmed:42393094",
+    "date": "2026-07-02",
+    "dateDisplay": "2026/07",
+    "title": "Characterizing progressive cortical thinning in multiple system atrophy: a longitudinal MRI study",
+    "journal": "NPJ Parkinsons Dis · Iandolo R 等",
+    "tag": "影像 · 病程",
+    "highlight": false,
+    "note": "→ 縱貫 MRI 描繪 MSA 皮質變薄的進展——影像指標可作為試驗的客觀次要終點。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42393094/",
+    "urlLabel": "論文 ↗ PubMed 42393094",
+    "en": {
+      "journal": "NPJ Parkinsons Dis · Iandolo R et al.",
+      "tag": "Imaging · progression",
+      "note": "→ Longitudinal MRI characterising progressive cortical thinning in MSA — imaging measures can serve as objective secondary endpoints in trials.",
+      "urlLabel": "Paper ↗ PubMed 42393094"
+    }
+  },
+  {
+    "id": "pubmed:42404319",
+    "date": "2026-06-28",
+    "dateDisplay": "2026/06",
+    "title": "Posterior cerebellar degeneration associates with executive dysfunction in multiple system atrophy: a voxel-based and atlas-based morphometric study",
+    "journal": "Clin Park Relat Disord · Taniguchi Y 等",
+    "tag": "影像 · 認知",
+    "highlight": false,
+    "note": "→ 後小腦退化與執行功能障礙的關聯（形態學研究）。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42404319/",
+    "urlLabel": "論文 ↗ PubMed 42404319",
+    "en": {
+      "journal": "Clin Park Relat Disord · Taniguchi Y et al.",
+      "tag": "Imaging · cognition",
+      "note": "→ Morphometric study linking posterior cerebellar degeneration with executive dysfunction.",
+      "urlLabel": "Paper ↗ PubMed 42404319"
+    }
+  },
+  {
+    "id": "pubmed:42411121",
+    "date": "2026-07-06",
+    "dateDisplay": "2026/07",
+    "title": "Effects of Repetitive Transcranial Magnetic Stimulation on Ataxia, Motor, and Psychological Outcomes in Multiple System Atrophy: A Systematic Review and Meta-Analysis of Randomized Controlled Trials",
+    "journal": "Am J Phys Med Rehabil · Peng HH 等",
+    "tag": "非藥物介入 · 統合分析",
+    "highlight": false,
+    "note": "→ rTMS 於 MSA 的隨機對照試驗統合分析（非藥物介入，作為對照參考）。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42411121/",
+    "urlLabel": "論文 ↗ PubMed 42411121",
+    "en": {
+      "journal": "Am J Phys Med Rehabil · Peng HH et al.",
+      "tag": "Non-drug intervention · meta-analysis",
+      "note": "→ Meta-analysis of randomised trials of rTMS in MSA (a non-drug intervention, included for context).",
+      "urlLabel": "Paper ↗ PubMed 42411121"
+    }
+  },
+  {
+    "id": "pubmed:42475652",
+    "date": "2026-07-20",
+    "dateDisplay": "2026/07",
+    "title": "Prospects Are Looking Up for Treatment of Neurogenic Orthostatic Hypotension in Multiple System Atrophy",
+    "journal": "Neurology · Cheshire WP",
+    "tag": "評論",
+    "highlight": false,
+    "note": "→ 針對上方 ampreloxetine 停藥試驗的同期評論。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42475652/",
+    "urlLabel": "論文 ↗ PubMed 42475652",
+    "en": {
+      "journal": "Neurology · Cheshire WP",
+      "tag": "Commentary",
+      "note": "→ Accompanying editorial on the ampreloxetine withdrawal trial above.",
+      "urlLabel": "Paper ↗ PubMed 42475652"
+    }
+  }
+]

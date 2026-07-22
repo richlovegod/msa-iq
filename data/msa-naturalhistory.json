@@ -1,0 +1,113 @@
+[
+  {
+    "id": "emsa-sg-nh",
+    "name": "EMSA-SG 歐洲前瞻自然史世代",
+    "nameEn": "EMSA-SG European prospective natural-history cohort",
+    "scope": "MSA-P / MSA-C",
+    "group": "Wenning、Geser 等（歐洲 MSA 研究小組 EMSA-SG）",
+    "n": "約 140（前瞻）",
+    "year": 2013,
+    "region": "歐洲",
+    "highlight": true,
+    "taiwan": "",
+    "findings": "MSA 病程快：UMSARS-II 一年約惡化 UMSARS-II ≈+57%、UMSARS-I ≈+36%（相對基線；Geser 2006）。獨立預測較快進展者＝發病時間短、對左旋多巴無反應；基線帕金森症與神經性膀胱障礙預示較差存活。第二年進展略趨緩。",
+    "significance": "→ MSA 進展遠快於 SCA，是設計 MSA 試驗（樣本數、追蹤期、端點靈敏度）的核心對照；也凸顯若做 MSA 細胞治療，療效窗口與收案時機的重要性。",
+    "en": {
+      "group": "Wenning, Geser et al. (European MSA Study Group, EMSA-SG)",
+      "findings": "MSA progresses fast: over one year UMSARS-II worsens ~+57% and UMSARS-I ~+36% vs baseline (Geser 2006). Independent predictors of faster progression: short symptom duration and absent levodopa response; baseline parkinsonism and neurogenic bladder predict poorer survival. Progression slows somewhat in year 2.",
+      "significance": "MSA progresses far faster than SCA — the core comparator for MSA trial design (sample size, follow-up, endpoint sensitivity), and underscores treatment-window/enrollment timing for any MSA cell therapy.",
+      "taiwan": "",
+      "name": "EMSA-SG European prospective natural-history cohort",
+      "n": "~140 (prospective)",
+      "region": "Europe",
+      "sources": [
+        {
+          "label": "EMSA-SG natural history, Lancet Neurol 2013",
+          "url": "https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(12)70327-7/fulltext"
+        },
+        {
+          "label": "EMSA-SG progression, Geser 2006 (PubMed)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/16161136/"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "label": "EMSA-SG 自然史 Lancet Neurol 2013",
+        "url": "https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(12)70327-7/fulltext"
+      },
+      {
+        "label": "EMSA-SG 進展 Geser 2006 (PubMed)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16161136/"
+      }
+    ]
+  },
+  {
+    "id": "namsa",
+    "name": "NAMSA 北美前瞻世代",
+    "nameEn": "NAMSA North American prospective cohort",
+    "scope": "MSA",
+    "group": "Low、Singer 等（北美 MSA 研究聯盟）",
+    "n": "175",
+    "year": 2015,
+    "region": "北美",
+    "highlight": false,
+    "taiwan": "",
+    "findings": "北美最大 MSA 前瞻世代。收案多屬較晚期，自基線起中位存活約 1.8 年；確立 UMSARS 進展與自律神經、跌倒等預後因子。",
+    "significance": "→ 北美對照基準；晚期收案的快速惡化，提醒 MSA 介入宜在較早期進行。",
+    "en": {
+      "group": "Low, Singer et al. (North American MSA consortium)",
+      "findings": "The largest North American prospective MSA cohort; enrollment skewed to later disease, median survival ~1.8 years from baseline; characterized UMSARS progression and autonomic/falls prognostic factors.",
+      "significance": "North American comparator baseline; rapid decline in late-stage enrollment argues for earlier MSA intervention.",
+      "taiwan": "",
+      "name": "NAMSA North American prospective cohort",
+      "region": "North America",
+      "sources": [
+        {
+          "label": "NAMSA natural history, Low 2015 Lancet Neurol (PMC)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4472464/"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "label": "NAMSA 自然史 Low 2015 Lancet Neurol (PMC)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4472464/"
+      }
+    ]
+  },
+  {
+    "id": "msa-survival",
+    "name": "MSA 存活與病程總覽",
+    "nameEn": "MSA survival & disease-course overview",
+    "scope": "MSA-P / MSA-C",
+    "group": "多世代整合（文獻回顧）",
+    "n": "",
+    "year": 2022,
+    "region": "跨國",
+    "highlight": false,
+    "taiwan": "台灣本土 MSA 大型自然史/存活世代資料公開來源有限（需查證）。",
+    "findings": "MSA 自症狀發作起中位存活約 6–10 年（範圍差異大）。亞型：西方以 MSA-P 較多、亞洲（含日本）以 MSA-C 較多。近年以疾病進展模型（Kühnel 2022）預測個體軌跡與試驗豐富化。",
+    "significance": "→ 亞洲 MSA-C 比例較高，與仲恩 MSC 的小腦保護敘事潛在契合；但存活短、病程快，是 MSA 商業與試驗設計的關鍵限制。",
+    "en": {
+      "group": "Multi-cohort synthesis (literature review)",
+      "findings": "Median survival from symptom onset ~6–10 years (wide range). Subtypes: MSA-P predominates in the West, MSA-C in Asia (incl. Japan). Recent progression-modeling (Kühnel 2022) predicts individual trajectories and enriches trials.",
+      "significance": "Asia's higher MSA-C share potentially fits Steminent's MSC cerebellar-protection narrative; but short survival and fast course are key constraints for MSA commercialization and trial design.",
+      "taiwan": "Large Taiwan-native MSA natural-history/survival cohort data limited in public sources (to verify).",
+      "name": "MSA survival and disease course overview",
+      "region": "Cross-country",
+      "sources": [
+        {
+          "label": "MSA progression model, Kühnel 2022 Mov Disord",
+          "url": "https://movementdisorders.onlinelibrary.wiley.com/doi/10.1002/mds.29077"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "label": "MSA 進展模型 Kühnel 2022 Mov Disord",
+        "url": "https://movementdisorders.onlinelibrary.wiley.com/doi/10.1002/mds.29077"
+      }
+    ]
+  }
+]

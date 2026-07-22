@@ -1,0 +1,82 @@
+[
+  {
+    "id": "gci-target",
+    "topic": "病理與標的：寡突膠質 α-synuclein 堆疊 (GCI)",
+    "nameEn": "Pathology & target: oligodendroglial alpha-synuclein (GCIs)",
+    "highlight": true,
+    "finding": "MSA 的病理標記為寡突膠質細胞內的 α-synuclein 異常堆疊（膠質細胞質包涵體 GCI），伴隨類普里昂式擴散、髓鞘與神經元退化。此為多數在研療法（anti-aSyn 抗體、ASO、聚集抑制劑）的共同標的。",
+    "significance": "→ 與 SCA 的 polyQ 蛋白堆疊不同標的，但同屬「異常蛋白堆疊→神經退化」大機轉——正是 Philip 提出的機轉重疊邏輯：神經保護/清除異常蛋白的細胞療法在此有立足點。",
+    "en": {
+      "finding": "MSA's pathological hallmark is abnormal alpha-synuclein accumulation inside oligodendrocytes (glial cytoplasmic inclusions, GCIs), with prion-like spread, demyelination and neuronal degeneration — the shared target of most pipeline therapies (anti-aSyn antibodies, ASOs, aggregation inhibitors).",
+      "significance": "A different target from SCA's polyQ aggregation, but the same broad mechanism (abnormal protein aggregation to neurodegeneration) — exactly Philip's mechanism-overlap logic: neuroprotective/clearance cell therapy has a foothold here.",
+      "sources": [
+        {
+          "label": "Review of disease-modifying therapy and mechanisms in MSA, 2022 (PMC)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9398078/"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "label": "MSA 疾病修飾療法與機轉回顧 2022 (PMC)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9398078/"
+      }
+    ]
+  },
+  {
+    "id": "neuroinflammation",
+    "topic": "神經發炎與膠細胞失能",
+    "nameEn": "Neuroinflammation & glial dysfunction",
+    "highlight": false,
+    "finding": "MSA 病程伴隨顯著微膠細胞活化與神經發炎，被視為驅動退化的重要因子（verdiperstat 的 MPO 抑制即針對此）。",
+    "significance": "→ MSC 的抗發炎/免疫調節旁分泌作用正對應此機轉，是 MSC 治 MSA 的理論基礎之一。",
+    "en": {
+      "finding": "MSA involves marked microglial activation and neuroinflammation, viewed as a driver of degeneration (verdiperstat's MPO inhibition targeted this).",
+      "significance": "MSC's anti-inflammatory/immunomodulatory paracrine action maps onto this mechanism — one theoretical basis for MSC in MSA.",
+      "sources": [
+        {
+          "label": "Review of disease-modifying therapy and mechanisms in MSA, 2022 (PMC)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9398078/"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "label": "MSA 疾病修飾療法與機轉回顧 2022 (PMC)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9398078/"
+      }
+    ]
+  },
+  {
+    "id": "msc-moa",
+    "topic": "MSC 作用機轉與臨床前證據",
+    "nameEn": "MSC mechanism of action & preclinical evidence",
+    "highlight": true,
+    "finding": "MSC 於 MSA 的機轉為旁分泌（神經營養因子、抗發炎、抗氧化、免疫調節）而非細胞替代；MSA 動物模型（含 α-synuclein 過表現/雙轉基因鼠）之 MSC 移植研究顯示神經保護與功能改善。系統性回顧綜整多項人體與臨床前證據，整體安全、療效訊號正向但仍需大型對照試驗。",
+    "significance": "→ 直接支撐仲恩若延伸至 MSA 的機轉敘事（與 Stemchymal 在 SCA 的旁分泌神經保護一致）；但 MSA 病程快、標的（aSyn）與 SCA（polyQ）不同，療效與收案時機需審慎設計。",
+    "en": {
+      "finding": "In MSA, MSCs act by paracrine effects (neurotrophic, anti-inflammatory, antioxidant, immunomodulatory) rather than cell replacement; MSC transplantation in MSA animal models (incl. alpha-synuclein-overexpressing/double-transgenic mice) shows neuroprotection and functional improvement. A systematic review synthesizes human and preclinical evidence: broadly safe, positive signal, but larger controlled trials still needed.",
+      "significance": "Directly supports Steminent's mechanism narrative if it extends to MSA (consistent with Stemchymal's paracrine neuroprotection in SCA); but MSA's fast course and different target (aSyn vs polyQ) require careful efficacy/enrollment design.",
+      "sources": [
+        {
+          "label": "Systematic review of MSC therapy in MSA (PMC)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13050157/"
+        },
+        {
+          "label": "Korean randomised MSC trial in MSA, Lee 2012",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/22829267/"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "label": "MSC 治療 MSA 系統性回顧 (PMC)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13050157/"
+      },
+      {
+        "label": "韓國 MSC MSA 隨機試驗 Lee 2012",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22829267/"
+      }
+    ]
+  }
+]

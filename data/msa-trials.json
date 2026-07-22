@@ -1,0 +1,143 @@
+[
+  {
+    "nct": "NCT06706622",
+    "drug": "Amlenetug（Lu AF82422）",
+    "mechanism": "抗 α-synuclein 單株抗體",
+    "phase": "Ph3（MASCOT）",
+    "status": "已停止收案、試驗進行中",
+    "sponsor": "H. Lundbeck A/S",
+    "cell": false,
+    "primary": "2028-02-17",
+    "url": "https://clinicaltrials.gov/study/NCT06706622",
+    "en": {
+      "mechanism": "Anti-α-synuclein monoclonal antibody",
+      "phase": "Ph3 (MASCOT)",
+      "status": "Active, not recruiting",
+      "sponsor": "H. Lundbeck A/S"
+    }
+  },
+  {
+    "nct": "NCT06568237",
+    "drug": "Emrusolmin（TEV-56286）",
+    "mechanism": "α-synuclein 寡聚體標的",
+    "phase": "Ph2（TOPAS-MSA）",
+    "status": "收案中",
+    "sponsor": "Teva",
+    "cell": false,
+    "primary": "2027-09-15",
+    "url": "https://clinicaltrials.gov/study/NCT06568237",
+    "en": {
+      "mechanism": "Targets α-synuclein oligomers",
+      "phase": "Ph2 (TOPAS-MSA)",
+      "status": "Recruiting",
+      "sponsor": "Teva"
+    }
+  },
+  {
+    "nct": "NCT07197866",
+    "drug": "Emrusolmin（TEV-56286）延伸試驗",
+    "mechanism": "α-synuclein 寡聚體標的",
+    "phase": "Ph2 延伸",
+    "status": "收案中",
+    "sponsor": "Teva",
+    "cell": false,
+    "primary": "2029-05-03",
+    "url": "https://clinicaltrials.gov/study/NCT07197866",
+    "en": {
+      "drug": "Emrusolmin (TEV-56286) extension",
+      "mechanism": "Targets α-synuclein oligomers",
+      "phase": "Ph2 extension",
+      "status": "Recruiting",
+      "sponsor": "Teva"
+    }
+  },
+  {
+    "nct": "NCT05923866",
+    "drug": "ONO-2808",
+    "mechanism": "S1P5 受體促效劑",
+    "phase": "Ph2",
+    "status": "已停止收案、試驗進行中",
+    "sponsor": "小野藥品 Ono",
+    "cell": false,
+    "primary": "2025-09-15",
+    "url": "https://clinicaltrials.gov/study/NCT05923866",
+    "en": {
+      "mechanism": "S1P5 receptor agonist",
+      "phase": "Ph2",
+      "status": "Active, not recruiting",
+      "sponsor": "Ono Pharmaceutical"
+    }
+  },
+  {
+    "nct": "NCT05167721",
+    "drug": "鞘內自體間質幹細胞（MSC）",
+    "mechanism": "自體脂肪 MSC，鞘內注射",
+    "phase": "Ph2（隨機雙盲、適應性設計）",
+    "status": "已停止收案、試驗進行中",
+    "sponsor": "Mayo Clinic",
+    "cell": true,
+    "primary": "2026-12",
+    "url": "https://clinicaltrials.gov/study/NCT05167721",
+    "en": {
+      "drug": "Intrathecal autologous mesenchymal stem cells",
+      "mechanism": "Autologous adipose MSC, intrathecal",
+      "phase": "Ph2 (randomised, double-blind, adaptive)",
+      "status": "Active, not recruiting",
+      "sponsor": "Mayo Clinic"
+    }
+  },
+  {
+    "nct": "NCT06868628",
+    "drug": "Foralumab 鼻噴",
+    "mechanism": "anti-CD3 免疫調節",
+    "phase": "Ph2a",
+    "status": "收案中",
+    "sponsor": "Tiziana Life Sciences",
+    "cell": false,
+    "primary": "2027-04-01",
+    "url": "https://clinicaltrials.gov/study/NCT06868628",
+    "en": {
+      "drug": "Nasal foralumab",
+      "mechanism": "Anti-CD3 immune modulation",
+      "phase": "Ph2a",
+      "status": "Recruiting",
+      "sponsor": "Tiziana Life Sciences"
+    }
+  },
+  {
+    "nct": "NCT07617012",
+    "drug": "XS411CN 多巴胺神經前驅細胞",
+    "mechanism": "細胞替代（MSA-P）",
+    "phase": "Ph1",
+    "status": "尚未開始收案",
+    "sponsor": "XellSmart（蘇州）",
+    "cell": true,
+    "primary": "2026-08-30",
+    "url": "https://clinicaltrials.gov/study/NCT07617012",
+    "en": {
+      "drug": "XS411CN dopaminergic neural progenitor cells",
+      "mechanism": "Cell replacement (MSA-P)",
+      "phase": "Ph1",
+      "status": "Not yet recruiting",
+      "sponsor": "XellSmart (Suzhou)"
+    }
+  },
+  {
+    "nct": "NCT04165486",
+    "drug": "ION464（BIIB101）",
+    "mechanism": "α-synuclein 反義寡核苷酸（鞘內）",
+    "phase": "Ph1（HORIZON）",
+    "status": "Biogen 於 2025/02 宣布終止開發",
+    "sponsor": "Ionis／Biogen",
+    "cell": false,
+    "primary": "—",
+    "url": "https://clinicaltrials.gov/study/NCT04165486",
+    "en": {
+      "drug": "ION464 (BIIB101)",
+      "mechanism": "α-synuclein antisense oligonucleotide (intrathecal)",
+      "phase": "Ph1 (HORIZON)",
+      "status": "Biogen announced discontinuation in 2025/02",
+      "sponsor": "Ionis / Biogen"
+    }
+  }
+]

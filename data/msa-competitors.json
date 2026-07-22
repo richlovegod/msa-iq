@@ -1,0 +1,380 @@
+[
+  {
+    "id": "msc-mayo",
+    "company": "Mayo Clinic（學術）",
+    "drug": "鞘內自體脂肪 MSC",
+    "mechanism": "自體脂肪間質幹細胞（鞘內注射）",
+    "phase": "Ph1/2 → Ph2/3",
+    "status": "進行中（NCT05167721 隨機雙盲對照）",
+    "highlight": true,
+    "relevance": "最相關類比",
+    "note": "→ 與 Stemchymal 機制最接近的 MSA 案（脂肪 MSC）。Ph1/2：24 人、10–200M 細胞鞘內；UMSARS 進展較配對對照顯著減緩；惟最高劑量 200M 有腰神經根增厚/疼痛（4 中 3 人），25M 劑量安全性較佳。→ 給仲恩的教訓：劑量與給藥途徑（鞘內 vs 靜脈）攸關安全窗口。",
+    "en": {
+      "note": "The closest analog to Stemchymal (adipose MSC) in MSA. Ph1/2: 24 patients, 10–200M cells intrathecal; UMSARS progression markedly slower vs matched controls; but the top 200M dose caused lumbar nerve-root thickening/pain (3 of 4), while 25M was safer. Lesson for Steminent: dose and route (intrathecal vs IV) drive the safety window.",
+      "company": "Mayo Clinic (academic)",
+      "drug": "Intrathecal autologous adipose MSC",
+      "mechanism": "Autologous adipose mesenchymal stem cells (intrathecal)",
+      "phase": "Ph1/2 → Ph2",
+      "status": "Ongoing (NCT05167721, randomised double-blind controlled)",
+      "relevance": "Closest analogue",
+      "sources": [
+        {
+          "label": "Mayo intrathecal autologous MSC trial NCT05167721",
+          "url": "https://clinicaltrials.gov/study/NCT05167721"
+        },
+        {
+          "label": "Systematic review of MSC therapy in MSA (PMC)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13050157/"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "label": "Mayo 鞘內自體 MSC 試驗 NCT05167721",
+        "url": "https://clinicaltrials.gov/study/NCT05167721"
+      },
+      {
+        "label": "MSC 治療 MSA 系統性回顧 (PMC)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13050157/"
+      }
+    ],
+    "category": "cell"
+  },
+  {
+    "id": "msc-korea",
+    "company": "Yonsei（南韓，學術）",
+    "drug": "自體骨髓 MSC",
+    "mechanism": "自體骨髓間質幹細胞（動脈內＋靜脈）",
+    "phase": "隨機試驗",
+    "status": "已發表（2012）",
+    "highlight": true,
+    "relevance": "最相關類比",
+    "note": "→ MSA-C 隨機試驗（33 人，MSC 動脈內＋靜脈 vs 安慰劑）：MSC 組 UMSARS 總分與 Part II 惡化顯著較小（p=0.047、0.008），腦部葡萄糖代謝/灰質密度下降較少；無直接相關嚴重不良事件。是「異體 MSC 治 MSA」概念的早期人體佐證。",
+    "en": {
+      "note": "MSA-C randomized trial (33 patients, MSC intra-arterial + IV vs placebo): the MSC group had significantly smaller increases in total and Part II UMSARS (p=0.047, 0.008) and less decline in cerebral glucose metabolism/grey-matter density; no directly-related serious AEs. Early human support for MSC in MSA.",
+      "company": "Yonsei (South Korea, academic)",
+      "drug": "Autologous bone-marrow MSC",
+      "mechanism": "Autologous bone-marrow mesenchymal stem cells (intra-arterial + IV)",
+      "phase": "Randomised trial",
+      "status": "Published (2012)",
+      "relevance": "Closest analogue",
+      "sources": [
+        {
+          "label": "Korean randomised MSC trial in MSA, Lee 2012 (PubMed)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/22829267/"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "label": "韓國 MSC MSA 隨機試驗 Lee 2012 (PubMed)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22829267/"
+      }
+    ],
+    "category": "cell"
+  },
+  {
+    "id": "ath434",
+    "company": "Alterity Therapeutics",
+    "drug": "ATH434",
+    "mechanism": "小分子（調節鐵/抑制 α-synuclein 聚集）",
+    "phase": "Ph2 → Ph3",
+    "status": "Ph2 正面（2025/01 topline，modified UMSARS-I 顯著改善）、推進 Ph3",
+    "highlight": false,
+    "relevance": "機制對手（正面）",
+    "note": "→ 目前 MSA 小分子最亮眼者：ATH434-201 於 modified UMSARS Part I 達統計與臨床顯著；獲 FDA Fast Track。屬 α-synuclein/鐵路線，與細胞治療機制不同。",
+    "en": {
+      "note": "The standout MSA small molecule: ATH434-201 hit statistically and clinically significant improvement on modified UMSARS Part I; FDA Fast Track. An alpha-synuclein/iron route, distinct from cell therapy.",
+      "mechanism": "Small molecule (iron modulation / inhibits α-synuclein aggregation)",
+      "status": "Positive Ph2 (2025/01 topline: significant improvement on modified UMSARS-I); advancing",
+      "relevance": "Mechanistic peer (positive)",
+      "sources": [
+        {
+          "label": "ATH434 Ph2 trial NCT05109091",
+          "url": "https://clinicaltrials.gov/study/NCT05109091"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "label": "ATH434 Ph2 試驗 NCT05109091",
+        "url": "https://clinicaltrials.gov/study/NCT05109091"
+      }
+    ],
+    "category": "dmt"
+  },
+  {
+    "id": "amlenetug",
+    "company": "Lundbeck",
+    "drug": "Amlenetug (Lu AF82422)",
+    "mechanism": "抗 α-synuclein 單株抗體",
+    "phase": "Ph3",
+    "status": "AMULET Ph2 顯示疾病修飾潛力；MASCOT Ph3 進行中；FDA Fast Track",
+    "highlight": false,
+    "relevance": "機制對手（領先）",
+    "note": "→ 大藥廠押注的 anti-aSyn 抗體，已進 Ph3（MASCOT）。若成功將重塑 MSA 疾病修飾標準，是 MSA 賽道最需盯的資產。",
+    "en": {
+      "note": "Big-pharma anti-alpha-synuclein antibody now in Ph3 (MASCOT). If successful it would reset the MSA disease-modifying standard — the key MSA asset to watch.",
+      "mechanism": "Anti-α-synuclein monoclonal antibody",
+      "status": "AMULET Ph2 suggested disease-modifying potential; MASCOT Ph3 ongoing; FDA Fast Track",
+      "relevance": "Mechanistic peer (most advanced)"
+    },
+    "sources": [
+      {
+        "label": "Amlenetug MASCOT Ph3 NCT06706622",
+        "url": "https://clinicaltrials.gov/study/NCT06706622"
+      },
+      {
+        "label": "AMULET Ph2 NCT05104476",
+        "url": "https://clinicaltrials.gov/study/NCT05104476"
+      }
+    ],
+    "category": "asyn"
+  },
+  {
+    "id": "ion464",
+    "company": "Biogen / Ionis",
+    "drug": "ION464 (BIIB101)",
+    "mechanism": "反義寡核苷酸 ASO（標的 SNCA/α-synuclein）",
+    "phase": "Ph1（HORIZON）",
+    "status": "2025/02 Biogen 宣布終止開發",
+    "highlight": false,
+    "relevance": "機制對手（退場）",
+    "note": "→ HORIZON Ph1 安全可耐受，但 Biogen 於 2025/02 終止 ION464——與其退出 SCA3 ASO 同一模式（大廠反覆退出神經退化 ASO）。反襯細胞治療路線的差異化。",
+    "en": {
+      "note": "HORIZON Ph1 was safe/tolerated, but Biogen discontinued ION464 in Feb 2025 — the same pattern as its SCA3 ASO exit. Highlights the differentiation of the cell-therapy route.",
+      "mechanism": "Antisense oligonucleotide targeting SNCA/α-synuclein",
+      "status": "Biogen announced discontinuation in 2025/02",
+      "relevance": "Mechanistic peer (exited)"
+    },
+    "sources": [
+      {
+        "label": "ION464 HORIZON Ph1 NCT04165486",
+        "url": "https://clinicaltrials.gov/study/NCT04165486"
+      },
+      {
+        "label": "ION464 (ALZFORUM)",
+        "url": "https://www.alzforum.org/therapeutics/ion464"
+      }
+    ],
+    "category": "asyn"
+  },
+  {
+    "id": "verdiperstat",
+    "company": "Biohaven",
+    "drug": "Verdiperstat",
+    "mechanism": "髓過氧化物酶 MPO 抑制劑（抗神經發炎）",
+    "phase": "Ph3（已失敗）",
+    "status": "M-STAR Ph3 未達終點（2021）",
+    "highlight": false,
+    "relevance": "機制對手（失敗）",
+    "note": "→ 抗神經發炎小分子，M-STAR Ph3 於 MSA 未達主要終點。與 Biohaven 的 SCA 對手 troriluzole 同屬「症狀期難達標」教訓。",
+    "en": {
+      "note": "An anti-neuroinflammatory small molecule; the M-STAR Ph3 failed its MSA primary endpoint (2021). Another 'hard to hit endpoints in symptomatic disease' lesson, akin to Biohaven's SCA drug troriluzole.",
+      "mechanism": "Myeloperoxidase (MPO) inhibitor (anti-neuroinflammatory)",
+      "phase": "Ph3 (failed)",
+      "status": "M-STAR Ph3 missed its endpoints (2021)",
+      "relevance": "Mechanistic peer (failed)",
+      "sources": [
+        {
+          "label": "Review of disease-modifying therapy in MSA, 2022 (PMC)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9398078/"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "label": "MSA 疾病修飾療法回顧 2022 (PMC)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9398078/"
+      }
+    ],
+    "category": "dmt"
+  },
+  {
+    "id": "ono-2808",
+    "category": "dmt",
+    "company": "小野藥品 Ono Pharmaceutical（與 Deciphera）",
+    "drug": "ONO-2808",
+    "mechanism": "S1P5 受體促效劑（口服）",
+    "phase": "Ph2（NCT05923866）",
+    "status": "雙盲核心部分完成，規劃 Ph3",
+    "highlight": true,
+    "relevance": "進度最前段之一",
+    "note": "→ 2025/10 公司公布期中分析見療效訊號；2026/05 於第 7 屆世界帕金森大會（WPC）發表 24 週雙盲核心部分：MSA-P 次族群 mUMSARS 自基線變化 安慰劑 3.90 vs 中劑量 1.39、高劑量 1.16；TEAE 發生率與安慰劑相當（91% vs 93%）；MRI 見劑量依存的腦萎縮抑制傾向。公司表示與 Deciphera 規劃樞紐性 Ph3。（次族群結果、非全體主要終點）",
+    "en": {
+      "company": "Ono Pharmaceutical (with Deciphera)",
+      "mechanism": "S1P5 receptor agonist (oral)",
+      "phase": "Ph2 (NCT05923866)",
+      "status": "Double-blind core part complete; Ph3 planned",
+      "relevance": "Among the most advanced",
+      "note": "Ono reported efficacy signals at an interim analysis in 2025/10, and presented the 24-week double-blind core part at the 7th World Parkinson Congress in 2026/05: in the MSA-P subgroup, change from baseline in mUMSARS was 3.90 on placebo vs 1.39 (medium dose) and 1.16 (high dose); TEAE rates were similar to placebo (91% vs 93%); MRI showed a dose-dependent trend toward suppressed brain atrophy. Ono and Deciphera plan a pivotal Ph3. (Subgroup findings, not an overall primary endpoint.)",
+      "sources": [
+        {
+          "label": "Ono interim analysis release, 2025/10/09",
+          "url": "https://www.ono-pharma.com/en/news/20251009.html"
+        },
+        {
+          "label": "Ono WPC presentation release, 2026/05",
+          "url": "https://www.ono-pharma.com/en/news/20260528.html"
+        },
+        {
+          "label": "ClinicalTrials NCT05923866",
+          "url": "https://clinicaltrials.gov/study/NCT05923866"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "label": "Ono 期中分析新聞稿 2025/10/09",
+        "url": "https://www.ono-pharma.com/en/news/20251009.html"
+      },
+      {
+        "label": "Ono WPC 發表新聞稿 2026/05",
+        "url": "https://www.ono-pharma.com/en/news/20260528.html"
+      },
+      {
+        "label": "ClinicalTrials NCT05923866",
+        "url": "https://clinicaltrials.gov/study/NCT05923866"
+      }
+    ]
+  },
+  {
+    "id": "tev-56286",
+    "category": "asyn",
+    "company": "Teva",
+    "drug": "Emrusolmin（TEV-56286）",
+    "mechanism": "標的病理性 α-synuclein 寡聚體（口服）",
+    "phase": "Ph2 TOPAS-MSA（NCT06568237）",
+    "status": "收案中；另有延伸試驗 NCT07197866",
+    "highlight": false,
+    "relevance": "α-syn 路線主要在研者",
+    "note": "→ 多中心雙盲隨機安慰劑對照，48 週治療、每人約 56 週；收臨床可能／很可能 MSA 且能獨立行走 10 公尺者；站點含美、以、義、西、德、法、日、塞爾維亞。2025 獲 FDA 快速通道資格。尚無療效讀出。",
+    "en": {
+      "mechanism": "Targets pathological α-synuclein oligomers (oral)",
+      "phase": "Ph2 TOPAS-MSA (NCT06568237)",
+      "status": "Recruiting; extension trial NCT07197866",
+      "relevance": "A leading α-syn-directed programme",
+      "note": "Multicentre, double-blind, randomised, placebo-controlled: 48 weeks of treatment, ~56 weeks per participant; enrols clinically possible/probable MSA able to walk 10 m unaided; sites in the US, Israel, Italy, Spain, Germany, France, Japan and Serbia. FDA Fast Track granted in 2025. No efficacy readout yet.",
+      "sources": [
+        {
+          "label": "ClinicalTrials NCT06568237",
+          "url": "https://clinicaltrials.gov/study/NCT06568237"
+        },
+        {
+          "label": "Extension trial NCT07197866",
+          "url": "https://clinicaltrials.gov/study/NCT07197866"
+        },
+        {
+          "label": "Teva Fast Track release, 2025",
+          "url": "https://ir.tevapharm.com/news-and-events/press-releases/press-release-details/2025/Tevas-Emrusolmin-Granted-U-S--FDA-Fast-Track-Designation-for-Treatment-of-Multiple-System-Atrophy/default.aspx"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "label": "ClinicalTrials NCT06568237",
+        "url": "https://clinicaltrials.gov/study/NCT06568237"
+      },
+      {
+        "label": "延伸試驗 NCT07197866",
+        "url": "https://clinicaltrials.gov/study/NCT07197866"
+      },
+      {
+        "label": "Teva 快速通道新聞稿 2025",
+        "url": "https://ir.tevapharm.com/news-and-events/press-releases/press-release-details/2025/Tevas-Emrusolmin-Granted-U-S--FDA-Fast-Track-Designation-for-Treatment-of-Multiple-System-Atrophy/default.aspx"
+      }
+    ]
+  },
+  {
+    "id": "foralumab",
+    "category": "immune",
+    "company": "Tiziana Life Sciences",
+    "drug": "Foralumab（鼻噴）",
+    "mechanism": "全人源 anti-CD3 單株抗體，經鼻黏膜免疫調節、降低微膠細胞活化",
+    "phase": "Ph2a（NCT06868628）",
+    "status": "收案中",
+    "highlight": false,
+    "relevance": "免疫調節路線（與 MSC 抗神經發炎機制相鄰）",
+    "note": "→ 以 PET 影像測微膠細胞活化為主要評估。2026/05/14 公司公布前 2 名 MSA 受試者的定量 PET：基底核與視丘攝取顯著下降。**僅 2 人、極早期，尚無臨床療效數據。**",
+    "en": {
+      "mechanism": "Fully human anti-CD3 monoclonal antibody given nasally; immune modulation reducing microglial activation",
+      "phase": "Ph2a (NCT06868628)",
+      "status": "Recruiting",
+      "relevance": "Immune-modulation route (adjacent to the anti-neuroinflammatory MSC mechanism)",
+      "note": "Microglial activation on PET is the primary measure. On 2026/05/14 the company reported quantitative PET from its first 2 MSA patients: significantly reduced basal ganglia and thalamic uptake. **Only 2 patients, very early, with no clinical efficacy data yet.**",
+      "drug": "Foralumab (nasal)",
+      "sources": [
+        {
+          "label": "ClinicalTrials NCT06868628",
+          "url": "https://clinicaltrials.gov/study/NCT06868628"
+        },
+        {
+          "label": "Tiziana PET results release, 2026/05/14",
+          "url": "https://www.globenewswire.com/news-release/2026/05/14/3294743/0/en/Tiziana-Reports-Reduced-Brain-Inflammation-in-Multiple-System-Atrophy-Patients-Treated-with-Intranasal-Foralumab.html"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "label": "ClinicalTrials NCT06868628",
+        "url": "https://clinicaltrials.gov/study/NCT06868628"
+      },
+      {
+        "label": "Tiziana PET 結果新聞稿 2026/05/14",
+        "url": "https://www.globenewswire.com/news-release/2026/05/14/3294743/0/en/Tiziana-Reports-Reduced-Brain-Inflammation-in-Multiple-System-Atrophy-Patients-Treated-with-Intranasal-Foralumab.html"
+      }
+    ]
+  },
+  {
+    "id": "xs411cn",
+    "category": "cell",
+    "company": "星奕昂／XellSmart Bio-Pharmaceutical（蘇州）",
+    "drug": "XS411CN 多巴胺神經前驅細胞",
+    "mechanism": "多巴胺神經前驅細胞移植（細胞替代）",
+    "phase": "Ph1（NCT07617012）",
+    "status": "尚未開始收案",
+    "highlight": true,
+    "relevance": "細胞治療新進者（中國）",
+    "note": "→ 針對帕金森型 MSA（MSA-P）的細胞治療 Ph1，登錄於 ClinicalTrials.gov、預計主要完成 2026/08。與 MSC 的「旁分泌保護」不同，屬**細胞替代**路線。尚無任何臨床數據。",
+    "en": {
+      "company": "XellSmart Bio-Pharmaceutical (Suzhou)",
+      "drug": "XS411CN dopaminergic neural progenitor cells",
+      "mechanism": "Dopaminergic neural progenitor cell transplantation (cell replacement)",
+      "phase": "Ph1 (NCT07617012)",
+      "status": "Not yet recruiting",
+      "relevance": "New cell-therapy entrant (China)",
+      "note": "A Phase 1 cell therapy in parkinsonian-type MSA (MSA-P), registered on ClinicalTrials.gov with primary completion estimated 2026/08. Unlike the paracrine protection of MSC, this is a **cell replacement** approach. No clinical data yet."
+    },
+    "sources": [
+      {
+        "label": "ClinicalTrials NCT07617012",
+        "url": "https://clinicaltrials.gov/study/NCT07617012"
+      }
+    ]
+  },
+  {
+    "id": "ampreloxetine",
+    "category": "sympt",
+    "company": "Theravance Biopharma",
+    "drug": "Ampreloxetine（TD-9855）",
+    "mechanism": "正腎上腺素回收抑制劑（治療神經性姿勢性低血壓 nOH，症狀治療）",
+    "phase": "隨機停藥試驗",
+    "status": "結果 2026 發表於 Neurology",
+    "highlight": false,
+    "relevance": "症狀治療（不改變病程）",
+    "note": "→ 73 名合併姿勢性低血壓的 MSA 病人；**試驗未達主要終點**，惟次要分析顯示隨機到安慰劑者惡化、續用者維持開放標籤期的功能水準，站立血壓於停藥後顯著下降。作者標為 Class III 證據。屬症狀控制，非疾病修飾。",
+    "en": {
+      "mechanism": "Norepinephrine reuptake inhibitor for neurogenic orthostatic hypotension (symptomatic)",
+      "phase": "Randomised withdrawal trial",
+      "status": "Published in Neurology, 2026",
+      "relevance": "Symptomatic treatment (not disease-modifying)",
+      "note": "73 MSA patients with orthostatic hypotension; **the trial did not meet its primary endpoints**, but secondary analysis showed patients randomised to placebo worsened while those continuing treatment maintained their open-label level of function, with standing blood pressure falling significantly after withdrawal. The authors rate it Class III evidence. Symptom control, not disease modification."
+    },
+    "sources": [
+      {
+        "label": "Freeman 2026 Neurology (PubMed 42475649)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42475649/"
+      }
+    ]
+  }
+]

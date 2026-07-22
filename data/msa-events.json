@@ -1,0 +1,50 @@
+[
+  {
+    "id": "mds-congress-2026",
+    "name": "MDS International Congress（國際動作障礙學會年會）",
+    "date": "2026-10-04",
+    "dateDisplay": "2026/10/04–08",
+    "location": "首爾 COEX",
+    "relevance": "動作障礙領域最大國際年會；MSA 臨床與在研療法發表重鎮（Alterity ATH434 曾於 2025 年會發表）。",
+    "highlight": false,
+    "url": "https://www.mdscongress.org/",
+    "competitors": [],
+    "en": {
+      "name": "MDS International Congress",
+      "location": "COEX, Seoul",
+      "relevance": "The largest international meeting in movement disorders and a key venue for MSA clinical and pipeline presentations (Alterity presented ATH434 data at the 2025 congress)."
+    }
+  },
+  {
+    "id": "intl-msa-congress",
+    "name": "International MSA Congress（Mission MSA）",
+    "date": null,
+    "dateDisplay": "",
+    "location": "—",
+    "relevance": "MSA 專屬國際科學暨臨床大會，集結研究者、臨床醫師、產業與病友。下屆日期待官網公布。",
+    "highlight": false,
+    "url": "https://missionmsa.org/internationalmsacongress/",
+    "competitors": [],
+    "en": {
+      "name": "International MSA Congress (Mission MSA)",
+      "location": "—",
+      "relevance": "The MSA-specific international scientific and clinical congress bringing together researchers, clinicians, industry and families. Next date to be announced."
+    }
+  },
+  {
+    "id": "msa-symposium-2026",
+    "name": "MSA Symposium 2026（MSA Trust）",
+    "date": "2026-05-18",
+    "dateDisplay": "2026/05/18",
+    "location": "倫敦 UCL",
+    "relevance": "英國 MSA Trust 主辦的研究者研討會。",
+    "highlight": false,
+    "url": "https://www.msatrust.org.uk/research/for-msa-researchers/research-events/msa-symposium-2026/",
+    "competitors": [],
+    "en": {
+      "name": "MSA Symposium 2026 (MSA Trust)",
+      "location": "UCL, London",
+      "relevance": "Researcher symposium hosted by the UK MSA Trust."
+    }
+  }
+]

@@ -1,0 +1,717 @@
+<!DOCTYPE html>
+<html lang="zh-Hant" data-lang="zh">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MSA-IQ｜多系統萎縮症情報監測站</title>
+<style>
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{font-family:"Segoe UI","Microsoft JhengHei",sans-serif;background:#0d141c;color:#e6edf3;padding:0 0 40px;zoom:1.22}
+  .wrap{max-width:1180px;margin:0 auto;padding:0 26px}
+  header{background:linear-gradient(180deg,#132234,#0d141c);border-bottom:1px solid #24384f;padding:22px 0 0}
+  .brand{display:flex;justify-content:space-between;align-items:flex-end;margin-bottom:16px}
+  .logo{font-size:24px;font-weight:800;color:#fff;letter-spacing:.5px}
+  .logo b{color:#4da3ff}
+  .logo .v{font-size:11px;color:#6a7c92;font-weight:600;margin-left:8px;vertical-align:middle}
+  .logo .relnote{font-size:11px;color:#7fb2ff;font-weight:600;margin-left:8px;vertical-align:middle;text-decoration:none;border:1px solid #2b4a7d;background:rgba(31,111,235,.12);border-radius:5px;padding:1px 8px}
+  .logo .relnote:hover{background:rgba(31,111,235,.24)}
+  .tag{font-size:12.5px;color:#8b9bb0;margin-top:5px}
+  .live{display:inline-block;width:8px;height:8px;background:#2ecc71;border-radius:50%;margin-right:6px;box-shadow:0 0 8px #2ecc71;animation:p 1.6s infinite}
+  @keyframes p{0%,100%{opacity:1}50%{opacity:.35}}
+  .meta{text-align:right;font-size:11.5px;color:#8b9bb0;line-height:1.6}
+  .meta b{color:#e6edf3}
+  nav{display:flex;gap:4px}
+  nav button{background:none;border:none;color:#8b9bb0;font-size:13.5px;font-family:inherit;padding:11px 18px;cursor:pointer;border-bottom:2.5px solid transparent;font-weight:600}
+  nav button:hover{color:#cfe0f2}
+  nav button.on{color:#4da3ff;border-bottom-color:#4da3ff}
+  .panel{display:none;padding-top:24px}
+  .panel.on{display:block}
+  .card{background:#141f2c;border:1px solid #243748;border-radius:10px;padding:18px 20px;margin-bottom:18px}
+  .card h2{font-size:13px;color:#4da3ff;text-transform:uppercase;letter-spacing:1px;margin-bottom:14px}
+  .grid2{display:grid;grid-template-columns:1.5fr 1fr;gap:18px}
+  .kpi{display:flex;gap:12px;margin-bottom:18px}
+  .kpi .box{flex:1;background:#182533;border:1px solid #243748;border-radius:9px;padding:14px 12px;text-align:center}
+  .kpi .n{font-size:26px;font-weight:800;color:#4da3ff}
+  .kpi .n.g{color:#6ee7a0}.kpi .n.r{color:#ff8a7a}
+  .kpi .l{font-size:11.5px;color:#c9d6e3;margin-top:5px;font-weight:600}
+  .kpi .d{font-size:10px;color:#8b9bb0;margin-top:3px;line-height:1.35}
+  table{width:100%;border-collapse:collapse;font-size:12.5px}
+  th{text-align:left;color:#8b9bb0;font-size:11px;text-transform:uppercase;letter-spacing:.6px;padding:9px 8px;border-bottom:1px solid #2b3a4d}
+  td{padding:11px 8px;border-bottom:1px solid #1c2a39;vertical-align:top;line-height:1.45}
+  tr.us td{background:#122a1f}
+  .pill{font-size:10.5px;font-weight:700;padding:3px 9px;border-radius:20px;white-space:nowrap}
+  .p-high{background:#4a1f1c;color:#ff8a7a}.p-mid{background:#4a3a1c;color:#ffce7a}
+  .p-low{background:#20303f;color:#9fb4cc}.p-us{background:#183a29;color:#6ee7a0}
+  .mod{color:#9fb4cc;font-size:11.5px}.co{font-weight:700;color:#fff}.asset{color:#4da3ff;font-size:11.5px}
+  .src{display:inline-block;margin-top:6px;font-size:10.5px;color:#4da3ff;text-decoration:none;border:1px solid #2b4a6d;border-radius:5px;padding:1px 7px;background:#12233a}
+  .src:hover{background:#1b3452;text-decoration:underline}
+  .filters{display:flex;gap:8px;margin-bottom:14px;flex-wrap:wrap}
+  .filters button{background:#182533;border:1px solid #2b3a4d;color:#9fb4cc;font-size:12px;font-family:inherit;padding:6px 14px;border-radius:20px;cursor:pointer}
+  .filters button.on{background:#1b3452;border-color:#4da3ff;color:#fff}
+  .digest li{list-style:none;padding:10px 0 10px 16px;border-left:3px solid #34506e;margin-bottom:9px;background:#182533;border-radius:0 6px 6px 0;font-size:13px;line-height:1.55}
+  .digest li.hot{border-left-color:#e74c3c}.digest li.win{border-left-color:#2ecc71}
+  .digest .tag{font-size:10.5px;font-weight:700;padding:2px 8px;border-radius:20px;margin-right:8px}
+  .t-hot{background:#4a1f1c;color:#ff8a7a}.t-win{background:#183a29;color:#6ee7a0}.t-info{background:#1f3350;color:#7db6ff}
+  .date{color:#6a7c92;font-size:11px;margin-left:6px}
+  .posit p{font-size:13px;line-height:1.7;color:#c9d6e3;margin-bottom:9px}
+  .posit .big{font-size:15px;color:#6ee7a0;font-weight:700;line-height:1.5}
+  /* timeline */
+  .tl{position:relative;padding-left:30px;margin-top:8px}
+  .tl::before{content:"";position:absolute;left:9px;top:6px;bottom:6px;width:2px;background:#2b3a4d}
+  .tl .ev{position:relative;margin-bottom:20px}
+  .tl .ev::before{content:"";position:absolute;left:-26px;top:3px;width:14px;height:14px;border-radius:50%;background:#4da3ff;border:3px solid #0d141c;box-shadow:0 0 0 2px #4da3ff}
+  .tl .ev.done::before{background:#2ecc71;box-shadow:0 0 0 2px #2ecc71}
+  .tl .ev.future::before{background:#0d141c;box-shadow:0 0 0 2px #6a7c92}
+  .tl .d1{font-size:12px;color:#4da3ff;font-weight:700}
+  .tl .ev.done .d1{color:#6ee7a0}.tl .ev.future .d1{color:#8b9bb0}
+  .tl .t1{font-size:14px;color:#fff;font-weight:600;margin:2px 0}
+  .tl .s1{font-size:12px;color:#9fb4cc;line-height:1.5}
+  .glossbox{background:#101c2a;border:1px solid #24384f;border-radius:9px;padding:16px 18px;font-size:12.5px;line-height:1.7}
+  .glossbox b{color:#4da3ff}
+  /* pipeline */
+  .plrow{display:grid;grid-template-columns:180px 1fr;gap:14px;align-items:center;margin-bottom:12px}
+  .plrow .nm{font-size:12.5px}.plrow .nm .co{display:block}.plrow .nm .asset{font-size:11px}
+  .track{position:relative;height:30px;background:#182533;border-radius:6px;display:flex;font-size:9.5px;color:#5b6c81}
+  .track .seg{flex:1;border-right:1px solid #22303f;display:flex;align-items:center;justify-content:center}
+  .track .seg:last-child{border-right:none}
+  .bar{position:absolute;top:4px;height:22px;border-radius:5px;display:flex;align-items:center;padding:0 8px;font-size:10.5px;font-weight:700;color:#0d141c;white-space:nowrap}
+  .b-us{background:linear-gradient(90deg,#2ecc71,#27ae60)}.b-mid{background:#ffce7a}.b-low{background:#5b7089;color:#cfe0f2}.b-stop{background:#7a4a4a;color:#ffd9d3}
+  /* arch */
+  .flow{display:flex;align-items:stretch;gap:0;flex-wrap:wrap}
+  .fcol{flex:1;min-width:180px}
+  .fbox{background:#182533;border:1px solid #2b3a4d;border-radius:8px;padding:12px 14px;margin-bottom:9px;font-size:12px;line-height:1.5}
+  .fbox b{color:#fff;font-size:12.5px}
+  .fhead{font-size:12px;color:#4da3ff;font-weight:700;text-transform:uppercase;letter-spacing:.6px;margin-bottom:10px;text-align:center}
+  .arrow{display:flex;align-items:center;justify-content:center;font-size:26px;color:#4da3ff;padding:0 10px}
+  .note{background:#122a1f;border:1px solid #1e5a3a;border-radius:8px;padding:12px 16px;font-size:12.5px;color:#a8e0c0;line-height:1.6;margin-top:14px}
+  .foot{margin-top:22px;font-size:11px;color:#6a7c92;line-height:1.7;border-top:1px solid #243748;padding-top:14px}
+  .foot b{color:#8b9bb0}
+  /* scan heartbeat (掃描心跳狀態列) */
+  .heartbeat{display:flex;align-items:flex-start;gap:10px;font-size:12.5px;padding:11px 15px;border-radius:8px;margin-bottom:16px;line-height:1.55}
+  .heartbeat .dot{width:9px;height:9px;border-radius:50%;flex:none;margin-top:5px}
+  .heartbeat b{color:#fff}
+  .heartbeat .sub{color:#8b9bb0;font-size:11.5px}
+  .heartbeat.ok{background:rgba(46,204,113,.08);border:1px solid #1e5a3a;color:#a8e0c0}
+  .heartbeat.ok .dot{background:#2ecc71;box-shadow:0 0 8px #2ecc71;animation:p 1.6s infinite}
+  .heartbeat.warn{background:rgba(255,206,122,.09);border:1px solid #6a5a2e;color:#f0d9a8}
+  .heartbeat.warn .dot{background:#ffce7a;box-shadow:0 0 8px #ffce7a}
+  .heartbeat.err{background:rgba(231,76,60,.09);border:1px solid #6a2e2e;color:#f0b8b0}
+  .heartbeat.err .dot{background:#e74c3c;box-shadow:0 0 8px #e74c3c}
+  /* 會議行事曆項目：即將(綠) vs 已結束(灰)，由日期自動切換 */
+  /* 會議雷達（events.json 動態渲染） */
+  .evt{padding:9px 0;border-bottom:1px solid #1c2a39}
+  .evt:last-child{border-bottom:none}
+  .evt .ed{font-size:11.5px;font-weight:700}
+  .evt .cd{font-size:11px;color:#8b9bb0;margin-left:7px;font-weight:400}
+  .evt .en{font-size:12.5px;font-weight:700;color:#cfe0f2;margin-top:2px}
+  .evt .em{font-size:11.5px;color:#9fb4cc;margin-top:2px;line-height:1.5}
+  .evt.up .ed{color:#6ee7a0}
+  .evt.up .cd{color:#6ee7a0}
+  .evt.tbd .ed,.evt.tbd .cd{color:#7db6ff}
+  .evt.past{opacity:.62}
+  .evt.past .ed,.evt.past .cd{color:#8b9bb0}
+  .evt .selfpill{font-size:10px;font-weight:700;color:#6ee7a0;background:#183a29;border-radius:20px;padding:1px 8px;margin-left:7px}
+  .evt .cmp{font-size:11.5px;color:#9fb4cc;margin-top:4px;padding-left:10px;border-left:2px solid #34506e;line-height:1.5}
+  /* 專利雷達（patents.json 動態渲染） */
+  .pat{padding:11px 0;border-bottom:1px solid #1c2a39}
+  .pat:last-child{border-bottom:none}
+  .pat .ph{font-size:12.5px;font-weight:700;color:#cfe0f2}
+  .pat .ptype{font-size:10px;font-weight:700;border-radius:20px;padding:1px 8px;margin-left:6px;background:#20303f;color:#9fb4cc}
+  .pat .pnum{font-size:11px;color:#7db6ff;margin-top:2px}
+  .pat .ptitle{font-size:11.5px;color:#9fb4cc;margin-top:1px;line-height:1.45}
+  .pat .pmeta{font-size:11px;color:#8b9bb0;margin-top:3px;line-height:1.5}
+  .pat .pmeta b{color:#c9d6e3}
+  .pat .pmeta .granted{color:#6ee7a0}
+  .pat .pmeta .pending{color:#ffce7a}
+  .pat .pnote{font-size:11.5px;color:#9fb4cc;margin-top:4px;line-height:1.55}
+  .pat.self{border-left:3px solid #2ecc71;padding-left:11px;background:#101f18;border-radius:0 6px 6px 0}
+  .rmsum{display:flex;gap:12px;margin-bottom:20px}
+  .rmsum .box{flex:1;background:#182533;border:1px solid #243748;border-radius:9px;padding:14px 10px;text-align:center}
+  .rmsum .n{font-size:20px;font-weight:800;color:#4da3ff}
+  .rmsum .n.g{color:#6ee7a0}
+  .rmsum .l{font-size:11px;color:#c9d6e3;margin-top:4px;line-height:1.4}
+  .phase{display:grid;grid-template-columns:128px 1fr;gap:16px;background:#141f2c;border:1px solid #243748;border-radius:10px;padding:15px 18px;margin-bottom:13px;border-left:4px solid #4da3ff}
+  .phase.done{border-left-color:#2ecc71}
+  .phase.wshop{border-left-color:#ffce7a}
+  .phase .wk{font-size:12.5px;color:#4da3ff;font-weight:700}
+  .phase.done .wk{color:#6ee7a0}.phase.wshop .wk{color:#ffce7a}
+  .phase .wk .dt{display:block;font-size:11px;color:#8b9bb0;margin-top:3px;font-weight:400}
+  .phase h3{font-size:14.5px;color:#fff;margin-bottom:7px}
+  .phase .dl{font-size:12.5px;color:#c9d6e3;line-height:1.75}
+  .phase .dl b{color:#6ee7a0}
+  .badge{display:inline-block;font-size:10.5px;padding:2px 9px;border-radius:20px;margin:8px 6px 0 0}
+  .b-h{background:#20303f;color:#9fb4cc}.b-risk{background:#183a29;color:#6ee7a0}
+  @media(max-width:820px){.grid2{grid-template-columns:1fr}.flow{flex-direction:column}.arrow{transform:rotate(90deg);padding:6px 0}.rmsum{flex-wrap:wrap}.phase{grid-template-columns:1fr}}
+  /* SCA 知識庫：語言切換 + 衡量面向 badge */
+  .kbtop{display:flex;align-items:center;gap:16px;flex-wrap:wrap;margin-bottom:16px}
+  .kblang{display:inline-flex;border:1px solid #2b4a6d;border-radius:20px;overflow:hidden}
+  .kblang button{background:#101c2a;border:none;color:#9fb4cc;font-family:inherit;font-size:12.5px;padding:5px 18px;cursor:pointer}
+  .kblang button.on{background:#1b3452;color:#fff;font-weight:700}
+  .kblegend{font-size:11px;color:#8b9bb0;display:flex;gap:14px;flex-wrap:wrap;align-items:center}
+  .dbadge{display:inline-block;font-size:10px;font-weight:700;padding:2px 8px;border-radius:20px;margin-left:6px;vertical-align:middle;white-space:nowrap}
+  .dbadge-phys{background:#14304a;color:#7db6ff;border:1px solid #24567f}
+  .dbadge-qol{background:#2a1f3f;color:#c7a3ff;border:1px solid #4a2f7d}
+  /* 競品全景 → 公司詳情 modal（drill-down） */
+  #lstab tr[data-co] td:first-child{cursor:pointer}
+  #lstab tr[data-co]:hover td{background:#16283a}
+  .co-cta{display:inline-block;font-size:9.5px;font-weight:700;color:#4da3ff;border:1px solid #2b4a6d;border-radius:20px;padding:1px 7px;margin-top:6px;background:#12233a;white-space:nowrap}
+  .comodal{display:none;position:fixed;inset:0;background:rgba(6,11,17,.74);z-index:100;overflow-y:auto;padding:34px 14px}
+  .comodal.on{display:block}
+  .cobox{max-width:880px;margin:0 auto;background:#0f1a26;border:1px solid #2b4a6d;border-radius:12px}
+  .cohead{position:sticky;top:0;background:linear-gradient(180deg,#14304a,#0f1a26);border-bottom:1px solid #24384f;border-radius:12px 12px 0 0;padding:16px 22px;display:flex;justify-content:space-between;align-items:flex-start;gap:12px}
+  .cohead .cname{font-size:18px;font-weight:800;color:#fff}
+  .cohead .cmeta{font-size:11.5px;color:#9fb4cc;margin-top:5px;line-height:1.65}
+  .cohead .cmeta b{color:#cfe0f2}
+  .coclose{background:#182533;border:1px solid #2b3a4d;color:#cfe0f2;font-size:16px;line-height:1;border-radius:8px;padding:6px 11px;cursor:pointer;flex:none}
+  .cobody{padding:16px 22px 22px}
+  .coins{background:#122a1f;border:1px solid #1e5a3a;border-radius:8px;padding:11px 14px;font-size:12.5px;color:#a8e0c0;line-height:1.6;margin-bottom:16px}
+  .cosec{margin-bottom:16px}
+  .cosec h4{font-size:11.5px;color:#4da3ff;text-transform:uppercase;letter-spacing:.6px;margin-bottom:8px;padding-bottom:5px;border-bottom:1px solid #22384a}
+  .corow{padding:8px 0;border-bottom:1px solid #1c2a39;font-size:12.5px;line-height:1.55;color:#c9d6e3}
+  .corow:last-child{border-bottom:none}
+  .corow b{color:#fff}
+  .co-empty{font-size:12px;color:#6a7c92;padding:2px 0}
+  .lit-co{display:inline-block;font-size:10px;font-weight:700;color:#7db6ff;background:#12233a;border:1px solid #2b4a6d;border-radius:20px;padding:1px 8px;margin-left:6px}
+  /* 全站中英切換：同一段內容中英各寫一份，依 <html data-lang> 顯示其一 */
+  html[data-lang="zh"] .i18n.en{display:none}
+  html[data-lang="en"] .i18n.zh{display:none}
+  .langsw{display:inline-flex;border:1px solid #2b4a6d;border-radius:20px;overflow:hidden;margin-top:7px}
+  .langsw button{background:#101c2a;border:none;color:#9fb4cc;font-family:inherit;font-size:11.5px;padding:4px 14px;cursor:pointer}
+  .langsw button.on{background:#1b3452;color:#fff;font-weight:700}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div class="brand">
+      <div>
+        <div class="logo">MSA<b>-IQ</b> <span class="v"><span class="i18n zh">多系統萎縮症情報監測站 · v1.0</span><span class="i18n en">Multiple System Atrophy Intelligence · v1.0</span></span></div>
+        <div class="tag"><span class="live"></span><span class="i18n zh">多系統萎縮症 (MSA) 治療研發情報 · AI 自動監測 · 每日掃描</span><span class="i18n en">Multiple system atrophy (MSA) therapeutic development intelligence · AI-monitored · daily scan</span></div>
+      </div>
+      <div class="meta">
+        <span class="i18n zh">最後掃描：</span><span class="i18n en">Last scan: </span><b id="lastScan">—</b><span id="scanFresh"></span><br>
+        <span class="i18n zh">下次掃描：</span><span class="i18n en">Next scan: </span><b id="nextScan">—</b><br>
+        <span class="i18n zh">監測來源：ClinicalTrials.gov · 各家 IR · PubMed · 學會與產業新聞</span><span class="i18n en">Sources: ClinicalTrials.gov · company IR · PubMed · society and trade press</span>
+        <div class="langsw"><button id="langZh" class="on" onclick="setLang('zh')">中文</button><button id="langEn" onclick="setLang('en')">EN</button></div>
+      </div>
+    </div>
+    <nav>
+      <button class="on" onclick="tab(event,'ov')"><span class="i18n zh">總覽</span><span class="i18n en">Overview</span></button>
+      <button onclick="tab(event,'ls')"><span class="i18n zh">在研療法全景</span><span class="i18n en">Therapy Landscape</span></button>
+      <button onclick="tab(event,'pl')"><span class="i18n zh">臨床開發進度</span><span class="i18n en">Clinical Development</span></button>
+      <button onclick="tab(event,'kb')"><span class="i18n zh">MSA 知識庫</span><span class="i18n en">MSA Knowledge Base</span></button>
+      <button onclick="tab(event,'si')"><span class="i18n zh">科學情報</span><span class="i18n en">Scientific Intel</span></button>
+      <button onclick="tab(event,'lg')"><span class="i18n zh">更新紀錄</span><span class="i18n en">Changelog</span></button>
+    </nav>
+  </div>
+</header>
+
+<div class="wrap">
+
+<!-- OVERVIEW -->
+<section id="ov" class="panel on">
+  <div class="kpi">
+    <div class="box"><div class="n" id="txCount">—</div><div class="l"><span class="i18n zh">追蹤中的療法</span><span class="i18n en">Therapies tracked</span></div><div class="d"><span class="i18n zh">含學術與產業在研案</span><span class="i18n en">Academic and industry programmes</span></div></div>
+    <div class="box"><div class="n g" id="ph3Count">—</div><div class="l"><span class="i18n zh">Ph3 疾病修飾試驗</span><span class="i18n en">Ph3 disease-modifying trials</span></div><div class="d"><span class="i18n zh">目前進行中</span><span class="i18n en">Currently running</span></div></div>
+    <div class="box"><div class="n" id="cellCount">—</div><div class="l"><span class="i18n zh">細胞治療案</span><span class="i18n en">Cell-therapy programmes</span></div><div class="d"><span class="i18n zh">MSC 與細胞替代路線</span><span class="i18n en">MSC and cell-replacement routes</span></div></div>
+    <div class="box"><div class="n" id="weekCount">0</div><div class="l"><span class="i18n zh">本週新增情報</span><span class="i18n en">New items this week</span></div><div class="d"><span class="i18n zh">見更新紀錄</span><span class="i18n en">See the changelog</span></div></div>
+  </div>
+  <div class="grid2">
+    <div class="card">
+      <h2><span class="i18n zh">◎ 領域焦點（AI 自動彙整）</span><span class="i18n en">◎ Field Highlights (AI-compiled)</span></h2>
+      <ul class="digest" id="digestList"></ul>
+    </div>
+    <div class="card posit">
+      <h2><span class="i18n zh">◎ 領域現況一頁看</span><span class="i18n en">◎ The Field at a Glance</span></h2>
+      <p class="big"><span class="i18n zh">「MSA 至今無疾病修飾療法獲准；2025–2026 出現數個正面 Ph2 訊號，但沒有一個已被 Ph3 證實。」</span><span class="i18n en">"No disease-modifying therapy is approved in MSA. Several positive Ph2 signals emerged in 2025–2026, but none has yet been confirmed in Ph3."</span></p>
+      <p><span class="i18n zh">• <b style="color:#fff">唯一在跑的 Ph3</b>：Lundbeck amlenetug（MASCOT，主要完成估 2028/02）</span><span class="i18n en">• <b style="color:#fff">The only Ph3 running</b>: Lundbeck's amlenetug (MASCOT, primary completion est. 2028/02)</span></p>
+      <p><span class="i18n zh">• <b style="color:#fff">正面 Ph2 訊號</b>：Alterity ATH434、小野 ONO-2808（均含次族群／公司口徑限制）</span><span class="i18n en">• <b style="color:#fff">Positive Ph2 signals</b>: Alterity's ATH434 and Ono's ONO-2808 (both with subgroup/company-framing caveats)</span></p>
+      <p><span class="i18n zh">• <b style="color:#fff">已知失敗與退場</b>：Biohaven verdiperstat Ph3 未達終點（2021）、Biogen 終止 ION464（2025/02）</span><span class="i18n en">• <b style="color:#fff">Known failures and exits</b>: Biohaven's verdiperstat missed in Ph3 (2021); Biogen discontinued ION464 (2025/02)</span></p>
+      <p><span class="i18n zh">• <b style="color:#fff">細胞治療</b>：Mayo 鞘內自體 MSC 的隨機對照 Ph2 進行中，是此路線的關鍵驗證</span><span class="i18n en">• <b style="color:#fff">Cell therapy</b>: Mayo's randomised, controlled Ph2 of intrathecal autologous MSC is the pivotal test for this route</span></p>
+      <p style="color:#8b9bb0;font-size:12px;margin-top:4px"><span class="i18n zh">→ 量表爭議是共同主題：UMSARS 總分作為主要終點的靈敏度不足，近期設計普遍轉向改良版 UMSARS 與更早期病人。</span><span class="i18n en">→ A shared theme is the endpoint debate: total UMSARS lacks sensitivity as a primary endpoint, and recent designs have shifted to the modified UMSARS and earlier patients.</span></p>
+    </div>
+  </div>
+</section>
+
+<!-- LANDSCAPE -->
+<section id="ls" class="panel">
+  <div class="card">
+    <h2><span class="i18n zh">◎ 在研療法全景 (Therapy Landscape)</span><span class="i18n en">◎ Therapy Landscape</span></h2>
+    <p style="font-size:12px;color:#8b9bb0;margin-bottom:10px"><span class="i18n zh">MSA 目前在研的療法與學術案，依機轉路線分類。中立呈現、不做投資建議；每筆附可查證公開來源。</span><span class="i18n en">Therapies and academic programmes currently in development for MSA, grouped by mechanistic route. Presented neutrally, not investment advice; every entry cites a verifiable public source.</span></p>
+    <div class="filters" id="lsFilters">
+      <button class="on" onclick="setLsFilter('all',this)"><span class="i18n zh">全部</span><span class="i18n en">All</span></button>
+      <button onclick="setLsFilter('cell',this)"><span class="i18n zh">細胞治療</span><span class="i18n en">Cell therapy</span></button>
+      <button onclick="setLsFilter('asyn',this)"><span class="i18n zh">α-synuclein 標的</span><span class="i18n en">α-synuclein</span></button>
+      <button onclick="setLsFilter('immune',this)"><span class="i18n zh">免疫／神經發炎</span><span class="i18n en">Immune / inflammation</span></button>
+      <button onclick="setLsFilter('dmt',this)"><span class="i18n zh">其他疾病修飾</span><span class="i18n en">Other disease-modifying</span></button>
+      <button onclick="setLsFilter('sympt',this)"><span class="i18n zh">症狀治療</span><span class="i18n en">Symptomatic</span></button>
+    </div>
+    <div style="display:flex;gap:8px;margin:0 0 10px;flex-wrap:wrap;align-items:center">
+      <input id="lsSearch" placeholder="🔍" oninput="renderLandscape()" style="flex:1;min-width:150px;background:#182533;border:1px solid #2b3a4d;color:#e6edf3;font-size:12px;padding:6px 10px;border-radius:6px;font-family:inherit">
+      <span id="lsCount" style="font-size:11px;color:#6a7c92;white-space:nowrap"></span>
+    </div>
+    <ul class="digest" id="lsList"></ul>
+  </div>
+</section>
+
+<!-- CLINICAL DEVELOPMENT -->
+<section id="pl" class="panel">
+  <div class="card" id="trialradar" style="scroll-margin-top:16px">
+    <h2><span class="i18n zh">◎ 臨床試驗雷達 (Clinical Trial Radar)</span><span class="i18n en">◎ Clinical Trial Radar</span></h2>
+    <table>
+      <thead><tr>
+        <th><span class="i18n zh">試驗 (NCT)</span><span class="i18n en">Trial (NCT)</span></th>
+        <th><span class="i18n zh">介入 / 藥物</span><span class="i18n en">Intervention / drug</span></th>
+        <th><span class="i18n zh">機制</span><span class="i18n en">Mechanism</span></th>
+        <th><span class="i18n zh">期別</span><span class="i18n en">Phase</span></th>
+        <th><span class="i18n zh">狀態</span><span class="i18n en">Status</span></th>
+        <th><span class="i18n zh">主導</span><span class="i18n en">Sponsor</span></th>
+      </tr></thead>
+      <tbody id="trialBody"></tbody>
+    </table>
+    <p style="font-size:11.5px;color:#8b9bb0;margin-top:10px"><span class="i18n zh">綠底＝細胞治療試驗。狀態與主要完成日取自 ClinicalTrials.gov 登錄資料，登錄資訊可能落後實際進度。</span><span class="i18n en">Green rows are cell-therapy trials. Status and primary completion dates come from ClinicalTrials.gov registrations, which can lag actual progress.</span></p>
+  </div>
+  <div class="card" id="trialresults" style="scroll-margin-top:16px">
+    <h2><span class="i18n zh">◎ 試驗結果與讀出 (Trial Results &amp; Readouts)</span><span class="i18n en">◎ Trial Results &amp; Readouts</span></h2>
+    <p style="font-size:12px;color:#8b9bb0;margin-bottom:10px"><span class="i18n zh">實際療效／安全讀出，依公開來源類型分類。綠＝正面結果、紅＝未達終點或終止、藍＝中性或早期。公司新聞稿口徑與次族群分析均如實標註。</span><span class="i18n en">Actual efficacy and safety readouts, classified by type of public source. Green = positive result, red = endpoint missed or programme stopped, blue = neutral or very early. Company framing and subgroup analyses are labelled as such.</span></p>
+    <div class="filters" id="resultsFilters">
+      <button class="on" onclick="setResultsFilter('all',this)"><span class="i18n zh">全部</span><span class="i18n en">All</span></button>
+      <button onclick="setResultsFilter('論文',this)"><span class="i18n zh">論文</span><span class="i18n en">Paper</span></button>
+      <button onclick="setResultsFilter('研討會摘要',this)"><span class="i18n zh">研討會摘要</span><span class="i18n en">Conference abstract</span></button>
+      <button onclick="setResultsFilter('新聞稿',this)"><span class="i18n zh">新聞稿</span><span class="i18n en">Press release</span></button>
+    </div>
+    <div style="display:flex;gap:8px;margin:0 0 10px;flex-wrap:wrap;align-items:center">
+      <input id="resultsSearch" placeholder="🔍" oninput="renderResults()" style="flex:1;min-width:150px;background:#182533;border:1px solid #2b3a4d;color:#e6edf3;font-size:12px;padding:6px 10px;border-radius:6px;font-family:inherit">
+      <span id="resultsCount" style="font-size:11px;color:#6a7c92;white-space:nowrap"></span>
+    </div>
+    <ul class="digest" id="resultsList"></ul>
+  </div>
+</section>
+
+<!-- KNOWLEDGE BASE -->
+<section id="kb" class="panel">
+  <div class="kbtop"><div class="kblegend" id="kbLegend"></div></div>
+  <div class="card" id="coa" style="scroll-margin-top:16px">
+    <h2 id="coaH2">◎ 臨床評估量表 (Clinical Outcome Assessments)</h2>
+    <p id="coaIntro" style="font-size:12px;color:#8b9bb0;margin-bottom:10px"></p>
+    <div style="display:flex;gap:8px;margin:0 0 10px;flex-wrap:wrap;align-items:center">
+      <input id="assessmentSearch" placeholder="🔍" oninput="renderAssessments()" style="flex:1;min-width:150px;background:#182533;border:1px solid #2b3a4d;color:#e6edf3;font-size:12px;padding:6px 10px;border-radius:6px;font-family:inherit">
+      <span id="assessmentCount" style="font-size:11px;color:#6a7c92;white-space:nowrap"></span>
+    </div>
+    <ul class="digest" id="assessmentList"></ul>
+  </div>
+  <div class="card" id="nathist" style="scroll-margin-top:16px">
+    <h2 id="nhH2">◎ 疾病自然史與病程 (Natural History)</h2>
+    <p id="nhIntro" style="font-size:12px;color:#8b9bb0;margin-bottom:10px"></p>
+    <div style="display:flex;gap:8px;margin:0 0 10px;flex-wrap:wrap;align-items:center">
+      <input id="nhSearch" placeholder="🔍" oninput="renderNaturalHistory()" style="flex:1;min-width:150px;background:#182533;border:1px solid #2b3a4d;color:#e6edf3;font-size:12px;padding:6px 10px;border-radius:6px;font-family:inherit">
+      <span id="nhCount" style="font-size:11px;color:#6a7c92;white-space:nowrap"></span>
+    </div>
+    <ul class="digest" id="nhList"></ul>
+  </div>
+  <div class="card" id="preclin" style="scroll-margin-top:16px">
+    <h2><span class="i18n zh">◎ 致病機轉與臨床前重點 (Mechanism &amp; Preclinical)</span><span class="i18n en">◎ Mechanism &amp; Preclinical</span></h2>
+    <p style="font-size:12px;color:#8b9bb0;margin-bottom:10px"><span class="i18n zh">MSA 的核心病理（寡突膠質細胞內 α-synuclein 堆疊＝GCI）、神經發炎，以及細胞治療的作用機轉證據。每筆附可查證來源。</span><span class="i18n en">The core pathology of MSA (α-synuclein accumulation in oligodendroglia, i.e. GCIs), neuroinflammation, and the mechanistic evidence for cell therapy. Every entry cites a verifiable source.</span></p>
+    <ul class="digest" id="preList"></ul>
+  </div>
+</section>
+
+<!-- SCIENTIFIC INTELLIGENCE -->
+<section id="si" class="panel">
+  <div class="grid2">
+    <div class="card" id="litradar" style="scroll-margin-top:16px">
+      <h2><span class="i18n zh">◎ 文獻雷達 (Literature Radar) · 近期關鍵論文</span><span class="i18n en">◎ Literature Radar · recent key papers</span></h2>
+      <div style="display:flex;gap:8px;margin:-4px 0 10px;flex-wrap:wrap;align-items:center">
+        <input id="paperSearch" placeholder="🔍" oninput="renderPapers()" style="flex:1;min-width:150px;background:#182533;border:1px solid #2b3a4d;color:#e6edf3;font-size:12px;padding:6px 10px;border-radius:6px;font-family:inherit">
+        <span id="paperCount" style="font-size:11px;color:#6a7c92;white-space:nowrap"></span>
+      </div>
+      <ul class="digest" id="paperList"></ul>
+      <div style="text-align:center;margin-top:4px">
+        <button id="paperToggle" onclick="papersExpanded=!papersExpanded;renderPapers()" style="background:#182533;border:1px solid #2b3a4d;color:#9fb4cc;font-size:12px;font-family:inherit;padding:6px 16px;border-radius:20px;cursor:pointer"></button>
+      </div>
+    </div>
+    <div>
+      <div class="card">
+        <h2><span class="i18n zh">◎ 學會 / 會議雷達</span><span class="i18n en">◎ Society &amp; Conference Radar</span></h2>
+        <p style="font-size:12px;color:#8b9bb0;margin-bottom:10px"><span class="i18n zh">MSA 相關關鍵會議的下屆日程：即將舉行標綠、結束後自動歸檔。</span><span class="i18n en">Upcoming editions of key MSA-related meetings: upcoming events are green, past ones are archived automatically.</span></p>
+        <div class="glossbox" id="eventList"></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CHANGELOG -->
+<section id="lg" class="panel">
+  <div class="card">
+    <h2><span class="i18n zh">◎ 情報更新紀錄 (Changelog)</span><span class="i18n en">◎ Intelligence Changelog</span></h2>
+    <p style="font-size:12px;color:#8b9bb0;margin-bottom:14px"><span class="i18n zh">本頁記錄每日排程掃描後實際新增的情報；當天有更新才會列出項目。</span><span class="i18n en">This page logs what each daily scheduled scan actually added; items appear only on days with new intelligence.</span></p>
+    <div id="scanHeartbeat" class="heartbeat"></div>
+    <ul class="digest" id="logList"></ul>
+    <div style="text-align:center;margin-top:4px">
+      <button id="clToggle" onclick="clExpanded=!clExpanded;renderChangelog()" style="background:#182533;border:1px solid #2b3a4d;color:#9fb4cc;font-size:12px;font-family:inherit;padding:6px 16px;border-radius:20px;cursor:pointer"></button>
+    </div>
+  </div>
+</section>
+
+<div class="foot">
+  <span class="i18n zh"><b>MSA-IQ 多系統萎縮症情報監測站 v1.0</b>　|　由 AI 工作流自動生成 · 每日排程掃描<br>本站所有情報均附公開來源、可查證；AI 只做整理與判讀，不編造內容。內容為公開資訊彙整，非醫療建議，臨床決策請諮詢專業醫師。</span><span class="i18n en"><b>MSA-IQ · Multiple System Atrophy Intelligence v1.0</b>　|　Generated by an AI workflow · daily scheduled scan<br>Every item cites a public, verifiable source; the AI only compiles and interprets — it does not invent content. This is a compilation of public information, not medical advice; consult a qualified clinician for clinical decisions.</span>
+</div>
+</div>
+
+<script>
+function q2(id){return document.getElementById(id);}
+function esc(s){return (s==null?'':String(s)).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+
+/* ══ 全站中英語言引擎（與 SCA-IQ 同一套） ══ */
+var LANG='zh';
+try{var _saved=localStorage.getItem('msa-iq-lang'); if(_saved==='en'||_saved==='zh') LANG=_saved;}catch(e){}
+function L(obj,field){
+  if(!obj) return '';
+  if(LANG==='en'&&obj.en&&obj.en[field]!=null&&obj.en[field]!=='') return obj.en[field];
+  return obj[field];
+}
+function LA(obj,key){var a=(LANG==='en'&&obj&&obj.en&&obj.en[key])?obj.en[key]:(obj?obj[key]:null);return a||[];}
+function T(k){var o=I18N[k];return o?(o[LANG]!=null?o[LANG]:o.zh):k;}
+
+var DOMAIN_LABEL={
+  'clinician-ataxia':{zh:'醫師評定·運動失調',en:'Clinician-rated ataxia',cls:'dbadge-phys'},
+  'clinician-global':{zh:'醫師評定·整體',en:'Clinician-rated global',cls:'dbadge-phys'},
+  'global-clinical':{zh:'醫師評定·整體',en:'Clinician-rated global',cls:'dbadge-phys'},
+  'objective-timed':{zh:'客觀計時測驗',en:'Objective timed test',cls:'dbadge-phys'},
+  'non-ataxia':{zh:'非失調體徵',en:'Non-ataxia signs',cls:'dbadge-phys'},
+  'digital':{zh:'數位/穿戴步態',en:'Digital-motor biomarker',cls:'dbadge-phys'},
+  'autonomic':{zh:'自律神經（自陳）',en:'Autonomic (self-report)',cls:'dbadge-qol'},
+  'pro':{zh:'病人自陳 PRO',en:'Patient-reported (PRO)',cls:'dbadge-qol'},
+  'qol':{zh:'生活品質 QoL',en:'Quality of life (QoL)',cls:'dbadge-qol'}
+};
+var CAT_LABEL={
+  cell:{zh:'細胞治療',en:'Cell therapy'},
+  asyn:{zh:'α-synuclein 標的',en:'α-synuclein-targeted'},
+  immune:{zh:'免疫／神經發炎',en:'Immune / neuroinflammation'},
+  dmt:{zh:'其他疾病修飾',en:'Other disease-modifying'},
+  sympt:{zh:'症狀治療',en:'Symptomatic'}
+};
+var I18N={
+  title:{zh:'MSA-IQ｜多系統萎縮症情報監測站',en:'MSA-IQ | Multiple System Atrophy Intelligence'},
+  coaH2:{zh:'◎ 臨床評估量表 (Clinical Outcome Assessments)',en:'◎ Clinical Outcome Assessments'},
+  coaIntro:{zh:'MSA 臨床試驗用來量化病情與療效的標準化量表——含原始開發者、驗證、試驗應用與台灣使用狀況，並標示衡量的是「生理病程」還是「自陳／生活品質」。每筆附可查證來源。',en:'Standardized scales used in MSA trials to quantify disease and treatment effect — with developers, validation, trial use and Taiwan status, each tagged as measuring physical disease course vs self-reported outcomes/quality of life. Every entry cites a verifiable source.'},
+  nhH2:{zh:'◎ 疾病自然史與病程 (Natural History)',en:'◎ Disease Natural History & Progression'},
+  nhIntro:{zh:'MSA 不治療時的自然病程（UMSARS 年進展、存活、MSA-P vs MSA-C 差異）——是療效試驗的對照基準。每筆附可查證來源。',en:'The untreated natural course of MSA (annual UMSARS progression, survival, MSA-P vs MSA-C) — the comparator baseline for efficacy trials. Every entry cites a verifiable source.'},
+  aSearch:{zh:'🔍 搜尋量表／開發者／關鍵字…',en:'🔍 Search scale / developer / keyword…'},
+  nSearch:{zh:'🔍 搜尋世代／團隊／關鍵字…',en:'🔍 Search cohort / group / keyword…'},
+  pSearch:{zh:'🔍 搜尋標題／期刊／分類…',en:'🔍 Search title / journal / tag…'},
+  rSearch:{zh:'🔍 搜尋療法／藥物／結果…',en:'🔍 Search therapy / drug / readout…'},
+  lSearch:{zh:'🔍 搜尋公司／藥物／機制…',en:'🔍 Search company / drug / mechanism…'},
+  measures:{zh:'量測',en:'Measures'},development:{zh:'開發',en:'Development'},validation:{zh:'驗證',en:'Validation'},useInTrials:{zh:'試驗應用',en:'Use in trials'},taiwan:{zh:'台灣',en:'Taiwan'},
+  findings:{zh:'關鍵發現',en:'Key findings'},significance:{zh:'意義',en:'Significance'},
+  mech:{zh:'機制',en:'Mechanism'},phase:{zh:'階段',en:'Stage'},status:{zh:'狀態',en:'Status'},note:{zh:'重點',en:'Notes'},
+  readout:{zh:'讀出',en:'Readout'},implication:{zh:'意涵',en:'Implication'},
+  legendPhys:{zh:'<span><span class="dbadge dbadge-phys">生理</span> 病程面向</span><span><span class="dbadge dbadge-qol">PRO/QoL</span> 病人自陳／生活品質</span>',en:'<span><span class="dbadge dbadge-phys">physical</span> disease course</span><span><span class="dbadge dbadge-qol">PRO / QoL</span> patient-reported / quality of life</span>'},
+  countItems:{zh:function(n,f){return '共 '+n+' 項'+(f?'（符合搜尋）':'');},en:function(n,f){return n+' item'+(n===1?'':'s')+(f?' (filtered)':'');}},
+  countPapers:{zh:function(n,f){return '共 '+n+' 篇'+(f?'（符合搜尋）':'');},en:function(n,f){return n+' paper'+(n===1?'':'s')+(f?' (filtered)':'');}},
+  countRows:{zh:function(n,f){return '共 '+n+' 筆'+(f?'（篩選中）':'');},en:function(n,f){return n+' item'+(n===1?'':'s')+(f?' (filtered)':'');}},
+  showRest:{zh:function(n){return '顯示全部（其餘 '+n+' 篇）▾';},en:function(n){return 'Show all ('+n+' more) ▾';}},
+  showAllN:{zh:function(n){return '顯示全部（共 '+n+' 筆）▾';},en:function(n){return 'Show all ('+n+' items) ▾';}},
+  collapse:{zh:'收合 ▴',en:'Collapse ▴'},
+  lnkPaper:{zh:'論文 ↗',en:'Paper ↗'},lnkTrial:{zh:'試驗 ↗',en:'Trial ↗'},lnkSource:{zh:'來源 ↗',en:'Source ↗'},lnkSite:{zh:'官網 ↗',en:'Website ↗'},
+  evToday:{zh:'今日',en:'today'},evTomorrow:{zh:'明日',en:'tomorrow'},
+  evIn:{zh:function(n){return '還有 '+n+' 天';},en:function(n){return 'in '+n+' day'+(n===1?'':'s');}},
+  evEnded:{zh:'已結束',en:'ended'},evTbd:{zh:'日期待公布',en:'date TBC'},evSelf:{zh:'重點',en:'Key'},
+  hbTodayNew:{zh:'<b>今日已完成掃描</b>，新增情報見下方紀錄。',en:'<b>Today\'s scan is complete</b>; new items are logged below.'},
+  hbTodayNone:{zh:'<b>今日已完成掃描</b>，無新增情報。',en:'<b>Today\'s scan is complete</b>; nothing new found.'},
+  hbYesterday:{zh:function(d){return '<b>系統運作中</b>，最後掃描 '+d+'（昨日）；今日排程掃描預計於 09:45 執行。';},en:function(d){return '<b>System running</b>. Last scan '+d+' (yesterday); today\'s scheduled scan runs at 09:45.';}},
+  hbWarn:{zh:function(d,n){return '<b>掃描可能延遲</b>：最後一次成功掃描為 '+d+'（'+n+' 天前）。';},en:function(d,n){return '<b>Scan may be delayed</b>: last successful scan was '+d+' ('+n+' days ago).';}},
+  hbErr:{zh:function(d,n){return '<b>掃描中斷</b>：最後一次成功掃描為 '+d+'（'+n+' 天前），排程可能未執行。';},en:function(d,n){return '<b>Scan interrupted</b>: last successful scan was '+d+' ('+n+' days ago); the schedule may not be running.';}},
+  hbNext:{zh:'· 下次掃描 ',en:'· next scan '},
+  frToday:{zh:'今日',en:'today'},frYesterday:{zh:'昨日',en:'yesterday'},
+  frAgo:{zh:function(n){return n+' 天前';},en:function(n){return n+' days ago';}},
+  errLoad:{zh:'（資料載入失敗）',en:'(failed to load data)'}
+};
+
+function setLang(l){
+  LANG=(l==='en')?'en':'zh';
+  try{localStorage.setItem('msa-iq-lang',LANG);}catch(e){}
+  document.documentElement.setAttribute('data-lang',LANG);
+  document.documentElement.setAttribute('lang',LANG==='en'?'en':'zh-Hant');
+  document.title=T('title');
+  var zb=q2('langZh'),eb=q2('langEn');
+  if(zb&&eb){zb.classList.toggle('on',LANG==='zh');eb.classList.toggle('on',LANG==='en');}
+  [['paperSearch','pSearch'],['resultsSearch','rSearch'],['assessmentSearch','aSearch'],['nhSearch','nSearch'],['lsSearch','lSearch']]
+    .forEach(function(p){var el=q2(p[0]); if(el) el.placeholder=T(p[1]);});
+  ['coaH2','coaIntro','nhH2','nhIntro'].forEach(function(id){var el=q2(id); if(el) el.textContent=T(id);});
+  var lg=q2('kbLegend'); if(lg) lg.innerHTML=T('legendPhys');
+  renderAll();
+}
+function renderAll(){
+  renderLandscape();renderTrials();renderResults();renderNews();
+  renderAssessments();renderNaturalHistory();renderPreclinical();
+  renderPapers();renderEvents();renderChangelog();renderHeartbeat();
+}
+
+function tab(e,id){
+  document.querySelectorAll('nav button').forEach(b=>b.classList.remove('on'));
+  document.querySelectorAll('.panel').forEach(p=>p.classList.remove('on'));
+  e.currentTarget.classList.add('on');
+  document.getElementById(id).classList.add('on');
+  window.scrollTo({top:0,behavior:'smooth'});
+}
+function goTab(id,anchor){
+  document.querySelectorAll('nav button').forEach(b=>b.classList.toggle('on',(b.getAttribute('onclick')||'').includes("'"+id+"'")));
+  document.querySelectorAll('.panel').forEach(p=>p.classList.remove('on'));
+  var el=document.getElementById(id); if(el) el.classList.add('on');
+  var a=anchor&&document.getElementById(anchor);
+  requestAnimationFrame(function(){
+    if(a){window.scrollTo(0,a.getBoundingClientRect().top+window.pageYOffset-16);}
+    else{window.scrollTo(0,0);}
+  });
+}
+function srcList(obj){
+  return LA(obj,'sources').map(function(s){return '<a class="src" href="'+esc(s.url)+'" target="_blank">'+esc(s.label)+' ↗</a>';}).join(' ');
+}
+function line(label,val){return val?('<br><span style="color:#9fb4cc;font-size:12px"><b style="color:#cfe0f2">'+label+'：</b>'+esc(val)+'</span>'):'';}
+
+/* ── 在研療法全景 ── */
+var compData=[], lsFilter='all';
+function setLsFilter(f,btn){
+  lsFilter=f;
+  var bs=document.querySelectorAll('#lsFilters button');
+  for(var i=0;i<bs.length;i++) bs[i].classList.remove('on');
+  if(btn) btn.classList.add('on');
+  renderLandscape();
+}
+function renderLandscape(){
+  var ul=q2('lsList'); if(!ul) return;
+  var q=(q2('lsSearch').value||'').toLowerCase().trim();
+  var rows=compData.slice().sort(function(a,b){return (b.highlight?1:0)-(a.highlight?1:0);});
+  if(lsFilter!=='all') rows=rows.filter(function(c){return c.category===lsFilter;});
+  if(q) rows=rows.filter(function(c){return JSON.stringify(c).toLowerCase().indexOf(q)>=0;});
+  ul.innerHTML=rows.map(function(c){
+    var cls=c.highlight?' class="win"':'';
+    var cat=CAT_LABEL[c.category]||CAT_LABEL.dmt;
+    var badge='<span class="dbadge '+(c.category==='cell'?'dbadge-qol':'dbadge-phys')+'">'+esc(cat[LANG]||cat.zh)+'</span>';
+    var src=srcList(c);
+    return '<li'+cls+'><span class="tag '+(c.highlight?'t-win':'t-info')+'">'+esc(L(c,'company'))+'</span><b>'+esc(L(c,'drug'))+'</b>'+badge+
+      line(T('mech'),L(c,'mechanism'))+line(T('phase'),L(c,'phase'))+line(T('status'),L(c,'status'))+line(T('note'),L(c,'note'))+
+      (src?('<br>'+src):'')+'</li>';
+  }).join('');
+  q2('lsCount').textContent=I18N.countItems[LANG](rows.length,(lsFilter!=='all'||!!q));
+  var t=q2('txCount'); if(t&&compData.length) t.textContent=compData.length;
+  var cc=q2('cellCount'); if(cc&&compData.length) cc.textContent=compData.filter(function(c){return c.category==='cell';}).length;
+}
+fetch('data/msa-competitors.json').then(function(r){return r.json();}).then(function(d){compData=d;renderLandscape();}).catch(function(){
+  var ul=q2('lsList'); if(ul) ul.innerHTML='<li style="color:#8b9bb0">'+T('errLoad')+'</li>';});
+
+/* ── 臨床試驗雷達 ── */
+var trialsData=[];
+function renderTrials(){
+  var tb=q2('trialBody'); if(!tb) return;
+  tb.innerHTML=trialsData.map(function(t){
+    return '<tr'+(t.cell?' class="us"':'')+'><td><span class="asset">'+esc(t.nct)+'</span></td><td class="co">'+esc(L(t,'drug'))+'</td>'+
+      '<td class="mod">'+esc(L(t,'mechanism'))+'</td><td>'+esc(L(t,'phase'))+'</td><td>'+esc(L(t,'status'))+'</td>'+
+      '<td>'+esc(L(t,'sponsor'))+'<br><a class="src" href="'+esc(t.url)+'" target="_blank">'+T('lnkTrial')+'</a></td></tr>';
+  }).join('');
+  var p3=q2('ph3Count');
+  if(p3&&trialsData.length) p3.textContent=trialsData.filter(function(t){return (t.phase||'').indexOf('Ph3')>=0;}).length;
+}
+fetch('data/msa-trials.json').then(function(r){return r.json();}).then(function(d){trialsData=d;renderTrials();}).catch(function(){});
+
+/* ── 試驗結果與讀出 ── */
+var resultsData=[], resultsFilter='all';
+var LV={pos:'win',neg:'hot',info:'info'};
+function setResultsFilter(f,btn){
+  resultsFilter=f;
+  var bs=document.querySelectorAll('#resultsFilters button');
+  for(var i=0;i<bs.length;i++) bs[i].classList.remove('on');
+  if(btn) btn.classList.add('on');
+  renderResults();
+}
+function renderResults(){
+  var ul=q2('resultsList'); if(!ul) return;
+  var q=(q2('resultsSearch').value||'').toLowerCase().trim();
+  var rows=resultsData.slice().sort(function(a,b){return (b.date||'').localeCompare(a.date||'');});
+  if(resultsFilter!=='all') rows=rows.filter(function(r){return r.sourceType===resultsFilter;});
+  if(q) rows=rows.filter(function(r){return JSON.stringify(r).toLowerCase().indexOf(q)>=0;});
+  ul.innerHTML=rows.map(function(r){
+    var lv=LV[r.level]||'info';
+    var cls=lv!=='info'?(' class="'+lv+'"'):'';
+    var st='<span style="display:inline-block;font-size:10px;color:#9fb4cc;border:1px solid #2b4a6d;border-radius:5px;padding:1px 7px;margin-left:6px;background:#12233a">'+esc(L(r,'sourceType')||'')+'</span>';
+    var trial=r.trial?(' <span style="color:#9fb4cc;font-size:11px">'+esc(L(r,'trial'))+'</span>'):'';
+    var imp=L(r,'implication')?('<br><span style="color:#8b9bb0;font-size:12px">'+esc(L(r,'implication'))+'</span>'):'';
+    var links=LA(r,'links').map(function(l){return '<a class="src" href="'+esc(l.url)+'" target="_blank">'+esc(l.label)+' ↗</a>';}).join(' ');
+    return '<li'+cls+'><span class="tag t-'+lv+'">'+esc(L(r,'competitor'))+' · '+esc(L(r,'drug'))+'</span>'+st+trial+
+      '<br>'+esc(L(r,'readout')||'')+'<span class="date">'+esc(L(r,'dateDisplay'))+'</span>'+imp+(links?('<br>'+links):'')+'</li>';
+  }).join('');
+  q2('resultsCount').textContent=I18N.countRows[LANG](rows.length,(resultsFilter!=='all'||!!q));
+}
+fetch('data/msa-results.json').then(function(r){return r.json();}).then(function(d){resultsData=d;renderResults();}).catch(function(){});
+
+/* ── 領域焦點 ── */
+var newsData=[];
+function renderNews(){
+  var ul=q2('digestList'); if(!ul) return;
+  ul.innerHTML=newsData.map(function(n){
+    var lv=n.level||'info';
+    var cls=lv!=='info'?(' class="'+lv+'"'):'';
+    var note=L(n,'note')?('<br><span style="color:#8b9bb0;font-size:12px">'+L(n,'note')+'</span>'):'';
+    var links=LA(n,'links').map(function(l){return '<a class="src" href="'+esc(l.url)+'" target="_blank">'+esc(l.label)+'</a>';}).join(' ');
+    return '<li'+cls+'><span class="tag t-'+lv+'">'+esc(L(n,'tag'))+'</span>'+L(n,'body')+'<span class="date">'+esc(L(n,'dateDisplay'))+'</span>'+note+(links?('<br>'+links):'')+'</li>';
+  }).join('');
+}
+fetch('data/msa-news.json').then(function(r){return r.json();}).then(function(d){newsData=d;renderNews();}).catch(function(){});
+
+/* ── 知識庫：評估量表 ── */
+function dBadge(a){var d=a.domainKey&&DOMAIN_LABEL[a.domainKey];if(!d)return '';return ' <span class="dbadge '+d.cls+'">'+esc(LANG==='en'?d.en:d.zh)+'</span>';}
+var assessmentsData=[];
+function renderAssessments(){
+  var ul=q2('assessmentList'); if(!ul) return;
+  var q=(q2('assessmentSearch').value||'').toLowerCase().trim();
+  var rows=assessmentsData.slice().sort(function(a,b){return (b.highlight?1:0)-(a.highlight?1:0);});
+  if(q) rows=rows.filter(function(a){return JSON.stringify(a).toLowerCase().indexOf(q)>=0;});
+  ul.innerHTML=rows.map(function(a){
+    var cls=a.highlight?' class="win"':'';
+    var meta='<br><span style="color:#6a7c92;font-size:11px">'+(a.year?esc(a.year)+' · ':'')+esc(L(a,'developer')||'')+'</span>';
+    var zh=(LANG==='zh'&&a.nameZh)?(' <span style="color:#8b9bb0">'+esc(a.nameZh)+'</span>'):'';
+    var src=srcList(a);
+    return '<li'+cls+'><span class="tag '+(a.highlight?'t-win':'t-info')+'">'+esc(L(a,'abbr'))+'</span><b>'+esc(a.name)+'</b>'+zh+dBadge(a)+meta+
+      line(T('measures'),L(a,'measures'))+line(T('development'),L(a,'development'))+line(T('validation'),L(a,'validation'))+line(T('useInTrials'),L(a,'useInTrials'))+line(T('taiwan'),L(a,'taiwan'))+
+      (src?('<br>'+src):'')+'</li>';
+  }).join('');
+  q2('assessmentCount').textContent=I18N.countItems[LANG](rows.length,!!q);
+}
+fetch('data/msa-assessments.json').then(function(r){return r.json();}).then(function(d){assessmentsData=d;renderAssessments();}).catch(function(){});
+
+/* ── 知識庫：自然史 ── */
+var nhData=[];
+function renderNaturalHistory(){
+  var ul=q2('nhList'); if(!ul) return;
+  var q=(q2('nhSearch').value||'').toLowerCase().trim();
+  var rows=nhData.slice().sort(function(a,b){return (b.highlight?1:0)-(a.highlight?1:0);});
+  if(q) rows=rows.filter(function(h){return JSON.stringify(h).toLowerCase().indexOf(q)>=0;});
+  ul.innerHTML=rows.map(function(h){
+    var cls=h.highlight?' class="win"':'';
+    var title=(LANG==='en'&&h.nameEn)?h.nameEn:h.name;
+    var src=srcList(h);
+    var meta='<br><span style="color:#6a7c92;font-size:11px">'+[esc(L(h,'group')||''),esc(L(h,'region')||''),(h.n?esc(L(h,'n')):''),(h.year?esc(h.year):'')].filter(function(x){return x;}).join(' · ')+'</span>';
+    return '<li'+cls+'><span class="tag '+(h.highlight?'t-win':'t-info')+'">'+esc(L(h,'scope')||'')+'</span><b>'+esc(title)+'</b>'+meta+
+      line(T('findings'),L(h,'findings'))+line(T('significance'),L(h,'significance'))+
+      (src?('<br>'+src):'')+'</li>';
+  }).join('');
+  q2('nhCount').textContent=I18N.countItems[LANG](rows.length,!!q);
+}
+fetch('data/msa-naturalhistory.json').then(function(r){return r.json();}).then(function(d){nhData=d;renderNaturalHistory();}).catch(function(){});
+
+/* ── 知識庫：機轉與臨床前 ── */
+var preData=[];
+function renderPreclinical(){
+  var ul=q2('preList'); if(!ul) return;
+  ul.innerHTML=preData.map(function(p){
+    var cls=p.highlight?' class="win"':'';
+    var title=(LANG==='en'&&p.nameEn)?p.nameEn:p.topic;
+    var src=srcList(p);
+    return '<li'+cls+'><b>'+esc(title)+'</b>'+
+      line(T('findings'),L(p,'finding'))+line(T('significance'),L(p,'significance'))+
+      (src?('<br>'+src):'')+'</li>';
+  }).join('');
+}
+fetch('data/msa-preclinical.json').then(function(r){return r.json();}).then(function(d){preData=d;renderPreclinical();}).catch(function(){});
+
+/* ── 文獻雷達 ── */
+var papersData=[], papersExpanded=false, PAPER_RECENT=5;
+function renderPapers(){
+  var ul=q2('paperList'); if(!ul) return;
+  var q=(q2('paperSearch').value||'').toLowerCase().trim();
+  var rows=papersData.slice().sort(function(a,b){return (b.date||'').localeCompare(a.date||'');});
+  if(q) rows=rows.filter(function(p){return JSON.stringify(p).toLowerCase().indexOf(q)>=0;});
+  var total=rows.length;
+  var shown=(papersExpanded||q)?rows:rows.slice(0,PAPER_RECENT);
+  ul.innerHTML=shown.map(function(p){
+    var cls=p.highlight?' class="win"':'';
+    var note=L(p,'note')?('<br><span style="color:#8b9bb0;font-size:12px">'+esc(L(p,'note'))+'</span>'):'';
+    return '<li'+cls+'><span class="tag '+(p.highlight?'t-win':'t-info')+'">'+esc(L(p,'tag'))+'</span>'+esc(L(p,'title'))+
+      '<br><span style="color:#6a7c92;font-size:11px">'+esc(p.dateDisplay)+' · '+esc(L(p,'journal'))+'</span>'+note+
+      '<br><a class="src" href="'+esc(p.url)+'" target="_blank">'+esc(L(p,'urlLabel')||T('lnkPaper'))+'</a></li>';
+  }).join('');
+  q2('paperCount').textContent=I18N.countPapers[LANG](total,!!q);
+  var tog=q2('paperToggle');
+  if(q||total<=PAPER_RECENT){tog.style.display='none';}
+  else{tog.style.display='';tog.textContent=papersExpanded?T('collapse'):I18N.showRest[LANG](total-PAPER_RECENT);}
+}
+fetch('data/msa-papers.json').then(function(r){return r.json();}).then(function(d){papersData=d;renderPapers();}).catch(function(){});
+
+/* ── meta / 心跳 ── */
+var metaData=null;
+fetch('data/meta.json').then(function(r){return r.json();}).then(function(m){
+  metaData=m;
+  if(q2('lastScan')) q2('lastScan').textContent=m.lastScan||'—';
+  if(q2('nextScan')) q2('nextScan').textContent=m.nextScan||'—';
+  if(q2('weekCount')&&m.weekNewCount!=null) q2('weekCount').textContent=m.weekNewCount;
+  renderHeartbeat();
+}).catch(function(){});
+function todayStr(){var d=new Date();return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');}
+function daysAgo(dateStr){var a=new Date(dateStr+'T00:00:00'),b=new Date(todayStr()+'T00:00:00');return Math.round((b-a)/86400000);}
+function freshLabel(diff){if(diff<=0)return T('frToday');if(diff===1)return T('frYesterday');return I18N.frAgo[LANG](diff);}
+function renderHeartbeat(){
+  if(!metaData) return;
+  var el=q2('scanHeartbeat'), fresh=q2('scanFresh');
+  var last=metaData.lastScan||'', next=metaData.nextScan||'—';
+  var diff=last?daysAgo(last):999;
+  var addedToday=(changelogData||[]).some(function(c){return c.date===todayStr();});
+  var cls,msg;
+  if(diff<=0){ cls='ok'; msg=addedToday?T('hbTodayNew'):T('hbTodayNone'); }
+  else if(diff===1){ cls='ok'; msg=I18N.hbYesterday[LANG](esc(last)); }
+  else if(diff===2){ cls='warn'; msg=I18N.hbWarn[LANG](esc(last),diff); }
+  else{ cls='err'; msg=I18N.hbErr[LANG](esc(last),diff); }
+  if(el){el.className='heartbeat '+cls;el.innerHTML='<span class="dot"></span><span>'+msg+' <span class="sub">'+T('hbNext')+esc(next)+'</span></span>';}
+  if(fresh){fresh.textContent='（'+freshLabel(diff)+'）';fresh.style.color=diff<=1?'#6ee7a0':(diff===2?'#ffce7a':'#ff8a7a');}
+}
+
+/* ── 會議雷達 ── */
+var eventsData=[];
+function renderEvents(){
+  var box=q2('eventList'); if(!box) return;
+  function stOf(e){return !e.date?'tbd':(daysAgo(e.date)>0?'past':'up');}
+  var ord={up:0,tbd:1,past:2};
+  var rows=eventsData.map(function(e){return {e:e,st:stOf(e)};}).sort(function(a,b){
+    if(ord[a.st]!==ord[b.st]) return ord[a.st]-ord[b.st];
+    if(a.st==='past') return (b.e.date||'').localeCompare(a.e.date||'');
+    return (a.e.date||'').localeCompare(b.e.date||'');
+  });
+  box.innerHTML=rows.map(function(r){
+    var e=r.e,st=r.st,badge;
+    if(st==='up'){var rem=-daysAgo(e.date);badge='<span class="cd">· '+(rem===0?T('evToday'):(rem===1?T('evTomorrow'):I18N.evIn[LANG](rem)))+'</span>';}
+    else if(st==='past'){badge='<span class="cd">· '+T('evEnded')+'</span>';}
+    else{badge='<span class="cd">· '+T('evTbd')+'</span>';}
+    var dstr=e.dateDisplay||(st==='tbd'?T('evTbd'):'');
+    var loc=L(e,'location')?('　'+esc(L(e,'location'))):'';
+    var link=e.url?(' <a class="src" href="'+esc(e.url)+'" target="_blank">'+T('lnkSite')+'</a>'):'';
+    var rel=L(e,'relevance')?('<div class="em">'+L(e,'relevance')+'</div>'):'';
+    return '<div class="evt '+st+'"><div><span class="ed">'+esc(dstr)+'</span>'+badge+'</div>'+
+      '<div class="en">'+esc(L(e,'name'))+loc+link+'</div>'+rel+'</div>';
+  }).join('');
+}
+fetch('data/msa-events.json').then(function(r){return r.json();}).then(function(d){eventsData=d;renderEvents();}).catch(function(){
+  var b=q2('eventList'); if(b) b.innerHTML='<p style="color:#8b9bb0;font-size:12px">'+T('errLoad')+'</p>';});
+
+/* ── 更新紀錄 ── */
+var changelogData=[], clExpanded=false, CL_RECENT=12;
+function renderChangelog(){
+  var ul=q2('logList'); if(!ul) return;
+  var rows=changelogData.slice().sort(function(a,b){return (b.date||'').localeCompare(a.date||'');});
+  var shown=clExpanded?rows:rows.slice(0,CL_RECENT);
+  ul.innerHTML=shown.map(function(c){
+    var lv=c.level||'info';
+    var cls=lv!=='info'?(' class="'+lv+'"'):'';
+    var lb=c.link?((LANG==='en'&&c.en&&c.en.linkLabel)?c.en.linkLabel:c.link.label):'';
+    var link=c.link?('<br><a class="src" href="javascript:void(0)" onclick="goTab(\''+c.link.tab+'\''+(c.link.anchor?(',\''+c.link.anchor+'\''):'')+');return false;">'+esc(lb)+'</a>'):'';
+    return '<li'+cls+'><span class="tag t-'+lv+'">'+esc(L(c,'tag'))+'</span>'+esc(L(c,'body'))+'<span class="date">'+esc(c.dateDisplay)+'</span>'+link+'</li>';
+  }).join('');
+  var tog=q2('clToggle'); if(!tog) return;
+  if(rows.length<=CL_RECENT){tog.style.display='none';}
+  else{tog.style.display='';tog.textContent=clExpanded?T('collapse'):I18N.showAllN[LANG](rows.length);}
+}
+fetch('data/msa-changelog.json').then(function(r){return r.json();}).then(function(d){changelogData=d;renderChangelog();renderHeartbeat();}).catch(function(){});
+
+setLang(LANG);
+</script>
+</body>
+</html>

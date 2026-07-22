@@ -1,0 +1,137 @@
+[
+  {
+    "id": "ath434-ph2-positive",
+    "date": "2025-10-09",
+    "dateDisplay": "2025/10",
+    "level": "win",
+    "tag": "正面讀出",
+    "body": "<b>Alterity ATH434</b> Ph2（n=71）公布正面結果：改良版 UMSARS Part I 相對安慰劑顯著改善，50mg 相對治療效果 48%；於 ANA 與 MDS 大會發表。",
+    "note": "→ MSA 領域少見的正面 Ph2 訊號（公司發布口徑，待完整論文）。",
+    "links": [
+      {
+        "label": "MDS 發表 ↗",
+        "url": "https://www.globenewswire.com/news-release/2025/10/09/3164032/0/en/Alterity-Therapeutics-Presents-Positive-Data-from-ATH434-Phase-2-Trial-at-the-2025-International-Congress-of-Parkinson-s-Disease-and-Movement-Disorders.html"
+      }
+    ],
+    "en": {
+      "dateDisplay": "2025/10",
+      "tag": "Positive readout",
+      "body": "<b>Alterity's ATH434</b> reported positive Ph2 results (n=71): significant improvement over placebo on modified UMSARS Part I, with a 48% relative treatment effect at 50mg; presented at ANA and the MDS Congress.",
+      "note": "→ A rare positive Ph2 signal in MSA (company-framed; full publication pending).",
+      "links": [
+        {
+          "label": "MDS presentation ↗",
+          "url": "https://www.globenewswire.com/news-release/2025/10/09/3164032/0/en/Alterity-Therapeutics-Presents-Positive-Data-from-ATH434-Phase-2-Trial-at-the-2025-International-Congress-of-Parkinson-s-Disease-and-Movement-Disorders.html"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ono2808-wpc-2026",
+    "date": "2026-05-27",
+    "dateDisplay": "2026/05",
+    "level": "win",
+    "tag": "正面讀出",
+    "body": "<b>小野藥品 ONO-2808</b>（S1P5 促效劑）於世界帕金森大會發表 Ph2 24 週核心數據：MSA-P 次族群 mUMSARS 變化 安慰劑 3.90 vs 高劑量 1.16；規劃樞紐 Ph3。",
+    "note": "→ 非 α-synuclein 標的的第二個正面訊號；屬次族群分析。",
+    "links": [
+      {
+        "label": "Ono 新聞稿 ↗",
+        "url": "https://www.ono-pharma.com/en/news/20260528.html"
+      }
+    ],
+    "en": {
+      "dateDisplay": "2026/05",
+      "tag": "Positive readout",
+      "body": "<b>Ono's ONO-2808</b> (S1P5 agonist) presented 24-week Ph2 core data at the World Parkinson Congress: in the MSA-P subgroup, mUMSARS change was 3.90 on placebo vs 1.16 on the high dose; a pivotal Ph3 is planned.",
+      "note": "→ A second positive signal from a non-alpha-synuclein target; based on a subgroup analysis.",
+      "links": [
+        {
+          "label": "Ono release ↗",
+          "url": "https://www.ono-pharma.com/en/news/20260528.html"
+        }
+      ]
+    }
+  },
+  {
+    "id": "mascot-ph3",
+    "date": "2026-01-15",
+    "dateDisplay": "進行中",
+    "level": "info",
+    "tag": "Ph3 進行中",
+    "body": "<b>Lundbeck amlenetug</b> 的 Ph3 <b>MASCOT</b>（NCT06706622）已停止收案、試驗進行中，主要完成預估 2028/02——目前 MSA 唯一在跑的 Ph3 疾病修飾試驗。",
+    "note": "→ Ph2 AMULET 主要終點未達（減緩 19%、未達顯著）仍進 Ph3。",
+    "links": [
+      {
+        "label": "NCT06706622 ↗",
+        "url": "https://clinicaltrials.gov/study/NCT06706622"
+      }
+    ],
+    "en": {
+      "dateDisplay": "Ongoing",
+      "tag": "Ph3 ongoing",
+      "body": "<b>Lundbeck's amlenetug</b> Ph3 <b>MASCOT</b> (NCT06706622) has closed enrolment and is ongoing, with primary completion estimated 2028/02 — currently the only Ph3 disease-modifying trial running in MSA.",
+      "note": "→ It advanced despite the Ph2 AMULET missing its primary endpoint (19% slowing, not significant).",
+      "links": [
+        {
+          "label": "NCT06706622 ↗",
+          "url": "https://clinicaltrials.gov/study/NCT06706622"
+        }
+      ]
+    }
+  },
+  {
+    "id": "biogen-ion464-stop",
+    "date": "2025-02-12",
+    "dateDisplay": "2025/02",
+    "level": "hot",
+    "tag": "退場",
+    "body": "<b>Biogen 宣布終止 ION464／BIIB101</b>（α-synuclein ASO，鞘內）開發；Ionis 管線一度仍列。",
+    "note": "→ α-syn ASO 路線在 MSA 少一個大廠推手；公開來源未說明具體理由。",
+    "links": [
+      {
+        "label": "ALZFORUM ↗",
+        "url": "https://www.alzforum.org/therapeutics/ion464"
+      }
+    ],
+    "en": {
+      "dateDisplay": "2025/02",
+      "tag": "Exit",
+      "body": "<b>Biogen announced discontinuation of ION464/BIIB101</b> (intrathecal alpha-synuclein ASO); Ionis continued to list it for a time.",
+      "note": "→ The alpha-syn ASO route loses a large-cap sponsor; public sources give no specific rationale.",
+      "links": [
+        {
+          "label": "ALZFORUM ↗",
+          "url": "https://www.alzforum.org/therapeutics/ion464"
+        }
+      ]
+    }
+  },
+  {
+    "id": "mayo-msc-rct",
+    "date": "2026-01-01",
+    "dateDisplay": "進行中",
+    "level": "info",
+    "tag": "細胞治療",
+    "body": "<b>Mayo Clinic 鞘內自體 MSC</b> 的隨機雙盲安慰劑對照 Ph2（NCT05167721）進行中，主要完成預估 2026/12——MSA 細胞治療的關鍵驗證。",
+    "note": "→ 先前 Ph1/2（n=24）對照為歷史配對；此試驗補上同期安慰劑對照。",
+    "links": [
+      {
+        "label": "NCT05167721 ↗",
+        "url": "https://clinicaltrials.gov/study/NCT05167721"
+      }
+    ],
+    "en": {
+      "dateDisplay": "Ongoing",
+      "tag": "Cell therapy",
+      "body": "<b>Mayo Clinic's intrathecal autologous MSC</b> randomised, double-blind, placebo-controlled Ph2 (NCT05167721) is ongoing, with primary completion estimated 2026/12 — the pivotal test for cell therapy in MSA.",
+      "note": "→ The earlier Ph1/2 (n=24) used matched historical controls; this trial adds a concurrent placebo.",
+      "links": [
+        {
+          "label": "NCT05167721 ↗",
+          "url": "https://clinicaltrials.gov/study/NCT05167721"
+        }
+      ]
+    }
+  }
+]

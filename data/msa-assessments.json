@@ -1,0 +1,171 @@
+[
+  {
+    "id": "umsars",
+    "abbr": "UMSARS",
+    "name": "Unified Multiple System Atrophy Rating Scale",
+    "nameZh": "多系統萎縮統一評分量表",
+    "year": 2004,
+    "developer": "Wenning、Tison 等（歐洲 MSA 研究小組 EMSA-SG）",
+    "domainKey": "global-clinical",
+    "measures": "四部分：Part I 病史/日常活動（12 項）、Part II 運動檢查（14 項）、Part III 自律神經（臥立血壓）、Part IV 整體失能等級。分數越高越差。",
+    "development": "為 MSA 量身打造的多維度半量化量表，於 4 中心 40 名 MSA 病人開發驗證。",
+    "validation": "內部一致性 Part I α 0.84、Part II α 0.90；多數項目評估者間信度良好；UMSARS-II 與 UPDRS-III、ICARS 高度相關（rs>0.8）。",
+    "useInTrials": "MSA 試驗事實上的主要療效量表——近期 ATH434、Lu AF82422、ION464 等試驗多以 UMSARS 或 modified UMSARS 為主/次要終點。",
+    "taiwan": "公開來源未見台灣本地心理計量驗證；台灣臨床/研究直接沿用。",
+    "tags": [
+      "主流"
+    ],
+    "highlight": true,
+    "en": {
+      "developer": "Wenning, Tison et al. (European MSA Study Group, EMSA-SG)",
+      "measures": "Four parts: Part I history/ADL (12 items), Part II motor exam (14 items), Part III autonomic (supine/standing BP), Part IV global disability. Higher = worse.",
+      "development": "A multidimensional semi-quantitative scale purpose-built for MSA; developed and validated in 40 MSA patients across 4 centres.",
+      "validation": "Internal consistency Part I alpha 0.84, Part II 0.90; mostly good inter-rater reliability; UMSARS-II correlates strongly with UPDRS-III and ICARS (rs>0.8).",
+      "useInTrials": "The de facto primary efficacy scale in MSA trials (ATH434, Lu AF82422, ION464, etc. use UMSARS or modified UMSARS as primary/secondary endpoints).",
+      "taiwan": "No Taiwan-local psychometric validation in public sources; used directly in Taiwan.",
+      "sources": [
+        {
+          "label": "Original development/validation, Wenning 2004 Mov Disord",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/15452868/"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "label": "原始開發驗證 Wenning 2004 Mov Disord",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15452868/"
+      }
+    ]
+  },
+  {
+    "id": "mumsars",
+    "abbr": "mUMSARS",
+    "name": "Modified UMSARS",
+    "nameZh": "改良版 UMSARS（試驗端點）",
+    "year": 2023,
+    "developer": "近期藥物試驗端點改良（如 Alterity ATH434 採 modified UMSARS Part I）",
+    "domainKey": "global-clinical",
+    "measures": "針對藥物試驗重新校準/聚焦的 UMSARS 版本，取對變化較敏感的項目作端點。",
+    "development": "為提高試驗靈敏度而改良；心理計量驗證持續進行中。",
+    "validation": "ATH434-201 Ph2 於 modified UMSARS Part I 達統計顯著改善（2025/01 topline）。",
+    "useInTrials": "新藥試驗端點（ATH434-201 Ph2 主要分析用）。",
+    "taiwan": "同 UMSARS。",
+    "tags": [
+      "試驗端點"
+    ],
+    "highlight": false,
+    "en": {
+      "developer": "Recent trial-endpoint refinement (e.g. Alterity's ATH434 used modified UMSARS Part I)",
+      "measures": "A recalibrated/focused UMSARS version selecting items more sensitive to change as a trial endpoint.",
+      "development": "Modified to improve trial sensitivity; psychometric validation ongoing.",
+      "validation": "ATH434-201 Ph2 showed statistically significant improvement on modified UMSARS Part I (Jan 2025 topline).",
+      "useInTrials": "Primary-analysis endpoint (ATH434-201 Ph2).",
+      "taiwan": "Same as UMSARS.",
+      "sources": [
+        {
+          "label": "Modified UMSARS psychometrics (Neurology)",
+          "url": "https://www.neurology.org/doi/10.1212/WNL.0000000000202223"
+        },
+        {
+          "label": "ATH434-201 trial NCT05109091",
+          "url": "https://clinicaltrials.gov/study/NCT05109091"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "label": "改良版 UMSARS 心理計量 (Neurology)",
+        "url": "https://www.neurology.org/doi/10.1212/WNL.0000000000202223"
+      },
+      {
+        "label": "ATH434-201 試驗 NCT05109091",
+        "url": "https://clinicaltrials.gov/study/NCT05109091"
+      }
+    ]
+  },
+  {
+    "id": "autonomic-scales",
+    "abbr": "SCOPA-AUT / COMPASS-31",
+    "name": "Autonomic symptom scales (SCOPA-AUT, COMPASS-31)",
+    "nameZh": "自律神經症狀量表（SCOPA-AUT／COMPASS-31）",
+    "year": 2004,
+    "developer": "SCOPA-AUT：Visser、Marinus 等（荷蘭，2004）；COMPASS-31：Sletten 等（美國 Mayo，2012）",
+    "domainKey": "autonomic",
+    "measures": "皆為病人自陳的自律神經症狀問卷。SCOPA-AUT 25 題（腸胃、泌尿、心血管、體溫調節、瞳孔、性功能）；COMPASS-31 為 31 題精簡加權版，可算總分。",
+    "development": "量化 MSA 核心特徵之一的自律神經功能障礙（MSA 診斷關鍵，尤其早期）。",
+    "validation": "兩者中度正相關（r≈0.61）；COMPASS-31 對 MSA-P 與 PD 的鑑別具篩檢價值。",
+    "useInTrials": "MSA 試驗的自律神經次要指標（病人自陳）。",
+    "taiwan": "有中文版可沿用；MSA 專屬台灣驗證未見。",
+    "tags": [
+      "自律神經",
+      "病人自陳"
+    ],
+    "highlight": false,
+    "en": {
+      "developer": "SCOPA-AUT: Visser, Marinus et al. (Netherlands, 2004); COMPASS-31: Sletten et al. (Mayo, USA, 2012)",
+      "measures": "Both are patient-reported autonomic symptom questionnaires. SCOPA-AUT: 25 items (GI, urinary, cardiovascular, thermoregulatory, pupillomotor, sexual). COMPASS-31: a 31-item refined weighted score.",
+      "development": "Quantify autonomic dysfunction — a core, early feature and diagnostic key of MSA.",
+      "validation": "Moderately correlated (r about 0.61); COMPASS-31 has screening value distinguishing MSA-P from PD.",
+      "useInTrials": "Autonomic secondary (patient-reported) measures in MSA trials.",
+      "taiwan": "Chinese versions available; no MSA-specific Taiwan validation found.",
+      "sources": [
+        {
+          "label": "COMPASS-31 original, Sletten 2012 Mayo Clin Proc",
+          "url": "https://www.mayoclinicproceedings.org/article/S0025-6196(12)01038-5/abstract"
+        },
+        {
+          "label": "COMPASS-31 screening in parkinsonian syndromes (PMC)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5500372/"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "label": "COMPASS-31 原始 Sletten 2012 Mayo Clin Proc",
+        "url": "https://www.mayoclinicproceedings.org/article/S0025-6196(12)01038-5/abstract"
+      },
+      {
+        "label": "COMPASS-31 於帕金森症候群篩檢 (PMC)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5500372/"
+      }
+    ]
+  },
+  {
+    "id": "borrowed-motor",
+    "abbr": "UPDRS-III / SARA / ICARS",
+    "name": "Borrowed motor scales for MSA subtypes",
+    "nameZh": "借用的運動量表（依亞型）",
+    "year": 0,
+    "developer": "沿用既有量表（非 MSA 專屬）",
+    "measures": "MSA-P（帕金森型）借用 MDS-UPDRS Part III（運動檢查）；MSA-C（小腦型）借用小腦失調量表 SARA／ICARS（詳見 SCA 知識庫）。",
+    "development": "因 MSA 橫跨帕金森與小腦兩種表現，臨床/試驗常併用對應亞型的既有量表補足 UMSARS。",
+    "validation": "各量表信效度見其原始文獻；UMSARS-II 本就與 UPDRS-III、ICARS 高度相關。",
+    "useInTrials": "作為 MSA-P／MSA-C 亞型的補充運動指標。",
+    "taiwan": "同各量表。",
+    "tags": [
+      "借用量表"
+    ],
+    "highlight": false,
+    "en": {
+      "developer": "Borrowed existing scales (not MSA-specific)",
+      "measures": "MSA-P (parkinsonian) borrows MDS-UPDRS Part III (motor exam); MSA-C (cerebellar) borrows the ataxia scales SARA/ICARS (see the SCA knowledge base).",
+      "development": "Because MSA spans parkinsonian and cerebellar phenotypes, trials often add the subtype-matched scale alongside UMSARS.",
+      "validation": "See each scale's original literature; UMSARS-II already correlates highly with UPDRS-III and ICARS.",
+      "useInTrials": "Supplementary motor measures for the MSA-P / MSA-C subtypes.",
+      "taiwan": "Same as each scale.",
+      "abbr": "Borrowed scales",
+      "sources": [
+        {
+          "label": "Correlation of UMSARS with UPDRS/ICARS (Wenning 2004)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/15452868/"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "label": "UMSARS 與 UPDRS/ICARS 相關性 (Wenning 2004)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15452868/"
+      }
+    ]
+  }
+]
