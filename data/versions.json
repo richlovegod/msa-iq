@@ -4,9 +4,21 @@
     "dateDisplay": "2026/07/22",
     "title": "MSA-IQ 情報站上線",
     "changes": [
-      "以 SCA-IQ v2.0 的雙語資料驅動架構建立獨立的 MSA（多系統萎縮症）情報站",
+      "以雙語資料驅動架構建立獨立的 MSA（多系統萎縮症）情報站",
       "六個分頁：總覽／在研療法全景／臨床開發進度（試驗＋讀出）／MSA 知識庫（量表・自然史・機轉）／科學情報（文獻・會議）／更新紀錄",
-      "全站中英切換；每一筆資料附可查證公開來源，AI 只整理判讀、不編造"
-    ]
+      "全站中英切換；每一筆資料附可查證公開來源，AI 只整理判讀、不編造",
+      "收錄 11 個在研療法／學術案、8 個臨床試驗、9 筆試驗讀出、4 項評估量表、3 個自然史世代、3 則機轉重點、9 篇近期文獻",
+      "納入每日 09:45 自動掃描（ClinicalTrials.gov／PubMed／各家 IR 與產業新聞）"
+    ],
+    "en": {
+      "title": "MSA-IQ goes live",
+      "changes": [
+        "An independent MSA (multiple system atrophy) intelligence site built on a bilingual, data-driven architecture",
+        "Six tabs: Overview / Therapy Landscape / Clinical Development (trials + readouts) / MSA Knowledge Base (scales, natural history, mechanism) / Scientific Intel (literature, conferences) / Changelog",
+        "Site-wide Chinese/English switching; every entry cites a verifiable public source — the AI compiles and interprets, it does not invent",
+        "Covers 11 therapies and academic programmes, 8 clinical trials, 9 trial readouts, 4 rating scales, 3 natural-history cohorts, 3 mechanism topics and 9 recent papers",
+        "Included in the daily 09:45 automated scan (ClinicalTrials.gov, PubMed, company IR and trade press)"
+      ]
+    }
   }
 ]
