@@ -498,7 +498,7 @@ function renderLandscape(){
   var t=q2('txCount'); if(t&&compData.length) t.textContent=compData.length;
   var cc=q2('cellCount'); if(cc&&compData.length) cc.textContent=compData.filter(function(c){return c.category==='cell';}).length;
 }
-fetch('data/msa-competitors.json').then(function(r){return r.json();}).then(function(d){compData=d;renderLandscape();}).catch(function(){
+fetch('data/msa-competitors.json',{cache:'no-cache'}).then(function(r){return r.json();}).then(function(d){compData=d;renderLandscape();}).catch(function(){
   var ul=q2('lsList'); if(ul) ul.innerHTML='<li style="color:#8b9bb0">'+T('errLoad')+'</li>';});
 
 /* ── 臨床試驗雷達 ── */
@@ -513,7 +513,7 @@ function renderTrials(){
   var p3=q2('ph3Count');
   if(p3&&trialsData.length) p3.textContent=trialsData.filter(function(t){return (t.phase||'').indexOf('Ph3')>=0;}).length;
 }
-fetch('data/msa-trials.json').then(function(r){return r.json();}).then(function(d){trialsData=d;renderTrials();}).catch(function(){});
+fetch('data/msa-trials.json',{cache:'no-cache'}).then(function(r){return r.json();}).then(function(d){trialsData=d;renderTrials();}).catch(function(){});
 
 /* ── 試驗結果與讀出 ── */
 var resultsData=[], resultsFilter='all';
@@ -543,7 +543,7 @@ function renderResults(){
   }).join('');
   q2('resultsCount').textContent=I18N.countRows[LANG](rows.length,(resultsFilter!=='all'||!!q));
 }
-fetch('data/msa-results.json').then(function(r){return r.json();}).then(function(d){resultsData=d;renderResults();}).catch(function(){});
+fetch('data/msa-results.json',{cache:'no-cache'}).then(function(r){return r.json();}).then(function(d){resultsData=d;renderResults();}).catch(function(){});
 
 /* ── 領域焦點 ── */
 var newsData=[];
@@ -557,7 +557,7 @@ function renderNews(){
     return '<li'+cls+'><span class="tag t-'+lv+'">'+esc(L(n,'tag'))+'</span>'+L(n,'body')+'<span class="date">'+esc(L(n,'dateDisplay'))+'</span>'+note+(links?('<br>'+links):'')+'</li>';
   }).join('');
 }
-fetch('data/msa-news.json').then(function(r){return r.json();}).then(function(d){newsData=d;renderNews();}).catch(function(){});
+fetch('data/msa-news.json',{cache:'no-cache'}).then(function(r){return r.json();}).then(function(d){newsData=d;renderNews();}).catch(function(){});
 
 /* ── 知識庫：評估量表 ── */
 function dBadge(a){var d=a.domainKey&&DOMAIN_LABEL[a.domainKey];if(!d)return '';return ' <span class="dbadge '+d.cls+'">'+esc(LANG==='en'?d.en:d.zh)+'</span>';}
@@ -578,7 +578,7 @@ function renderAssessments(){
   }).join('');
   q2('assessmentCount').textContent=I18N.countItems[LANG](rows.length,!!q);
 }
-fetch('data/msa-assessments.json').then(function(r){return r.json();}).then(function(d){assessmentsData=d;renderAssessments();}).catch(function(){});
+fetch('data/msa-assessments.json',{cache:'no-cache'}).then(function(r){return r.json();}).then(function(d){assessmentsData=d;renderAssessments();}).catch(function(){});
 
 /* ── 知識庫：自然史 ── */
 var nhData=[];
@@ -598,7 +598,7 @@ function renderNaturalHistory(){
   }).join('');
   q2('nhCount').textContent=I18N.countItems[LANG](rows.length,!!q);
 }
-fetch('data/msa-naturalhistory.json').then(function(r){return r.json();}).then(function(d){nhData=d;renderNaturalHistory();}).catch(function(){});
+fetch('data/msa-naturalhistory.json',{cache:'no-cache'}).then(function(r){return r.json();}).then(function(d){nhData=d;renderNaturalHistory();}).catch(function(){});
 
 /* ── 知識庫：機轉與臨床前 ── */
 var preData=[];
@@ -613,7 +613,7 @@ function renderPreclinical(){
       (src?('<br>'+src):'')+'</li>';
   }).join('');
 }
-fetch('data/msa-preclinical.json').then(function(r){return r.json();}).then(function(d){preData=d;renderPreclinical();}).catch(function(){});
+fetch('data/msa-preclinical.json',{cache:'no-cache'}).then(function(r){return r.json();}).then(function(d){preData=d;renderPreclinical();}).catch(function(){});
 
 /* ── 文獻雷達 ── */
 var papersData=[], papersExpanded=false, PAPER_RECENT=5;
@@ -636,11 +636,11 @@ function renderPapers(){
   if(q||total<=PAPER_RECENT){tog.style.display='none';}
   else{tog.style.display='';tog.textContent=papersExpanded?T('collapse'):I18N.showRest[LANG](total-PAPER_RECENT);}
 }
-fetch('data/msa-papers.json').then(function(r){return r.json();}).then(function(d){papersData=d;renderPapers();}).catch(function(){});
+fetch('data/msa-papers.json',{cache:'no-cache'}).then(function(r){return r.json();}).then(function(d){papersData=d;renderPapers();}).catch(function(){});
 
 /* ── meta / 心跳 ── */
 var metaData=null;
-fetch('data/meta.json').then(function(r){return r.json();}).then(function(m){
+fetch('data/meta.json',{cache:'no-cache'}).then(function(r){return r.json();}).then(function(m){
   metaData=m;
   if(q2('lastScan')) q2('lastScan').textContent=m.lastScan||'—';
   if(q2('nextScan')) q2('nextScan').textContent=m.nextScan||'—';
@@ -689,7 +689,7 @@ function renderEvents(){
       '<div class="en">'+esc(L(e,'name'))+loc+link+'</div>'+rel+'</div>';
   }).join('');
 }
-fetch('data/msa-events.json').then(function(r){return r.json();}).then(function(d){eventsData=d;renderEvents();}).catch(function(){
+fetch('data/msa-events.json',{cache:'no-cache'}).then(function(r){return r.json();}).then(function(d){eventsData=d;renderEvents();}).catch(function(){
   var b=q2('eventList'); if(b) b.innerHTML='<p style="color:#8b9bb0;font-size:12px">'+T('errLoad')+'</p>';});
 
 /* ── 更新紀錄 ── */
@@ -709,7 +709,7 @@ function renderChangelog(){
   if(rows.length<=CL_RECENT){tog.style.display='none';}
   else{tog.style.display='';tog.textContent=clExpanded?T('collapse'):I18N.showAllN[LANG](rows.length);}
 }
-fetch('data/msa-changelog.json').then(function(r){return r.json();}).then(function(d){changelogData=d;renderChangelog();renderHeartbeat();}).catch(function(){});
+fetch('data/msa-changelog.json',{cache:'no-cache'}).then(function(r){return r.json();}).then(function(d){changelogData=d;renderChangelog();renderHeartbeat();}).catch(function(){});
 
 setLang(LANG);
 </script>

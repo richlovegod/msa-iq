@@ -68,7 +68,7 @@ function render(){
       '<span class="vdate">'+esc(v.dateDisplay)+'</span></div><ul>'+items+'</ul></div>';
   }).join('');
 }
-fetch('data/versions.json').then(function(r){return r.json();}).then(function(d){versionsData=d;render();}).catch(function(){
+fetch('data/versions.json',{cache:'no-cache'}).then(function(r){return r.json();}).then(function(d){versionsData=d;render();}).catch(function(){
   var b=document.getElementById('verList'); if(b) b.innerHTML='<p style="color:#8b9bb0;font-size:12px">（版本資料載入失敗 / failed to load version data）</p>';
 });
 setLang(LANG);
