@@ -1,5 +1,41 @@
 [
   {
+    "id": "pubmed:42475080",
+    "date": "2026-07-20",
+    "dateDisplay": "2026/07",
+    "title": "Substantia Nigra Susceptibility-To-Volume Ratio Derived From QSM as a Marker for Discrimination of Progressive Supranuclear Palsy From Parkinson's Disease and Multiple System Atrophy",
+    "journal": "J Magn Reson Imaging · Candan HE 等",
+    "tag": "影像生物標記 · 鑑別診斷",
+    "highlight": false,
+    "note": "→ 以定量磁化率造影（QSM）計算黑質磁化率／體積比，作為 PSP 與 PD、MSA 鑑別的影像指標。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42475080/",
+    "urlLabel": "論文 ↗ PubMed 42475080",
+    "en": {
+      "journal": "J Magn Reson Imaging · Candan HE et al.",
+      "tag": "Imaging biomarker · differential diagnosis",
+      "note": "→ Uses the substantia nigra susceptibility-to-volume ratio from QSM as an imaging marker to separate PSP from Parkinson's disease and MSA.",
+      "urlLabel": "Paper ↗ PubMed 42475080"
+    }
+  },
+  {
+    "id": "pubmed:42476092",
+    "date": "2026-07-17",
+    "dateDisplay": "2026/07",
+    "title": "Involuntary inspiratory sigh in multiple system atrophy: A clinical and cerebral blood flow study",
+    "journal": "J Neurol Sci · Nakagawa Y 等",
+    "tag": "臨床表現 · 呼吸",
+    "highlight": false,
+    "note": "→ 探討 MSA 患者不隨意吸氣性歎息的臨床特徵與腦血流關聯，補充呼吸相關症狀的病生理描述。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42476092/",
+    "urlLabel": "論文 ↗ PubMed 42476092",
+    "en": {
+      "journal": "J Neurol Sci · Nakagawa Y et al.",
+      "tag": "Clinical features · respiration",
+      "note": "→ Examines the clinical features of involuntary inspiratory sighing in MSA and its relation to cerebral blood flow, adding to the pathophysiology of respiratory symptoms.",
+      "urlLabel": "Paper ↗ PubMed 42476092"
+    }
+  },
+  {
     "id": "pubmed:42475649",
     "date": "2026-07-20",
     "dateDisplay": "2026/07",

@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-07-23",
+    "dateDisplay": "2026/07/23",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "新增 2 篇文獻（QSM 黑質磁化率／體積比之 PSP/PD/MSA 鑑別、MSA 不隨意吸氣性歎息與腦血流研究）。",
+    "en": {
+      "tag": "Daily scan",
+      "body": "Added 2 papers (QSM substantia-nigra susceptibility-to-volume ratio for PSP/PD/MSA discrimination, and involuntary inspiratory sighing with cerebral blood flow in MSA)."
+    }
+  },
+  {
     "date": "2026-07-22",
     "dateDisplay": "2026/07/22",
     "tag": "系統上線",
