@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:42190663",
+    "date": "2026-07-23",
+    "dateDisplay": "2026/07",
+    "title": "TPPP/p25 amyloid seeding activity as a specific biomarker for multiple system atrophy",
+    "journal": "Cell · Zeng S 等",
+    "tag": "生物標記 · α-synuclein 病理",
+    "highlight": true,
+    "note": "→ 提出 TPPP/p25 的類澱粉種子活性可作為 MSA 的專一性生物標記，有助於與其他 α-synuclein 病變（如 PD、DLB）區分，屬領域內重量級機轉/診斷進展。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42190663/",
+    "urlLabel": "論文 ↗ PubMed 42190663",
+    "en": {
+      "journal": "Cell · Zeng S et al.",
+      "tag": "Biomarker · α-synuclein pathology",
+      "note": "→ Reports that TPPP/p25 amyloid seeding activity can serve as a specific biomarker for MSA, helping distinguish it from other α-synucleinopathies (e.g. PD, DLB); a high-impact mechanistic/diagnostic advance for the field.",
+      "urlLabel": "Paper ↗ PubMed 42190663"
+    }
+  },
+  {
     "id": "pubmed:42475080",
     "date": "2026-07-20",
     "dateDisplay": "2026/07",

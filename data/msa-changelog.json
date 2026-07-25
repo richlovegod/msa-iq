@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-07-25",
+    "dateDisplay": "2026/07/25",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "新增 1 篇文獻（Cell：TPPP/p25 類澱粉種子活性作為 MSA 專一性生物標記）。CT.gov 掃描未見在研療法新進者——新登錄的 Synusight SST001（NCT07604116）為 PET 造影示蹤劑、非治療藥物，依準則不收錄。",
+    "en": {
+      "tag": "Daily scan",
+      "body": "Added 1 paper (Cell: TPPP/p25 amyloid seeding activity as a specific biomarker for MSA). The CT.gov sweep surfaced no new investigational therapy — the newly registered Synusight SST001 (NCT07604116) is a PET imaging tracer, not a therapeutic, and is excluded per the inclusion criteria."
+    }
+  },
+  {
     "date": "2026-07-23",
     "dateDisplay": "2026/07/23",
     "tag": "每日掃描",
