@@ -78,27 +78,36 @@
     "company": "Alterity Therapeutics",
     "drug": "ATH434",
     "mechanism": "小分子（調節鐵/抑制 α-synuclein 聚集）",
-    "phase": "Ph2 → Ph3",
-    "status": "Ph2 正面（2025/01 topline，modified UMSARS-I 顯著改善）、推進 Ph3",
+    "phase": "Ph2 完成 → Ph3（註冊型）",
+    "status": "Ph2 正面（2025/01 topline，modified UMSARS-I 顯著改善）；<b>2026/07/07 公布 FDA End-of-Phase-2 會議紀錄，確認註冊路徑</b>——Ph3 約 200 人、1:1 隨機 ATH434 50mg 或安慰劑、每日兩次共 12 個月，主要終點為 11 項 UMSARS Part I；FDA 同意「單一樞紐試驗＋確認性證據」即可支持核准，公司稱 2026 年底前啟動 Ph3 作業。",
     "highlight": false,
     "relevance": "機制對手（正面）",
-    "note": "→ 目前 MSA 小分子最亮眼者：ATH434-201 於 modified UMSARS Part I 達統計與臨床顯著；獲 FDA Fast Track。屬 α-synuclein/鐵路線，與細胞治療機制不同。",
+    "note": "→ 目前 MSA 小分子最亮眼者：ATH434-201 於 modified UMSARS Part I 達統計與臨床顯著；獲 FDA Fast Track，且已與 FDA 就樞紐 Ph3 設計與主要終點取得一致。屬 α-synuclein／鐵路線，與細胞治療機制不同。",
     "en": {
-      "note": "The standout MSA small molecule: ATH434-201 hit statistically and clinically significant improvement on modified UMSARS Part I; FDA Fast Track. An alpha-synuclein/iron route, distinct from cell therapy.",
+      "note": "The standout MSA small molecule: ATH434-201 hit statistically and clinically significant improvement on modified UMSARS Part I; it holds FDA Fast Track and has now aligned with the FDA on pivotal Ph3 design and primary endpoint. An alpha-synuclein/iron route, distinct from cell therapy.",
       "mechanism": "Small molecule (iron modulation / inhibits α-synuclein aggregation)",
-      "status": "Positive Ph2 (2025/01 topline: significant improvement on modified UMSARS-I); advancing",
+      "status": "Positive Ph2 (2025/01 topline: significant improvement on modified UMSARS-I); <b>FDA End-of-Phase-2 meeting minutes announced 2026/07/07 confirmed the registrational pathway</b> — a Ph3 of roughly 200 patients randomised 1:1 to ATH434 50mg or placebo twice daily for 12 months, with the 11-item UMSARS Part I as the primary endpoint. The FDA agreed that a single pivotal trial plus confirmatory evidence could support approval, and the company says Ph3 activities will start by end-2026.",
       "relevance": "Mechanistic peer (positive)",
       "sources": [
         {
           "label": "ATH434 Ph2 trial NCT05109091",
           "url": "https://clinicaltrials.gov/study/NCT05109091"
+        },
+        {
+          "label": "FDA EOP2 meeting minutes (2026/07/07)",
+          "url": "https://www.biospace.com/press-releases/alterity-therapeutics-receives-fda-end-of-phase-2-meeting-minutes-confirming-registrational-pathway-for-ath434-in-multiple-system-atrophy"
         }
-      ]
+      ],
+      "phase": "Ph2 complete → registrational Ph3"
     },
     "sources": [
       {
         "label": "ATH434 Ph2 試驗 NCT05109091",
         "url": "https://clinicaltrials.gov/study/NCT05109091"
+      },
+      {
+        "label": "FDA EOP2 會議紀錄（2026/07/07）",
+        "url": "https://www.biospace.com/press-releases/alterity-therapeutics-receives-fda-end-of-phase-2-meeting-minutes-confirming-registrational-pathway-for-ath434-in-multiple-system-atrophy"
       }
     ],
     "category": "dmt"

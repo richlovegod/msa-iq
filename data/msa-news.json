@@ -1,5 +1,32 @@
 [
   {
+    "id": "ath434-ph3-fda-2026-07",
+    "date": "2026-07-07",
+    "dateDisplay": "2026/07",
+    "level": "info",
+    "tag": "法規里程碑",
+    "body": "<b>Alterity ATH434</b> 公布 FDA End-of-Phase-2 會議紀錄，確認 MSA 註冊路徑：Ph3 約 <b>200 人</b>、1:1 隨機 50mg 或安慰劑、每日兩次共 12 個月，主要終點 <b>11 項 UMSARS Part I</b>，次要終點含吞嚥障礙問卷、姿勢性低血壓症狀評估與 CGI-S；FDA 同意單一樞紐試驗加確認性證據即可支持核准。",
+    "note": "→ 公司稱 2026 年底前啟動 Ph3 作業。這是 MSA 領域少見已與 FDA 就樞紐設計取得一致的案例。",
+    "links": [
+      {
+        "label": "新聞稿 ↗",
+        "url": "https://www.biospace.com/press-releases/alterity-therapeutics-receives-fda-end-of-phase-2-meeting-minutes-confirming-registrational-pathway-for-ath434-in-multiple-system-atrophy"
+      }
+    ],
+    "en": {
+      "dateDisplay": "2026/07",
+      "tag": "Regulatory milestone",
+      "body": "<b>Alterity's ATH434</b> released FDA End-of-Phase-2 meeting minutes confirming its registrational pathway in MSA: a Ph3 of roughly <b>200 patients</b> randomised 1:1 to 50mg or placebo twice daily for 12 months, with the <b>11-item UMSARS Part I</b> as the primary endpoint and secondary endpoints including the Swallowing Disturbance Questionnaire, the Orthostatic Hypotension Symptom Assessment and CGI-S. The FDA agreed that a single pivotal trial plus confirmatory evidence could support approval.",
+      "note": "→ The company says Ph3 activities will begin by the end of 2026. Few MSA programmes have reached explicit FDA alignment on a pivotal design.",
+      "links": [
+        {
+          "label": "Press release ↗",
+          "url": "https://www.biospace.com/press-releases/alterity-therapeutics-receives-fda-end-of-phase-2-meeting-minutes-confirming-registrational-pathway-for-ath434-in-multiple-system-atrophy"
+        }
+      ]
+    }
+  },
+  {
     "id": "ath434-ph2-positive",
     "date": "2025-10-09",
     "dateDisplay": "2025/10",
@@ -76,33 +103,6 @@
         {
           "label": "NCT06706622 ↗",
           "url": "https://clinicaltrials.gov/study/NCT06706622"
-        }
-      ]
-    }
-  },
-  {
-    "id": "biogen-ion464-stop",
-    "date": "2025-02-12",
-    "dateDisplay": "2025/02",
-    "level": "hot",
-    "tag": "退場",
-    "body": "<b>Biogen 宣布終止 ION464／BIIB101</b>（α-synuclein ASO，鞘內）開發；Ionis 管線一度仍列。",
-    "note": "→ α-syn ASO 路線在 MSA 少一個大廠推手；公開來源未說明具體理由。",
-    "links": [
-      {
-        "label": "ALZFORUM ↗",
-        "url": "https://www.alzforum.org/therapeutics/ion464"
-      }
-    ],
-    "en": {
-      "dateDisplay": "2025/02",
-      "tag": "Exit",
-      "body": "<b>Biogen announced discontinuation of ION464/BIIB101</b> (intrathecal alpha-synuclein ASO); Ionis continued to list it for a time.",
-      "note": "→ The alpha-syn ASO route loses a large-cap sponsor; public sources give no specific rationale.",
-      "links": [
-        {
-          "label": "ALZFORUM ↗",
-          "url": "https://www.alzforum.org/therapeutics/ion464"
         }
       ]
     }

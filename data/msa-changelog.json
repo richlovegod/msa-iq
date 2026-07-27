@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-07-27",
+    "dateDisplay": "2026/07/27",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "新增 2 則文獻：<b>UK Biobank 巢式病例對照研究</b>（Mov Disord，114 例新發 MSA；居住鄉村為唯一隨潛伏期增強的暴露，5 年窗 OR 2.73）與<b>因斯布魯克團隊領域綜論</b>（J Neural Transm，指出 α-synuclein 標的治療迄今未展現一致臨床效益）。更新 <b>Alterity ATH434</b> 一列：2026/07/07 FDA End-of-Phase-2 會議紀錄確認註冊路徑（Ph3 約 200 人、主要終點 11 項 UMSARS Part I、單一樞紐試驗＋確認性證據），並加入領域焦點一則。CT.gov 近 7 天 MSA 適應症逐筆確認後無新療法試驗（其餘命中為肌少症、PSP 遠距監測等非 MSA 療法研究）。",
+    "en": {
+      "tag": "Daily scan",
+      "body": "Added 2 papers: a <b>UK Biobank nested case-control study</b> (Mov Disord; 114 incident MSA cases, with rural living the only exposure that strengthened with latency, 5-year OR 2.73) and a <b>field review from the Innsbruck group</b> (J Neural Transm, noting that α-synuclein-targeted therapies have not yet shown consistent clinical benefit). Updated the <b>Alterity ATH434</b> row: FDA End-of-Phase-2 meeting minutes announced 2026/07/07 confirmed the registrational pathway (Ph3 of ~200 patients, 11-item UMSARS Part I primary endpoint, single pivotal trial plus confirmatory evidence), and added a matching field-focus item. A study-by-study check of the last 7 days on CT.gov found no new MSA therapy trials (other hits were sarcopenia, PSP remote monitoring and similar non-MSA studies)."
+    }
+  },
+  {
     "date": "2026-07-25",
     "dateDisplay": "2026/07/25",
     "tag": "每日掃描",

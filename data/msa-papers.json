@@ -1,5 +1,41 @@
 [
   {
+    "id": "pubmed:42502215",
+    "date": "2026-07-25",
+    "dateDisplay": "2026/07/25",
+    "title": "Pre-Diagnostic Factors Associated with Coding-Based Incident Multiple System Atrophy: A Nested Case-Control Study of the UK Biobank",
+    "journal": "Mov Disord · Zhao CW 等（Mass General Brigham／哈佛醫學院）",
+    "tag": "流行病學 · 風險因子",
+    "highlight": false,
+    "note": "→ UK Biobank 巢式病例對照研究：114 例編碼判定之新發 MSA、1,139 例年齡性別配對新發 PD、1,075 名對照。抗組織胺使用、飲酒與身體活動下降在加入 5／10 年潛伏期窗後衰減，提示反向因果；statin 使用於基線與 5 年窗與較低風險相關（OR 0.34，95% CI 0.17–0.69），但與「中度偏高膽固醇亦呈較低風險」（OR 0.41，95% CI 0.24–0.72）方向不一致。<b>唯一隨潛伏期拉長而增強的暴露為居住鄉村</b>（5 年窗 OR 2.73，95% CI 1.32–5.65）。作者結論 MSA 有長期前驅階段，鄉村居住值得進一步研究。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42502215/",
+    "urlLabel": "論文 ↗ PubMed 42502215",
+    "en": {
+      "journal": "Mov Disord · Zhao CW et al. (Mass General Brigham / Harvard Medical School)",
+      "tag": "Epidemiology · risk factors",
+      "note": "→ A UK Biobank nested case-control study of 114 coding-based incident MSA cases, 1,139 age- and sex-matched incident PD cases and 1,075 controls. Antihistamine use, alcohol use and reduced physical activity attenuated once 5- and 10-year latency windows were applied, suggesting reverse causation. Statin use was associated with lower risk at baseline and at 5 years' latency (OR 0.34, 95% CI 0.17–0.69), but this was discordant with the lower risk also seen for moderately elevated cholesterol (OR 0.41, 95% CI 0.24–0.72). <b>Rural living was the only exposure whose effect strengthened with longer latency</b> (5-year OR 2.73, 95% CI 1.32–5.65). The authors conclude MSA has a long pre-diagnostic phase and that rural living warrants further investigation.",
+      "urlLabel": "Paper ↗ PubMed 42502215"
+    }
+  },
+  {
+    "id": "pubmed:42501123",
+    "date": "2026-07-25",
+    "dateDisplay": "2026/07/25",
+    "title": "Multiple system atrophy: cure and care",
+    "journal": "J Neural Transm · Buonocore J 等（因斯布魯克醫學大學／LMU 慕尼黑／Magna Graecia）",
+    "tag": "綜論 · 診斷與照護",
+    "highlight": false,
+    "note": "→ 因斯布魯克 Fanciulli／Stefanova 團隊的領域綜論：整理自症狀發生起中位存活 8–10 年、寡樹突膠細胞內 α-synuclein 形成膠質細胞質包涵體的病理核心，以及新版診斷準則與生物標記進展；指出前驅期與其他 α-synuclein 病變重疊仍使早期診斷困難。並直言<b>迄今以 α-synuclein 為標的的治療開發尚未展現一致的臨床效益</b>，現階段管理仍以症狀支持為主，遠距醫療與多專科照護模式正在改變臨床實務。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42501123/",
+    "urlLabel": "論文 ↗ PubMed 42501123",
+    "en": {
+      "journal": "J Neural Transm · Buonocore J et al. (Medical University of Innsbruck / LMU Munich / Magna Graecia)",
+      "tag": "Review · diagnosis and care",
+      "note": "→ A field review from the Innsbruck group (Fanciulli / Stefanova): median survival is 8–10 years from symptom onset, with α-synuclein accumulating in oligodendroglia as glial cytoplasmic inclusions at the pathological core; new diagnostic criteria and biomarkers have improved recognition, yet prodromal overlap with other α-synucleinopathies keeps early diagnosis difficult. The authors state plainly that <b>α-synuclein-targeted therapeutic development has not yet shown consistent clinical benefit</b>, that management remains largely supportive, and that telemedicine and multidisciplinary care models are reshaping practice.",
+      "urlLabel": "Paper ↗ PubMed 42501123"
+    }
+  },
+  {
     "id": "pubmed:42190663",
     "date": "2026-07-23",
     "dateDisplay": "2026/07",
