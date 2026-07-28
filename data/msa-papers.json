@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:42504722",
+    "date": "2026-07-27",
+    "dateDisplay": "2026/07/27",
+    "title": "Cerebellar Atrophy Modulates Freezing of Gait in Multiple System Atrophy Through Cognitive Dysfunction",
+    "journal": "CNS Neurosci Ther · Yang H 等（武漢大學人民醫院放射科）",
+    "tag": "影像 · 步態凍結與認知",
+    "highlight": false,
+    "note": "→ 106 名 MSA 病人（58 名有步態凍結 MSA-FOG、48 名無）以 FreeSurfer 與 SUIT 工具做小腦分區分割：MSA-FOG 組在執行功能、視空間、注意力、工作記憶、語言與延遲回憶皆有缺損，並見全小腦灰質與 I–X 分葉萎縮。迴歸顯示 <b>Crus II 萎縮可獨立預測 N-FOGQ 分數</b>，且執行功能與注意力缺損中介了 Crus II 體積減少與步態凍結嚴重度的關聯。作者提出小腦萎縮可作為 MSA 步態凍結的潛在影像標記。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42504722/",
+    "urlLabel": "論文 ↗ PubMed 42504722",
+    "en": {
+      "journal": "CNS Neurosci Ther · Yang H et al. (Department of Radiology, Renmin Hospital of Wuhan University)",
+      "tag": "Imaging · freezing of gait and cognition",
+      "note": "→ In 106 MSA patients (58 with freezing of gait, 48 without), cerebellar lobules were segmented with FreeSurfer and the SUIT toolbox. The MSA-FOG group showed deficits in executive function, visuospatial ability, attention, working memory, language and delayed recall, alongside atrophy of global cerebellar grey matter and lobules I–X. Regression showed that <b>Crus II atrophy independently predicted N-FOGQ scores</b>, with executive-function and attention deficits mediating the association between reduced Crus II volume and freezing severity. The authors propose cerebellar atrophy as a potential imaging marker for freezing of gait in MSA.",
+      "urlLabel": "Paper ↗ PubMed 42504722"
+    }
+  },
+  {
     "id": "pubmed:42502215",
     "date": "2026-07-25",
     "dateDisplay": "2026/07/25",

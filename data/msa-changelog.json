@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-07-28",
+    "dateDisplay": "2026/07/28",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "新增 1 則文獻：<b>小腦萎縮經由認知功能影響 MSA 步態凍結</b>（CNS Neurosci Ther，武漢大學人民醫院，n=106）——Crus II 萎縮可獨立預測 N-FOGQ 分數，執行功能與注意力缺損為中介因子。CT.gov 近 7 天 MSA 適應症逐筆確認後無新療法試驗或狀態變更。",
+    "en": {
+      "tag": "Daily scan",
+      "body": "Added 1 paper: <b>cerebellar atrophy influences freezing of gait in MSA through cognitive dysfunction</b> (CNS Neurosci Ther, Renmin Hospital of Wuhan University, n=106) — Crus II atrophy independently predicted N-FOGQ scores, mediated by executive-function and attention deficits. A study-by-study check of the last 7 days on CT.gov found no new MSA therapy trials or status changes."
+    }
+  },
+  {
     "date": "2026-07-27",
     "dateDisplay": "2026/07/27",
     "tag": "每日掃描",
