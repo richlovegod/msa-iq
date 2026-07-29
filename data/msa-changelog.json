@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-07-29",
+    "dateDisplay": "2026/07/29",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "新增 1 筆試驗：<b>Alterity ATH434 開放標籤延伸試驗 ATH434-203</b>（NCT07729852，2026/07 登錄）——僅供已完成 ATH434-201 的<b>法國</b>病人續用，收案上限 5 人、不新招募，75 mg 每日兩次口服，初期 12 個月，主要指標為安全性與耐受性，站點為土魯斯、波爾多、馬賽、巴黎。PubMed 近 7 天無未收錄之 MSA 標題論文（唯一新命中為 PSP／PD／MSA 鑑別影像的期刊評論，無摘要、暫不收錄）。",
+    "en": {
+      "tag": "Daily scan",
+      "body": "Added 1 trial: <b>Alterity's open-label extension ATH434-203</b> (NCT07729852, registered 2026/07) — continued access for <b>French</b> patients who completed ATH434-201 only, capped at 5 participants with no new recruitment, 75 mg orally twice daily for an initial 12 months, with safety and tolerability as the primary endpoints, at sites in Toulouse, Bordeaux, Marseille and Paris. PubMed showed no unrecorded MSA-titled papers in the last 7 days (the one new hit was a journal editorial on differentiating PSP, PD and MSA by imaging, with no abstract, so it was not added)."
+    }
+  },
+  {
     "date": "2026-07-28",
     "dateDisplay": "2026/07/28",
     "tag": "每日掃描",

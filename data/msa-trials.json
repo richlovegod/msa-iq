@@ -1,5 +1,23 @@
 [
   {
+    "nct": "NCT07729852",
+    "drug": "ATH434 延伸試驗（ATH434-203）",
+    "mechanism": "口服小分子鐵調節劑",
+    "phase": "Ph2 開放標籤延伸",
+    "status": "尚未收案（2026/07 登錄；僅提供已完成 ATH434-201 之法國病人續用，收案上限 5 人、不新招募；75 mg 每日兩次隨餐口服，初期 12 個月，主要指標為安全性／耐受性；站點：土魯斯、波爾多、馬賽、巴黎）",
+    "sponsor": "Alterity Therapeutics",
+    "cell": false,
+    "primary": "2029-07",
+    "url": "https://clinicaltrials.gov/study/NCT07729852",
+    "en": {
+      "drug": "ATH434 extension study (ATH434-203)",
+      "mechanism": "Oral small-molecule iron modulator",
+      "phase": "Ph2 open-label extension",
+      "status": "Not yet recruiting (registered 2026/07; provides continued access only for French patients who completed ATH434-201, capped at 5 participants with no new recruitment; 75 mg twice daily orally with food for an initial 12 months, primary endpoints are safety and tolerability; sites in Toulouse, Bordeaux, Marseille and Paris)",
+      "sponsor": "Alterity Therapeutics"
+    }
+  },
+  {
     "nct": "NCT06706622",
     "drug": "Amlenetug（Lu AF82422）",
     "mechanism": "抗 α-synuclein 單株抗體",
