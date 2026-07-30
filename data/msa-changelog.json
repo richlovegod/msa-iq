@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-07-30",
+    "dateDisplay": "2026/07/30",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "新增 1 則文獻：<b>2022 MDS 診斷準則之姿勢性低血壓條件驗證</b>（Eur Neurol，日本，n=451）——MDS 準則使 MSA 的姿勢性低血壓偵測率由 39.3% 升至 64.5%，但在帕金森病、路易體失智與純自主神經衰竭同樣大量命中；收縮壓過衝在 MSA 僅 6.5%，可能是鑑別線索。另新增 1 則領域焦點：<b>盤點以 MSA 為目標族群的 α-synuclein PET 造影示蹤劑</b>（MODAG [¹⁸F]MODAG-009／[¹¹C]MODAG-005、Synusight SST001）——屬造影示蹤劑非治療藥物，依準則不列入試驗雷達。CT.gov 近 7 天 MSA 掃描未見在研療法新進者（其餘命中為 SMA／DMD／肌少症等「atrophy」字面誤中）。",
+    "link": {
+      "label": "詳見 文獻雷達 ↗",
+      "tab": "si",
+      "anchor": "litradar"
+    },
+    "en": {
+      "tag": "Daily scan",
+      "body": "Added 1 paper: a <b>validation of the orthostatic-hypotension component of the 2022 MDS diagnostic criteria</b> (Eur Neurol, Japan, n=451) — the MDS criteria raise detection of orthostatic hypotension in MSA from 39.3% to 64.5% but also flag large fractions of Parkinson's disease, dementia with Lewy bodies and pure autonomic failure, while systolic overshoot occurs in only 6.5% of MSA and may serve as a differentiating clue. Also added one field item: a <b>stocktake of α-synuclein PET tracers that include MSA as a target population</b> (MODAG's [¹⁸F]MODAG-009 and [¹¹C]MODAG-005, Synusight's SST001) — these are imaging tracers rather than treatments, so per the inclusion rule they are not listed on the trial radar. The last 7 days of CT.gov MSA screening found no new investigational therapies; the remaining hits were literal false matches on \"atrophy\" from SMA, DMD and sarcopenia studies.",
+      "linkLabel": "See Literature Radar ↗"
+    }
+  },
+  {
     "date": "2026-07-29",
     "dateDisplay": "2026/07/29",
     "tag": "每日掃描",

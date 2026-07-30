@@ -1,5 +1,48 @@
 [
   {
+    "id": "asyn-pet-tracers-2026-07",
+    "date": "2026-07-30",
+    "dateDisplay": "2026/07",
+    "level": "info",
+    "tag": "生物標記",
+    "body": "掃描盤點目前已登錄的 <b>α-synuclein PET 造影示蹤劑臨床研究</b>，MSA 均列為目標族群：<b>MODAG GmbH</b> 的 [¹⁸F]MODAG-009（NCT07640555，Early Ph1，n=13，收案中，美國 Institute for Neurodegenerative Disorders／XingImaging，主要指標 SUVR，主要完成估 2027/05）與 [¹¹C]MODAG-005 再測信度先導研究（NCT07640542，Early Ph1，尚未收案）；另有 <b>Synusight Biotech（上海）</b>的 SST001（NCT07604116，Ph1，2026/05 起收案，評估安全性、生物分佈、輻射劑量與藥動）。",
+    "note": "→ 這些是造影示蹤劑而非治療藥物，故未列入試驗雷達。MSA 目前缺乏可在活體量化 α-synuclein 病理負荷的工具，臨床試驗多依賴 UMSARS 與腦部體積等間接指標；若示蹤劑取得驗證，將影響未來試驗的受試者分層與藥效藥理終點設計。",
+    "links": [
+      {
+        "label": "[¹⁸F]MODAG-009 ↗ NCT07640555",
+        "url": "https://clinicaltrials.gov/study/NCT07640555"
+      },
+      {
+        "label": "[¹¹C]MODAG-005 ↗ NCT07640542",
+        "url": "https://clinicaltrials.gov/study/NCT07640542"
+      },
+      {
+        "label": "SST001 ↗ NCT07604116",
+        "url": "https://clinicaltrials.gov/study/NCT07604116"
+      }
+    ],
+    "en": {
+      "dateDisplay": "2026/07",
+      "tag": "Biomarkers",
+      "body": "The sweep took stock of the <b>α-synuclein PET tracer studies currently registered</b>, all of which include MSA as a target population: <b>MODAG GmbH</b>'s [¹⁸F]MODAG-009 (NCT07640555, Early Ph1, n=13, recruiting at the Institute for Neurodegenerative Disorders / XingImaging in the US, SUVR as the primary measure, primary completion estimated 2027/05) and its [¹¹C]MODAG-005 test-retest pilot (NCT07640542, Early Ph1, not yet recruiting); plus <b>Synusight Biotech (Shanghai)</b>'s SST001 (NCT07604116, Ph1, recruiting since 2026/05, assessing safety, biodistribution, radiation dosimetry and pharmacokinetics).",
+      "note": "→ These are imaging tracers rather than treatments, so they are not listed on the trial radar. MSA currently lacks a tool for quantifying α-synuclein pathology in living patients, and trials rely on indirect measures such as UMSARS and brain volume; a validated tracer would change how future trials stratify participants and design pharmacodynamic endpoints.",
+      "links": [
+        {
+          "label": "[¹⁸F]MODAG-009 ↗ NCT07640555",
+          "url": "https://clinicaltrials.gov/study/NCT07640555"
+        },
+        {
+          "label": "[¹¹C]MODAG-005 ↗ NCT07640542",
+          "url": "https://clinicaltrials.gov/study/NCT07640542"
+        },
+        {
+          "label": "SST001 ↗ NCT07604116",
+          "url": "https://clinicaltrials.gov/study/NCT07604116"
+        }
+      ]
+    }
+  },
+  {
     "id": "ath434-ph3-fda-2026-07",
     "date": "2026-07-07",
     "dateDisplay": "2026/07",
@@ -22,33 +65,6 @@
         {
           "label": "Press release ↗",
           "url": "https://www.biospace.com/press-releases/alterity-therapeutics-receives-fda-end-of-phase-2-meeting-minutes-confirming-registrational-pathway-for-ath434-in-multiple-system-atrophy"
-        }
-      ]
-    }
-  },
-  {
-    "id": "ath434-ph2-positive",
-    "date": "2025-10-09",
-    "dateDisplay": "2025/10",
-    "level": "win",
-    "tag": "正面讀出",
-    "body": "<b>Alterity ATH434</b> Ph2（n=71）公布正面結果：改良版 UMSARS Part I 相對安慰劑顯著改善，50mg 相對治療效果 48%；於 ANA 與 MDS 大會發表。",
-    "note": "→ MSA 領域少見的正面 Ph2 訊號（公司發布口徑，待完整論文）。",
-    "links": [
-      {
-        "label": "MDS 發表 ↗",
-        "url": "https://www.globenewswire.com/news-release/2025/10/09/3164032/0/en/Alterity-Therapeutics-Presents-Positive-Data-from-ATH434-Phase-2-Trial-at-the-2025-International-Congress-of-Parkinson-s-Disease-and-Movement-Disorders.html"
-      }
-    ],
-    "en": {
-      "dateDisplay": "2025/10",
-      "tag": "Positive readout",
-      "body": "<b>Alterity's ATH434</b> reported positive Ph2 results (n=71): significant improvement over placebo on modified UMSARS Part I, with a 48% relative treatment effect at 50mg; presented at ANA and the MDS Congress.",
-      "note": "→ A rare positive Ph2 signal in MSA (company-framed; full publication pending).",
-      "links": [
-        {
-          "label": "MDS presentation ↗",
-          "url": "https://www.globenewswire.com/news-release/2025/10/09/3164032/0/en/Alterity-Therapeutics-Presents-Positive-Data-from-ATH434-Phase-2-Trial-at-the-2025-International-Congress-of-Parkinson-s-Disease-and-Movement-Disorders.html"
         }
       ]
     }

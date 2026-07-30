@@ -268,5 +268,23 @@
       "note": "→ Accompanying editorial on the ampreloxetine withdrawal trial above.",
       "urlLabel": "Paper ↗ PubMed 42475652"
     }
+  },
+  {
+    "id": "pubmed:42525578",
+    "date": "2026-07-29",
+    "dateDisplay": "2026/07/29",
+    "title": "Validation of orthostatic hypotension in MDS diagnostic criteria for multiple system atrophy",
+    "journal": "Eur Neurol · Yoshizaki S 等（日本）",
+    "tag": "診斷準則 · 姿勢性低血壓",
+    "highlight": false,
+    "note": "→ 451 人回溯性病歷比較（臨床可能 MSA 107、帕金森病 223、路易體失智 89、純自主神經衰竭 32）：以 2022 MDS 準則（收縮／舒張壓下降 >20／10 mmHg）判定，MSA 的姿勢性低血壓偵測率由 Gilman 準則的 39.3% 升至 <b>64.5%</b>（p<0.001），但同一準則在帕金森病（39.0%）、路易體失智（67.4%）與純自主神經衰竭（87.5%）也大量命中。<b>收縮壓過衝（overshoot）在 MSA 僅 6.5%</b>，顯著低於路易體失智 21.3%（p=0.002）與純自主神經衰竭 28.1%（p<0.001）。作者結論：MDS 準則對 MSA 的神經性姿勢性低血壓更敏感，而過衝頻率較低可協助與其他 α-synuclein 病鑑別，反映節後自主神經受損較輕。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42525578/",
+    "urlLabel": "論文 ↗ PubMed 42525578",
+    "en": {
+      "journal": "Eur Neurol · Yoshizaki S et al. (Japan)",
+      "tag": "Diagnostic criteria · orthostatic hypotension",
+      "note": "→ A retrospective chart review of 451 patients (clinically probable MSA 107, Parkinson's disease 223, dementia with Lewy bodies 89, pure autonomic failure 32): applying the 2022 MDS criteria (a fall of >20/10 mmHg systolic/diastolic) raised detection of orthostatic hypotension in MSA from 39.3% under the Gilman criteria to <b>64.5%</b> (p<0.001), but the same criteria also flagged large fractions of Parkinson's disease (39.0%), dementia with Lewy bodies (67.4%) and pure autonomic failure (87.5%). <b>Systolic overshoot occurred in only 6.5% of MSA</b>, significantly less than in dementia with Lewy bodies (21.3%, p=0.002) and pure autonomic failure (28.1%, p<0.001). The authors conclude that the MDS criteria detect neurogenic orthostatic hypotension in MSA more sensitively, and that the lower overshoot rate may help separate MSA from other synucleinopathies, reflecting less prominent postganglionic autonomic impairment.",
+      "urlLabel": "Paper ↗ PubMed 42525578"
+    }
   }
 ]
