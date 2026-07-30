@@ -1,5 +1,21 @@
 [
   {
+    "version": "v1.1",
+    "dateDisplay": "2026/07/31",
+    "title": "新增 Denali DNL422；與 SCA-IQ 合作機會頁互通",
+    "changes": [
+      "在研療法全景新增 Denali Therapeutics DNL422（OTV:SNCA）：TransportVehicle 血腦障壁平台、直接靶向 α-synuclein，仍在 IND-enabling、主打帕金森病",
+      "總覽新增姊妹站連結：MSA 相關的細胞治療與 CDMO 生態系對象，統一收錄於 SCA-IQ 的「合作機會」頁並標記「亦與 MSA 相關」，兩站不重複維護"
+    ],
+    "en": {
+      "title": "Denali's DNL422 added; linked to the SCA-IQ Partnering tab",
+      "changes": [
+        "Added Denali Therapeutics' DNL422 (OTV:SNCA) to the therapy landscape: a TransportVehicle blood-brain-barrier platform targeting alpha-synuclein directly, still IND-enabling and aimed at Parkinson's disease",
+        "Added a sister-site link on the Overview: MSA-relevant cell therapy and CDMO counterparties are consolidated on SCA-IQ's Partnering tab and flagged as also relevant to MSA, so the analysis is not maintained twice"
+      ]
+    }
+  },
+  {
     "version": "v1.0",
     "dateDisplay": "2026/07/22",
     "title": "MSA-IQ 情報站上線",

@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-07-31",
+    "dateDisplay": "2026/07/31",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "在研療法全景新增 Denali Therapeutics DNL422（OTV:SNCA）——以 TransportVehicle 平台穿越血腦障壁、直接靶向 α-synuclein，仍在 IND-enabling 階段、主打帕金森病；與 MSA 的關聯是機轉相鄰而非直接競爭（MSA 病灶在寡突膠細胞、帕金森在神經元）。另於總覽新增姊妹站連結：MSA 相關的細胞治療與 CDMO 生態系對象統一收錄於 SCA-IQ 的「合作機會」頁。",
+    "link": {
+      "label": "詳見 在研療法全景 ↗",
+      "tab": "ls"
+    },
+    "en": {
+      "tag": "Daily scan",
+      "body": "Added Denali Therapeutics' DNL422 (OTV:SNCA) to the therapy landscape — crossing the blood-brain barrier on the TransportVehicle platform and targeting alpha-synuclein directly, still IND-enabling and aimed at Parkinson's disease; its link to MSA is mechanistic adjacency rather than direct competition, since MSA pathology sits in oligodendrocytes and Parkinson's in neurons. A sister-site link was also added to the Overview: MSA-relevant cell therapy and CDMO counterparties are consolidated on SCA-IQ's Partnering tab.",
+      "linkLabel": "See Therapy Landscape ↗"
+    }
+  },
+  {
     "date": "2026-07-30",
     "dateDisplay": "2026/07/30",
     "tag": "每日掃描",

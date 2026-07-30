@@ -1,5 +1,32 @@
 [
   {
+    "id": "sca-iq-partnering-2026-07",
+    "date": "2026-07-31",
+    "dateDisplay": "2026/07",
+    "level": "info",
+    "tag": "姊妹站",
+    "body": "<b>SCA-IQ</b>（姊妹站）新增「<b>合作機會</b>」頁：涵蓋 12 個市場、三層對象（競品／治療型／製造生態系）共 68 家的合作角度分析與市場覆蓋地圖。MSA 領域的細胞治療與 CDMO 生態系與 SCA 高度重疊，相關對象一併收錄於該頁並標記「亦與 MSA 相關」。",
+    "note": "→ 細胞治療的製造與供應鏈是跨疾病共用的，兩站不重複維護同一份合作分析。",
+    "links": [
+      {
+        "label": "SCA-IQ 合作機會 ↗",
+        "url": "https://richlovegod.github.io/sca-iq/#pa"
+      }
+    ],
+    "en": {
+      "dateDisplay": "2026/07",
+      "tag": "Sister site",
+      "body": "<b>SCA-IQ</b> has added a <b>Partnering</b> tab: a partnering assessment and market coverage map spanning 68 companies across 12 markets and three layers (rivals, therapeutic developers, and the manufacturing ecosystem). Cell therapy and CDMO ecosystems overlap heavily between MSA and SCA, so the relevant counterparties are covered there and flagged as also relevant to MSA.",
+      "note": "Manufacturing and supply chains in cell therapy are shared across diseases, so the same partnering analysis is not maintained twice.",
+      "links": [
+        {
+          "label": "SCA-IQ Partnering ↗",
+          "url": "https://richlovegod.github.io/sca-iq/#pa"
+        }
+      ]
+    }
+  },
+  {
     "id": "asyn-pet-tracers-2026-07",
     "date": "2026-07-30",
     "dateDisplay": "2026/07",

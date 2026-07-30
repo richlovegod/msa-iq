@@ -385,5 +385,38 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/42475649/"
       }
     ]
+  },
+  {
+    "id": "dnl422",
+    "company": "Denali Therapeutics",
+    "drug": "DNL422（OTV:SNCA）",
+    "mechanism": "以 TransportVehicle（TV）平台穿越血腦障壁，直接靶向 α-synuclein 以減少毒性聚集",
+    "phase": "IND-enabling",
+    "status": "尚未進入臨床；列於 2025–2027 IND-enabling 名單，最快 2026 進入臨床，目前主打帕金森病",
+    "highlight": false,
+    "relevance": "機轉相鄰、標的相同但靶細胞不同",
+    "note": "→ 與 MSA 的關聯是機轉相鄰而非直接競爭：MSA 與帕金森同屬 α-synuclein 病變，但 MSA 病灶在寡突膠細胞、帕金森在神經元，靶細胞不同，藥物未必能直接跨過去。真正的看點是 TV 血腦障壁平台——CNS 遞送若被解決，整個「打得到標的但送不進去」的失敗類別會被重新洗牌。",
+    "category": "asyn",
+    "sources": [
+      {
+        "label": "Denali 里程碑與優先事項（含 α-synuclein 計畫）",
+        "url": "https://investors.denalitherapeutics.com/news-releases/news-release-details/denali-therapeutics-announces-key-anticipated-2025-milestones"
+      }
+    ],
+    "en": {
+      "company": "Denali Therapeutics",
+      "drug": "DNL422 (OTV:SNCA)",
+      "mechanism": "Crosses the blood-brain barrier on the TransportVehicle (TV) platform, targeting alpha-synuclein directly to reduce toxic aggregates",
+      "phase": "IND-enabling",
+      "status": "Not yet in the clinic; listed among the 2025–2027 IND-enabling programmes and could enter trials as early as 2026, currently aimed at Parkinson's disease",
+      "relevance": "Adjacent mechanism, same target, different target cell",
+      "note": "Its link to MSA is mechanistic adjacency rather than direct competition: MSA and Parkinson's are both synucleinopathies, but MSA pathology sits in oligodendrocytes and Parkinson's in neurons, so a drug does not necessarily carry across. The point of interest is the TV blood-brain-barrier platform — solving CNS delivery would reshuffle the entire failure category of drugs that engage a target but cannot reach it.",
+      "sources": [
+        {
+          "label": "Denali milestones and priorities, including its alpha-synuclein programme",
+          "url": "https://investors.denalitherapeutics.com/news-releases/news-release-details/denali-therapeutics-announces-key-anticipated-2025-milestones"
+        }
+      ]
+    }
   }
 ]
