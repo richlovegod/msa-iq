@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-08-01",
+    "dateDisplay": "2026/08/01",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "新增 1 則文獻：<b>英國 ExPRESS 新發帕金森症候群前瞻世代研究計畫書</b>（BMJ Open，UCL／劍橋／布里斯托／牛津，n=500，其中 120 人做深度生物標記）——文中指出 MSA 自症狀發生到診斷中位數 3.1 年、遠長於帕金森氏症的 1.0–1.2 年，該世代的目標之一即建立可供疾病修飾治療試驗使用的 trial-ready 族群。CT.gov 近 7 天 MSA 掃描未見新的在研療法（Alterity ATH434-203 延伸試驗與 Teva TEV-56286 延伸試驗均已在列且狀態無變更；其餘命中為 SMA／原發性纖毛不動症等「atrophy」字面誤中）。Alterity 2026/07/30 之 Q4 FY26 季報僅重述 7 月已收錄的 FDA End-of-Phase-2 樞紐設計，無新事實，故不另收。",
+    "link": {
+      "label": "詳見 文獻雷達 ↗",
+      "tab": "si",
+      "anchor": "litradar"
+    },
+    "en": {
+      "tag": "Daily scan",
+      "body": "Added one paper: the protocol for <b>ExPRESS, a UK prospective cohort of incident parkinsonism</b> (BMJ Open; UCL / Cambridge / Bristol / Oxford; n=500, with 120 undergoing deep biomarker assessment). It notes a median 3.1 years from symptom onset to diagnosis in MSA against 1.0–1.2 years in Parkinson's disease, and one of the cohort's aims is to build a trial-ready population for disease-modifying treatment studies. The 7-day CT.gov sweep found no new MSA therapies in development: Alterity's ATH434-203 extension and Teva's TEV-56286 extension are both already listed with unchanged status, and the remaining hits were literal 'atrophy' matches such as SMA and primary ciliary dyskinesia. Alterity's Q4 FY26 quarterly report of 2026/07/30 only restates the FDA End-of-Phase-2 pivotal design already captured in July, so it was not recorded again.",
+      "linkLabel": "See Literature Radar ↗"
+    }
+  },
+  {
     "date": "2026-07-31",
     "dateDisplay": "2026/07/31",
     "tag": "每日掃描",

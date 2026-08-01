@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:42526929",
+    "date": "2026-07-29",
+    "dateDisplay": "2026/07/29",
+    "title": "Early assessment, diagnosis and treatment of Parkinsonism and Related Syndromes study (ExPRESS): a protocol for an observational study on incident parkinsonism",
+    "journal": "BMJ Open · Fumi RG 等（University College London／劍橋／布里斯托／牛津，英國）",
+    "tag": "世代研究 · 早期診斷",
+    "highlight": false,
+    "note": "→ 英國多中心前瞻性世代研究計畫書：招募 <b>500 名新發帕金森症候群病人</b>（須在首次專科門診後 12 個月內），其中 120 人於子站點接受深度生物標記評估（血液、部分收集腦脊髓液與皮膚切片、影像），並以病歷連結做終生追蹤。作者指出 MSA 自症狀發生到診斷的中位數為 <b>3.1 年</b>，遠長於帕金森氏症的 1.0–1.2 年；研究目標即改善 MSA 等非典型帕金森症候群的早期辨識，並建立可供疾病修飾治療試驗使用的「trial-ready」世代。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42526929/",
+    "urlLabel": "論文 ↗ PubMed 42526929",
+    "en": {
+      "journal": "BMJ Open · Fumi RG et al. (University College London / Cambridge / Bristol / Oxford, UK)",
+      "tag": "Cohort study · early diagnosis",
+      "note": "→ Protocol for a UK multicentre prospective cohort recruiting <b>500 people with incident parkinsonism</b> within 12 months of their first secondary-care appointment, with 120 participants at subset sites undergoing deep biomarker assessment (blood, and for some CSF and skin biopsy, plus imaging) and lifetime follow-up through medical-records linkage. The authors note that the median time from symptom onset to diagnosis is <b>3.1 years</b> in MSA, against 1.0–1.2 years in Parkinson's disease; the study aims to improve early recognition of atypical parkinsonian syndromes such as MSA and to build a trial-ready cohort for disease-modifying treatments.",
+      "urlLabel": "Paper ↗ PubMed 42526929"
+    }
+  },
+  {
     "id": "pubmed:42504722",
     "date": "2026-07-27",
     "dateDisplay": "2026/07/27",
