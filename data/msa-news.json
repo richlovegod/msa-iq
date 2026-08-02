@@ -32,7 +32,7 @@
     "dateDisplay": "2026/07",
     "level": "info",
     "tag": "生物標記",
-    "body": "掃描盤點目前已登錄的 <b>α-synuclein PET 造影示蹤劑臨床研究</b>，MSA 均列為目標族群：<b>MODAG GmbH</b> 的 [¹⁸F]MODAG-009（NCT07640555，Early Ph1，n=13，收案中，美國 Institute for Neurodegenerative Disorders／XingImaging，主要指標 SUVR，主要完成估 2027/05）與 [¹¹C]MODAG-005 再測信度先導研究（NCT07640542，Early Ph1，尚未收案）；另有 <b>Synusight Biotech（上海）</b>的 SST001（NCT07604116，Ph1，2026/05 起收案，評估安全性、生物分佈、輻射劑量與藥動）。",
+    "body": "掃描盤點目前已登錄的 <b>α-synuclein PET 造影示蹤劑臨床研究</b>，MSA 均列為目標族群：<b>MODAG GmbH</b> 的 [¹⁸F]MODAG-009（NCT07640555，Early Ph1，n=13，收案中，美國 Institute for Neurodegenerative Disorders／XingImaging，主要指標 SUVR，主要完成估 2027/05）與 [¹¹C]MODAG-005 再測信度先導研究（NCT07640542，Early Ph1，<b>2026/07/29 已啟動收案</b>，n=9、德國圖賓根大學醫院核醫科單中心，主要指標為注射後 4 日內之安全性與耐受性，主要完成估 2027/07）；另有 <b>Synusight Biotech（上海）</b>的 SST001（NCT07604116，Ph1、n=30，2026/06/15 起於上海華山醫院與江南大學附屬醫院收案，評估安全性、生物分佈、輻射劑量與藥動，主要完成估 2026/12）。",
     "note": "→ 這些是造影示蹤劑而非治療藥物，故未列入試驗雷達。MSA 目前缺乏可在活體量化 α-synuclein 病理負荷的工具，臨床試驗多依賴 UMSARS 與腦部體積等間接指標；若示蹤劑取得驗證，將影響未來試驗的受試者分層與藥效藥理終點設計。",
     "links": [
       {
@@ -51,7 +51,7 @@
     "en": {
       "dateDisplay": "2026/07",
       "tag": "Biomarkers",
-      "body": "The sweep took stock of the <b>α-synuclein PET tracer studies currently registered</b>, all of which include MSA as a target population: <b>MODAG GmbH</b>'s [¹⁸F]MODAG-009 (NCT07640555, Early Ph1, n=13, recruiting at the Institute for Neurodegenerative Disorders / XingImaging in the US, SUVR as the primary measure, primary completion estimated 2027/05) and its [¹¹C]MODAG-005 test-retest pilot (NCT07640542, Early Ph1, not yet recruiting); plus <b>Synusight Biotech (Shanghai)</b>'s SST001 (NCT07604116, Ph1, recruiting since 2026/05, assessing safety, biodistribution, radiation dosimetry and pharmacokinetics).",
+      "body": "The sweep took stock of the <b>α-synuclein PET tracer studies currently registered</b>, all of which include MSA as a target population: <b>MODAG GmbH</b>'s [¹⁸F]MODAG-009 (NCT07640555, Early Ph1, n=13, recruiting at the Institute for Neurodegenerative Disorders / XingImaging in the US, SUVR as the primary measure, primary completion estimated 2027/05) and its [¹¹C]MODAG-005 test-retest pilot (NCT07640542, Early Ph1, which <b>opened to recruitment on 29 July 2026</b> with n=9 at a single site, the nuclear medicine department of Tübingen University Hospital in Germany, safety and tolerability through four days post-injection as the primary measure and primary completion estimated 2027/07); plus <b>Synusight Biotech (Shanghai)</b>'s SST001 (NCT07604116, Ph1, n=30, recruiting since 15 June 2026 at Huashan Hospital in Shanghai and the Affiliated Hospital of Jiangnan University, assessing safety, biodistribution, radiation dosimetry and pharmacokinetics, primary completion estimated 2026/12).",
       "note": "→ These are imaging tracers rather than treatments, so they are not listed on the trial radar. MSA currently lacks a tool for quantifying α-synuclein pathology in living patients, and trials rely on indirect measures such as UMSARS and brain volume; a validated tracer would change how future trials stratify participants and design pharmacodynamic endpoints.",
       "links": [
         {

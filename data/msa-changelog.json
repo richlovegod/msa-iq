@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-08-02",
+    "dateDisplay": "2026/08/02",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "更新 α-synuclein PET 示蹤劑那則領域焦點：MODAG 的 <b>[¹¹C]MODAG-005 再測信度先導研究已於 2026/07/29 啟動收案</b>（NCT07640542，n=9、德國圖賓根大學醫院單中心，主要完成估 2027/07），原紀錄為「尚未收案」；同時依登錄資料校正 Synusight SST001 的起始日為 2026/06/15（原記為 2026/05）並補上站點與收案數。CT.gov 近 7 天 MSA 掃描未見新的在研療法（其餘命中為 SMA／DMD／原發性纖毛不動症等「atrophy」字面誤中）；PubMed 近 7 天 4 篇 MSA 標題文獻均已在文獻雷達內。",
+    "link": {
+      "label": "詳見 總覽 ↗",
+      "tab": "ov"
+    },
+    "en": {
+      "tag": "Daily scan",
+      "body": "Updated the α-synuclein PET tracer field-focus entry: MODAG's <b>[¹¹C]MODAG-005 test-retest pilot opened to recruitment on 29 July 2026</b> (NCT07640542, n=9, single site at Tübingen University Hospital in Germany, primary completion estimated 2027/07), where the record previously read 'not yet recruiting'. The start date for Synusight's SST001 was corrected to 15 June 2026 from 2026/05 per the registry, with sites and enrolment added. The 7-day CT.gov sweep found no new MSA therapies in development — the remaining hits were literal 'atrophy' matches such as SMA, DMD and primary ciliary dyskinesia — and all four MSA-titled PubMed papers from the past week were already on the literature radar.",
+      "linkLabel": "See Overview ↗"
+    }
+  },
+  {
     "date": "2026-08-01",
     "dateDisplay": "2026/08/01",
     "tag": "每日掃描",
