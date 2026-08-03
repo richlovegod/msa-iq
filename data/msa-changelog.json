@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-08-03",
+    "dateDisplay": "2026/08/03",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "臨床試驗雷達補收一筆：MODAG 的 <b>[¹¹C]MODAG-005</b> α-synuclein PET 放射配體先導試驗（NCT07640542、Early Ph1、收案中）。此案昨日已在領域焦點提及，但試驗雷達本身尚未建檔，今日補齊：n≈9，收 PD、MSA 病人與年齡配對健康對照，病人做兩次掃描、主要指標為注射後 4 天內安全性與耐受性並評估再測再現性，部分受試者在第二次掃描前口服 300 mg anle138b（emrusolmin）；單一站點為德國圖賓根大學醫院。<b>此為造影／生物標記工具而非治療藥物</b>，因 MSA 長期缺乏活體 α-synuclein 定量手段而收錄。CT.gov 近 7 天其餘命中為脊髓性肌肉萎縮症（salanersen）等「atrophy」字面誤中，不予收錄；PubMed 近 7 天 4 篇 MSA 標題文獻均已在文獻雷達內。",
+    "link": {
+      "label": "詳見 臨床試驗雷達 ↗",
+      "tab": "tr"
+    },
+    "en": {
+      "tag": "Daily scan",
+      "body": "One entry added to the trial radar: MODAG's <b>[¹¹C]MODAG-005</b> α-synuclein PET radioligand pilot (NCT07640542, Early Ph1, recruiting). The study was mentioned in yesterday's field focus but had no record on the trial radar itself, so it is filled in today: n≈9 across PD patients, MSA patients and age-matched healthy controls, with two scans for patients, safety and tolerability through 4 days post-injection as the primary endpoints alongside test-retest characteristics, and a subset receiving 300 mg oral anle138b (emrusolmin) before the second scan; the single site is Universitätsklinikum Tübingen in Germany. <b>This is an imaging and biomarker tool rather than a therapeutic</b>, recorded because MSA has long lacked a way to quantify α-synuclein in living patients. The remaining CT.gov hits from the past 7 days were literal 'atrophy' matches such as spinal muscular atrophy (salanersen) and were not recorded; all four MSA-titled PubMed papers from the past week were already on the literature radar.",
+      "linkLabel": "See Trial Radar ↗"
+    }
+  },
+  {
     "date": "2026-08-02",
     "dateDisplay": "2026/08/02",
     "tag": "每日掃描",

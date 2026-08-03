@@ -1,5 +1,23 @@
 [
   {
+    "nct": "NCT07640542",
+    "drug": "[11C]MODAG-005（PET 造影劑）",
+    "mechanism": "α-synuclein 病理沉積 PET 放射配體（非治療藥物）",
+    "phase": "Early Ph1（開放標籤、單一中心、前導期）",
+    "status": "收案中（2026/07/29 實際啟動；n≈9，收 PD、MSA 病人與年齡配對健康對照，病人做兩次掃描、對照做一次；主要指標為注射後 4 天內的安全性與耐受性，並評估 test-retest 再現性；部分受試者在第二次掃描前口服 300 mg anle138b（emrusolmin）；站點：德國圖賓根大學醫院）",
+    "sponsor": "MODAG GmbH",
+    "cell": false,
+    "primary": "2027-07",
+    "url": "https://clinicaltrials.gov/study/NCT07640542",
+    "en": {
+      "drug": "[11C]MODAG-005 (PET tracer)",
+      "mechanism": "PET radioligand for pathological α-synuclein deposition (not a therapeutic)",
+      "phase": "Early Ph1 (open-label, single-centre, pilot phase)",
+      "status": "Recruiting (actual start 2026/07/29; n≈9 across PD patients, MSA patients and age-matched healthy controls, with two scans for patients and one for controls; primary endpoints are safety and tolerability through 4 days post-injection, alongside test-retest characteristics; a subset receives 300 mg oral anle138b (emrusolmin) before the second scan; site: Universitätsklinikum Tübingen, Germany)",
+      "sponsor": "MODAG GmbH"
+    }
+  },
+  {
     "nct": "NCT07729852",
     "drug": "ATH434 延伸試驗（ATH434-203）",
     "mechanism": "口服小分子鐵調節劑",
