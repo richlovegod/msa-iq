@@ -1,5 +1,23 @@
 [
   {
+    "nct": "NCT07604116",
+    "drug": "SST001（PET 造影劑）",
+    "mechanism": "放射性標記 PET 造影劑（非治療藥物；標的分子公開登錄未載明）",
+    "phase": "Ph1（非隨機、開放標籤）",
+    "status": "收案中（2026/06/15 起始；n≈30，分健康受試者、MSA 病人與帕金森氏症病人三組；評估安全性、耐受性、生物分佈、輻射劑量學與藥物動力學；站點：中國）",
+    "sponsor": "Synusight Biotech（信立達，上海）",
+    "cell": false,
+    "primary": "",
+    "url": "https://clinicaltrials.gov/study/NCT07604116",
+    "en": {
+      "drug": "SST001 (PET tracer)",
+      "mechanism": "Radiolabelled PET imaging agent (not a therapeutic; the molecular target is not stated in the public registration)",
+      "phase": "Ph1 (non-randomised, open-label)",
+      "status": "Recruiting (start 2026/06/15; n≈30 across three groups — healthy volunteers, MSA patients and Parkinson's disease patients — assessing safety, tolerability, biodistribution, radiation dosimetry and pharmacokinetics; sites in China)",
+      "sponsor": "Synusight Biotech (Shanghai)"
+    }
+  },
+  {
     "nct": "NCT07640542",
     "drug": "[11C]MODAG-005（PET 造影劑）",
     "mechanism": "α-synuclein 病理沉積 PET 放射配體（非治療藥物）",

@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-08-05",
+    "dateDisplay": "2026/08/05",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "＊本次為 <b>08/04–08/05 兩日合併掃描</b>：08/04 排程未執行，已一併回補。臨床試驗雷達補收一筆：Synusight Biotech（上海）的 <b>SST001</b> PET 造影劑第一期試驗（NCT07604116、收案中、2026/06/15 起始），n≈30 分健康受試者／MSA／帕金森氏症三組，評估安全性、耐受性、生物分佈、輻射劑量學與藥物動力學，站點在中國；<b>此為造影工具而非治療藥物</b>，與 MODAG [¹¹C]MODAG-005 同類收錄，惟公開登錄未載明標的分子，不予臆測。文獻雷達新增 2 篇：<b>Magnetic Resonance Imaging</b> 的定量磁化率造影（QSM）傘狀回顧指出殼核與蒼白球磁化率升高可有效區分 MSA、進行性核上性麻痺與原發性帕金森氏症；<b>Frontiers in Immunology</b> 以 149 人（PD 75、MSA-P 74）比較早期兩病的單核球發炎型態與紅血球 α-突觸核蛋白區室化差異（單中心、尚未獨立驗證，另有同期更正啟事）。CT.gov 兩日內其餘命中為脊髓性肌肉萎縮症（risdiplam）等「atrophy」字面誤中及自律神經衰竭觀察性研究，不予收錄。",
+    "link": {
+      "label": "詳見 臨床試驗雷達 ↗",
+      "tab": "tr"
+    },
+    "en": {
+      "tag": "Daily scan",
+      "body": "*This is a <b>combined 04–05 August scan</b>: the scheduled run did not execute on 04 August and has been backfilled here. One entry added to the trial radar: Synusight Biotech's (Shanghai) Phase 1 study of the PET imaging agent <b>SST001</b> (NCT07604116, recruiting, started 2026/06/15), n≈30 across healthy volunteers, MSA and Parkinson's disease, assessing safety, tolerability, biodistribution, radiation dosimetry and pharmacokinetics at sites in China. <b>This is an imaging tool rather than a therapeutic</b>, recorded on the same basis as MODAG's [¹¹C]MODAG-005; the public registration does not state the molecular target, and none is inferred here. Two papers added to the literature radar: an umbrella review in <b>Magnetic Resonance Imaging</b> finding that elevated quantitative susceptibility in the putamen and globus pallidus effectively separates MSA and progressive supranuclear palsy from idiopathic Parkinson's disease; and a study in <b>Frontiers in Immunology</b> comparing monocyte inflammatory profiles and erythrocyte alpha-synuclein compartmentalisation across 149 participants (75 PD, 74 MSA-P) in early disease (single-centre, not independently replicated, with a correction notice also published). The remaining CT.gov hits across the two days were literal 'atrophy' matches such as spinal muscular atrophy (risdiplam) plus an observational autonomic-failure study, and were not recorded.",
+      "linkLabel": "See Trial Radar ↗"
+    }
+  },
+  {
     "date": "2026-08-03",
     "dateDisplay": "2026/08/03",
     "tag": "每日掃描",

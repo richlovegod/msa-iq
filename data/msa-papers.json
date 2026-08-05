@@ -1,5 +1,41 @@
 [
   {
+    "id": "pubmed:42546822",
+    "date": "2026-08-03",
+    "dateDisplay": "2026/08/03",
+    "title": "Quantitative susceptibility mapping in neurodegenerative diseases: An umbrella review of iron-related biomarkers and mechanisms",
+    "journal": "Magnetic Resonance Imaging · Ghaderi S, Mohammadi S, Iturria-Medina Y（蒙特婁神經學研究所／麥基爾大學，加拿大）",
+    "tag": "影像生物標記 · 定量磁化率造影",
+    "highlight": false,
+    "note": "→ 統合 15 篇系統性回顧的<b>傘狀回顧</b>，檢視定量磁化率造影（QSM）在各神經退化疾病作為鐵沉積生物標記的表現。與 MSA 直接相關的結論是：<b>殼核與蒼白球的磁化率升高可有效區分多系統萎縮症與進行性核上性麻痺、和原發性帕金森氏症</b>，QSM 在偵測病理性鐵累積上優於既有序列。⚠️ 為<b>回顧之回顧、非原始影像資料</b>，各原始研究的族群大小、判讀閾值與掃描參數不一致，臨床採用前仍需標準化。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42546822/",
+    "urlLabel": "論文 ↗ PubMed 42546822",
+    "en": {
+      "journal": "Magnetic Resonance Imaging · Ghaderi S, Mohammadi S, Iturria-Medina Y (Montreal Neurological Institute / McGill University, Canada)",
+      "tag": "Imaging biomarker · quantitative susceptibility mapping",
+      "note": "→ An <b>umbrella review</b> synthesising 15 systematic reviews on the performance of quantitative susceptibility mapping (QSM) as an iron-deposition biomarker across neurodegenerative disease. The finding of direct relevance to MSA: <b>elevated susceptibility in the putamen and globus pallidus effectively separates multiple system atrophy and progressive supranuclear palsy from idiopathic Parkinson's disease</b>, with QSM outperforming established sequences at detecting pathological iron accumulation. ⚠️ This is a <b>review of reviews rather than primary imaging data</b>; cohort sizes, thresholds and acquisition parameters differ across the underlying studies, so standardisation is still required before clinical adoption.",
+      "urlLabel": "Paper ↗ PubMed 42546822"
+    }
+  },
+  {
+    "id": "pubmed:42549349",
+    "date": "2026-07-09",
+    "dateDisplay": "2026/07/09",
+    "title": "GATD3A-mediated monocyte homeostasis and compartmentalized erythrocyte alpha-synuclein discriminate early Parkinson's disease from MSA-P",
+    "journal": "Frontiers in Immunology · Jiang Y, Xu C, Jin J 等（首都醫科大學附屬北京天壇醫院運動障礙中心／國家神經疾病臨床研究中心，中國）",
+    "tag": "MSA-P 鑑別診斷 · 血液生物標記",
+    "highlight": false,
+    "note": "→ 納入 <b>149 名受試者（帕金森氏症 75 人、MSA-P 74 人）</b>，尋找可在早期區分兩者的血液標記。臨床上 MSA-P 病人病程進展較快、自律神經衰竭較嚴重；分子層面，早期 MSA-P 的單核球呈現<b>由趨化因子驅動的侵襲性促發炎型態</b>，帕金森氏症則偏向保護性表現，而紅血球內 α-突觸核蛋白（含膜結合的寡聚體）在兩病間呈現不同的區室化分布。⚠️ 單中心世代、樣本數中等，尚未經獨立族群驗證；本文另有一則同期<b>更正啟事</b>（PubMed 42549319）。記錄價值：MSA-P 與帕金森氏症早期難以區分是此領域反覆出現的收案難題，可及的血液標記若能複製驗證，對縮短診斷時間與試驗篩選有實質意義。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42549349/",
+    "urlLabel": "論文 ↗ PubMed 42549349",
+    "en": {
+      "journal": "Frontiers in Immunology · Jiang Y, Xu C, Jin J et al. (Center for Movement Disorders, Beijing Tiantan Hospital, Capital Medical University / China National Clinical Research Center for Neurological Diseases, China)",
+      "tag": "MSA-P differential diagnosis · blood biomarker",
+      "note": "→ <b>149 participants (75 Parkinson's disease, 74 MSA-P)</b> were studied to find blood markers that separate the two conditions early. Clinically, the MSA-P group progressed faster and had more severe autonomic failure; molecularly, monocytes in early MSA-P showed an <b>aggressive, chemokine-driven pro-inflammatory profile</b> where Parkinson's disease trended protective, and erythrocyte alpha-synuclein — including membrane-sequestered oligomers — was compartmentalised differently between the two diseases. ⚠️ A single-centre cohort of moderate size, not yet replicated in an independent population; a <b>correction notice</b> for this article was also published (PubMed 42549319). Why it is recorded: distinguishing early MSA-P from Parkinson's disease is a recurring recruitment problem in this field, and accessible blood markers, if replicated, would meaningfully shorten time to diagnosis and improve trial screening.",
+      "urlLabel": "Paper ↗ PubMed 42549349"
+    }
+  },
+  {
     "id": "pubmed:42526929",
     "date": "2026-07-29",
     "dateDisplay": "2026/07/29",
