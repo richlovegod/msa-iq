@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-08-06",
+    "dateDisplay": "2026/08/06",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "文獻雷達新增 1 篇：四川大學華西醫院發表於 <b>The Journals of Gerontology Series A</b> 的兩年前瞻世代研究，收案 144 名早期 MSA 病人並依 MSA 專屬 MRI 標記分為影像陽性／陰性兩組，以 UMSARS 總分追蹤；影像陽性組在整體 MSA 與帕金森亞型的惡化速率<b>顯著較快</b>（p = 0.002、p = 0.020），校正年齡、性別與基線病程後於第 1、2 年皆為顯著預測因子。惟 144 人中僅 73 人完成兩年追蹤，且摘要未列出構成「影像陽性」的個別標記與閾值。CT.gov 當日更新中，MSA 相關者僅一筆美國 NINDS 慢性自律神經衰竭實驗室評估研究轉為「已完成」（觀察性研究，非療法，依準則不予收錄）；其餘為 risdiplam 等脊髓性肌肉萎縮症的「atrophy」字面誤中。產業新聞掃描（Alterity ATH434、Lundbeck amlenetug、Teva TEV-56286、Ono ONO-2808、Ionis ION464）未見近 7 天內的新事實。另本日將頁首「本週新增」KPI 依 git 紀錄逐筆核算為 6 筆，數字變動屬口徑校正。",
+    "link": {
+      "label": "詳見 文獻雷達 ↗",
+      "tab": "si",
+      "anchor": "litradar"
+    },
+    "en": {
+      "tag": "Daily scan",
+      "body": "One paper added to the literature radar: a two-year prospective cohort study from West China Hospital, Sichuan University, published in <b>The Journals of Gerontology Series A</b>, which enrolled 144 patients with early MSA, split them into MRI-positive and MRI-negative groups on MSA-specific imaging markers and followed them on the UMSARS total score. The MRI-positive group progressed <b>significantly faster</b>, both for MSA overall and for the parkinsonian subtype (p = 0.002 and p = 0.020), and MRI-positive status remained a significant predictor at both the 1- and 2-year visits after adjustment for age, sex and baseline disease duration. Only 73 of the 144 patients completed two years of follow-up, however, and the abstract does not specify which individual markers and thresholds define \"MRI-positive\". Among today's CT.gov updates the sole MSA-related record was a US NINDS laboratory evaluation of chronic autonomic failure moving to \"completed\" — an observational study rather than a therapeutic, so not recorded — with the remainder literal 'atrophy' matches such as risdiplam in spinal muscular atrophy. The industry news sweep (Alterity ATH434, Lundbeck amlenetug, Teva TEV-56286, Ono ONO-2808, Ionis ION464) surfaced no new facts within the past 7 days. The header \"new this week\" KPI was also recounted item by item from the git history today, giving 6; the change reflects the counting basis, not a change in activity.",
+      "linkLabel": "See Literature Radar ↗"
+    }
+  },
+  {
     "date": "2026-08-05",
     "dateDisplay": "2026/08/05",
     "tag": "每日掃描",
@@ -7,7 +24,8 @@
     "body": "＊本次為 <b>08/04–08/05 兩日合併掃描</b>：08/04 排程未執行，已一併回補。臨床試驗雷達補收一筆：Synusight Biotech（上海）的 <b>SST001</b> PET 造影劑第一期試驗（NCT07604116、收案中、2026/06/15 起始），n≈30 分健康受試者／MSA／帕金森氏症三組，評估安全性、耐受性、生物分佈、輻射劑量學與藥物動力學，站點在中國；<b>此為造影工具而非治療藥物</b>，與 MODAG [¹¹C]MODAG-005 同類收錄，惟公開登錄未載明標的分子，不予臆測。文獻雷達新增 2 篇：<b>Magnetic Resonance Imaging</b> 的定量磁化率造影（QSM）傘狀回顧指出殼核與蒼白球磁化率升高可有效區分 MSA、進行性核上性麻痺與原發性帕金森氏症；<b>Frontiers in Immunology</b> 以 149 人（PD 75、MSA-P 74）比較早期兩病的單核球發炎型態與紅血球 α-突觸核蛋白區室化差異（單中心、尚未獨立驗證，另有同期更正啟事）。CT.gov 兩日內其餘命中為脊髓性肌肉萎縮症（risdiplam）等「atrophy」字面誤中及自律神經衰竭觀察性研究，不予收錄。",
     "link": {
       "label": "詳見 臨床試驗雷達 ↗",
-      "tab": "tr"
+      "tab": "pl",
+      "anchor": "trialradar"
     },
     "en": {
       "tag": "Daily scan",
@@ -23,7 +41,8 @@
     "body": "臨床試驗雷達補收一筆：MODAG 的 <b>[¹¹C]MODAG-005</b> α-synuclein PET 放射配體先導試驗（NCT07640542、Early Ph1、收案中）。此案昨日已在領域焦點提及，但試驗雷達本身尚未建檔，今日補齊：n≈9，收 PD、MSA 病人與年齡配對健康對照，病人做兩次掃描、主要指標為注射後 4 天內安全性與耐受性並評估再測再現性，部分受試者在第二次掃描前口服 300 mg anle138b（emrusolmin）；單一站點為德國圖賓根大學醫院。<b>此為造影／生物標記工具而非治療藥物</b>，因 MSA 長期缺乏活體 α-synuclein 定量手段而收錄。CT.gov 近 7 天其餘命中為脊髓性肌肉萎縮症（salanersen）等「atrophy」字面誤中，不予收錄；PubMed 近 7 天 4 篇 MSA 標題文獻均已在文獻雷達內。",
     "link": {
       "label": "詳見 臨床試驗雷達 ↗",
-      "tab": "tr"
+      "tab": "pl",
+      "anchor": "trialradar"
     },
     "en": {
       "tag": "Daily scan",

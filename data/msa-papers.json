@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:42554316",
+    "date": "2026-08-05",
+    "dateDisplay": "2026/08/05",
+    "title": "Magnetic resonance imaging markers predict disease progression in early-stage multiple system atrophy: a 2-year prospective cohort study",
+    "journal": "The Journals of Gerontology Series A · Zhang L, Lin J, Li C 等，通訊作者 Shang H（四川大學華西醫院神經內科／罕見病中心，中國）",
+    "tag": "影像生物標記 · 病程預測",
+    "highlight": false,
+    "note": "→ 前瞻世代收案 <b>144 名早期 MSA 病人</b>，依 MSA 專屬 MRI 標記分為影像陽性與陰性兩組，以 <b>UMSARS</b> 總分、蒙特婁認知評估與額葉功能評估追蹤兩年，<b>73 人完成完整追蹤</b>。結果顯示影像陽性組在整體 MSA 與帕金森亞型（MSA-P）的 UMSARS 總分惡化<b>顯著較快</b>（p = 0.002 與 p = 0.020）；校正年齡、性別與基線病程後，影像陽性狀態在第 1 年與第 2 年皆為病程惡化的顯著預測因子（皆 p < 0.05）。作者結論為 MRI 標記除診斷用途外，亦具病程預測價值。⚠️ <b>單一中心世代，144 人中僅 73 人完成兩年追蹤（流失約半數）</b>，且原文摘要未列出構成「影像陽性」的個別標記與判讀閾值；跨中心採用前需確認標記定義與掃描參數一致性。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42554316/",
+    "urlLabel": "論文 ↗ PubMed 42554316",
+    "en": {
+      "journal": "The Journals of Gerontology Series A · Zhang L, Lin J, Li C et al., corresponding author Shang H (Department of Neurology / Rare Diseases Center, West China Hospital, Sichuan University, China)",
+      "tag": "Imaging biomarker · progression prediction",
+      "note": "→ A prospective cohort of <b>144 patients with early MSA</b> was split into MRI-positive and MRI-negative groups on the basis of MSA-specific MRI markers and followed for two years using the <b>UMSARS</b> total score, the Montreal Cognitive Assessment and the Frontal Assessment Battery; <b>73 patients completed the full follow-up</b>. The MRI-positive group progressed <b>significantly faster</b> on UMSARS total score, both for MSA overall and for the parkinsonian subtype MSA-P (p = 0.002 and p = 0.020). After adjustment for age, sex and baseline disease duration, MRI-positive status remained a significant predictor of more severe progression at both the 1- and 2-year visits (all p &lt; 0.05). The authors conclude that MRI markers carry prognostic as well as diagnostic value in early MSA. ⚠️ <b>A single-centre cohort in which only 73 of 144 patients completed two years of follow-up (roughly half were lost)</b>, and the published abstract does not specify which individual markers and thresholds constitute \"MRI-positive\"; marker definitions and acquisition parameters would need to be harmonised before multi-centre use.",
+      "urlLabel": "Paper ↗ PubMed 42554316"
+    }
+  },
+  {
     "id": "pubmed:42546822",
     "date": "2026-08-03",
     "dateDisplay": "2026/08/03",
