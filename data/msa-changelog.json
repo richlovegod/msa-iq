@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-08-08",
+    "dateDisplay": "2026/08/08",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "＊本次為 <b>08/07–08/08 兩日合併掃描</b>：08/07 排程未執行（該日無發布），已一併回補。文獻雷達新增 1 篇：東京都立神經病院發表於 <b>Movement Disorders Clinical Practice</b> 的回溯世代研究，分析 <b>215 名 MSA 病人</b>的<b>無氣切存活期</b>，平均存活 3.3 年（標準差 2.0）。多變量分析找出三個獨立危險因子：預後營養指數（PNI）偏低（HR 2.12，p = 0.018）、BMI 下降幅度較大（HR 2.90，p &lt; 0.001）、UMSARS 第一部分第 2 項吞嚥分數較高（HR 1.59，p = 0.014）；作者結論為營養狀態惡化<b>獨立於吞嚥困難嚴重度</b>之外預測較短存活。此為回溯性觀察研究，證明的是相關與預測而非「補充營養可延長存活」；其領域意義在於 PNI 與 BMI 變化取自例行血液檢查與體重，取得成本遠低於影像或體液生物標記，可作為試驗分層與存活分析的候選共變數。CT.gov 兩日內的 MSA 相關更新有二：Teva <b>TEV-56286（emrusolmin）Ph2 延伸試驗 NCT07197866</b> 於 08/07 更新登錄，狀態仍為收案中、與平台既有紀錄一致，無需異動；另一筆為范德堡大學 midodrine 對照腹部加壓的自律神經衰竭心血管風險標記研究（NCT04620382）轉為「已完成」，屬症狀處置的機轉研究、非疾病修飾療法，依準則不予收錄。其餘為 risdiplam 等脊髓性肌肉萎縮症的「atrophy」字面誤中。產業新聞掃描（Alterity ATH434、Lundbeck amlenetug、Teva TEV-56286、Ono ONO-2808、Tiziana foralumab、Ionis ION464）未見近 7 天內的新事實。",
+    "link": {
+      "label": "詳見 文獻雷達 ↗",
+      "tab": "si",
+      "anchor": "litradar"
+    },
+    "en": {
+      "tag": "Daily scan",
+      "body": "*This is a <b>combined 07–08 August scan</b>: the scheduled run did not execute on 07 August (nothing was published that day) and has been backfilled here. One paper added to the literature radar: a retrospective cohort study from Tokyo Metropolitan Neurological Hospital, published in <b>Movement Disorders Clinical Practice</b>, analysing <b>tracheostomy-free survival in 215 patients with MSA</b>, with mean survival of 3.3 years (SD 2.0). Multivariate analysis identified three independent risk factors: a lower prognostic nutritional index (PNI) (HR 2.12, p = 0.018), a greater decline in BMI (HR 2.90, p &lt; 0.001) and a higher UMSARS Part I item 2 swallowing score (HR 1.59, p = 0.014), leading the authors to conclude that nutritional decline predicts shorter survival <b>independently of the severity of dysphagia</b>. This is a retrospective observational study and establishes association and prediction rather than showing that nutritional support extends survival; its field relevance is that PNI and BMI change come from routine bloods and body weight, far cheaper to obtain than imaging or fluid biomarkers, making them candidate covariates for stratification and survival analysis in trials. Two MSA-related CT.gov updates appeared across the two days: Teva's <b>TEV-56286 (emrusolmin) Ph2 extension study NCT07197866</b> refreshed its record on 07 August, still recruiting and consistent with what the platform already holds, so no change was needed; and a Vanderbilt study of midodrine versus abdominal compression on cardiovascular risk markers in autonomic failure (NCT04620382) moved to \"completed\" — a mechanistic study of symptomatic management rather than a disease-modifying therapy, so not recorded. The remainder were literal 'atrophy' matches such as risdiplam in spinal muscular atrophy. The industry news sweep (Alterity ATH434, Lundbeck amlenetug, Teva TEV-56286, Ono ONO-2808, Tiziana foralumab, Ionis ION464) surfaced no new facts within the past 7 days.",
+      "linkLabel": "See Literature Radar ↗"
+    }
+  },
+  {
     "date": "2026-08-06",
     "dateDisplay": "2026/08/06",
     "tag": "每日掃描",

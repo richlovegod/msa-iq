@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:42563541",
+    "date": "2026-08-07",
+    "dateDisplay": "2026/08/07",
+    "title": "Nutritional Factors and Weight Loss Predict Tracheostomy-Free Survival in Multiple System Atrophy",
+    "journal": "Movement Disorders Clinical Practice · Asano Y, Bokuda K, Hayashi K 等（東京都立神經病院神經內科／東京都立府中療育中心，日本）· doi:10.1002/mdc3.70767",
+    "tag": "預後因子 · 營養與存活",
+    "highlight": false,
+    "note": "→ 回溯分析 <b>215 名 MSA 病人</b>，以<b>無氣切存活期</b>為終點檢驗營養指標的預測力。平均存活 <b>3.3 年（標準差 2.0）</b>。多變量分析顯示三個獨立危險因子：<b>預後營養指數（PNI）偏低</b>（HR 2.12，p = 0.018）、<b>BMI 下降幅度較大</b>（HR 2.90，p &lt; 0.001）、<b>UMSARS 第一部分第 2 項（吞嚥）分數較高</b>（HR 1.59，p = 0.014）。作者結論：以 PNI 與 ΔBMI 衡量的營養狀態惡化，<b>獨立於吞嚥困難嚴重度</b>之外預測較短的存活期。⚠️ <b>單一國家、以醫院為基礎的回溯世代，非隨機分派亦非介入研究——本研究證明的是「相關與預測」，不是「補充營養可延長存活」。</b> 領域意義：PNI 與 BMI 變化取自例行血液檢查與體重，<b>取得成本遠低於影像或體液生物標記</b>，可作為 MSA 試驗分層與存活分析的候選共變數。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42563541/",
+    "urlLabel": "論文 ↗ PubMed 42563541",
+    "en": {
+      "journal": "Movement Disorders Clinical Practice · Asano Y, Bokuda K, Hayashi K et al. (Department of Neurology, Tokyo Metropolitan Neurological Hospital / Tokyo Metropolitan Fuchu Medical Center for the Disabled, Japan) · doi:10.1002/mdc3.70767",
+      "tag": "Prognostic factors · nutrition and survival",
+      "note": "→ A retrospective analysis of <b>215 patients with MSA</b> tested the predictive value of nutritional measures against <b>tracheostomy-free survival</b>. Mean survival was <b>3.3 years (SD 2.0)</b>. Multivariate analysis identified three independent risk factors: <b>a lower prognostic nutritional index (PNI)</b> (HR 2.12, p = 0.018), <b>a greater decline in BMI</b> (HR 2.90, p &lt; 0.001) and <b>a higher score on UMSARS Part I item 2, swallowing</b> (HR 1.59, p = 0.014). The authors conclude that nutritional decline, captured by PNI and ΔBMI, predicts shorter survival <b>independently of the severity of dysphagia</b>. ⚠️ <b>A single-country, hospital-based retrospective cohort — not randomised and not an intervention study. It establishes association and prediction, not that nutritional support extends survival.</b> Field relevance: PNI and BMI change are derived from routine bloods and body weight, making them <b>far cheaper to obtain than imaging or fluid biomarkers</b>, and therefore candidate covariates for stratification and survival analysis in MSA trials.",
+      "urlLabel": "Paper ↗ PubMed 42563541"
+    }
+  },
+  {
     "id": "pubmed:42554316",
     "date": "2026-08-05",
     "dateDisplay": "2026/08/05",
