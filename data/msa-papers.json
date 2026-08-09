@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:42561997",
+    "date": "2026-08-06",
+    "dateDisplay": "2026/08/06",
+    "title": "Multiple system atrophy（德文綜述）",
+    "journal": "Fortschritte der Neurologie-Psychiatrie · Wilkens I, Katzdobler S, Bernhardt A, Höglinger G, Hopfner F（慕尼黑大學附設醫院神經科、德國神經退化疾病中心慕尼黑分部、慕尼黑系統神經學研究群 SyNergy，德國）· doi:10.1055/a-2877-5054",
+    "tag": "疾病綜述 · 診斷與研究方向",
+    "highlight": false,
+    "note": "→ 德語系神經科教學期刊的 MSA 綜述（線上先行）。整理現行共識：MSA 屬<b>非典型帕金森症候群</b>中罕見且進展快速的一種，臨床上合併<b>帕金森症狀、小腦性共濟失調與自律神經失調</b>；病理核心為<b>寡突膠細胞內錯誤摺疊的 α-突觸核蛋白堆積</b>所驅動的多系統神經退化。診斷依 <b>MDS 診斷準則</b>並輔以 MRI，惟<b>確診仍僅能靠死後病理</b>。目前<b>尚無疾病修飾療法</b>，處置以症狀治療與多科團隊照護為主；作者列出的研究優先方向為<b>生物標記開發</b>與<b>針對 α-突觸核蛋白聚集及神經發炎的介入</b>。⚠️ <b>本篇為綜述，非原始研究，不含新數據；德文撰寫。</b> 收錄理由：可作為現行診斷準則與領域共識的引用點，<b>「確診仍需死後病理」這一限制，正是本站追蹤中的多項影像與體液生物標記研究（如 MODAG [11C]MODAG-005 造影試驗）所要解決的問題</b>。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42561997/",
+    "urlLabel": "論文 ↗ PubMed 42561997",
+    "en": {
+      "journal": "Fortschritte der Neurologie-Psychiatrie · Wilkens I, Katzdobler S, Bernhardt A, Höglinger G, Hopfner F (Department of Neurology, LMU Klinikum; German Center for Neurodegenerative Diseases, Munich site; Munich Cluster for Systems Neurology, SyNergy, Germany) · doi:10.1055/a-2877-5054",
+      "tag": "Disease review · diagnosis and research directions",
+      "note": "→ A review of MSA in a German-language clinical neurology journal (online ahead of print), summarising current consensus: MSA is a rare, rapidly progressive member of the <b>atypical parkinsonian syndromes</b>, presenting with a combination of <b>parkinsonism, cerebellar ataxia and autonomic dysfunction</b>, and driven pathologically by <b>accumulation of misfolded α-synuclein in oligodendrocytes</b> causing multisystem neurodegeneration. Diagnosis rests on the <b>MDS criteria</b> supported by MRI, while <b>definitive confirmation remains post-mortem only</b>. There are <b>no disease-modifying treatments</b>; management is symptomatic and multidisciplinary. The authors name biomarker development and interventions targeting α-synuclein aggregation and neuroinflammation as research priorities. ⚠️ <b>This is a review, not primary research: it contains no new data, and is written in German.</b> Why it is included: it serves as a citable statement of the current diagnostic criteria and field consensus, and <b>the limitation it names — that definitive diagnosis is still post-mortem — is precisely the problem addressed by several imaging and fluid-biomarker efforts tracked on this site, such as the MODAG [11C]MODAG-005 imaging study</b>.",
+      "urlLabel": "Paper ↗ PubMed 42561997"
+    }
+  },
+  {
     "id": "pubmed:42563541",
     "date": "2026-08-07",
     "dateDisplay": "2026/08/07",

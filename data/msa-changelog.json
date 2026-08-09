@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-08-09",
+    "dateDisplay": "2026/08/09",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "文獻雷達新增 1 篇：慕尼黑大學附設醫院團隊發表於 <b>Fortschritte der Neurologie-Psychiatrie</b> 的 MSA 綜述（德文、線上先行）。整理現行共識——MSA 為非典型帕金森症候群中罕見且進展快速者，臨床合併帕金森症狀、小腦性共濟失調與自律神經失調，病理核心為<b>寡突膠細胞內錯誤摺疊 α-突觸核蛋白</b>驅動的多系統退化；診斷依 MDS 準則並輔以 MRI，<b>確診仍僅能靠死後病理</b>；目前無疾病修飾療法，處置以症狀治療與多科照護為主。作者列出的研究優先方向為生物標記開發，以及針對 α-突觸核蛋白聚集與神經發炎的介入。<b>本篇為綜述、不含新數據</b>，收錄理由是可作為現行診斷準則的引用點，且其點出的「確診須待死後病理」正是本站追蹤中多項影像／體液生物標記研究（如 MODAG [11C]MODAG-005 造影試驗 NCT07640542）所要解決的問題。CT.gov 當日回傳的 MSA 相關試驗（Teva TEV-56286 兩項、Lundbeck amlenetug、Alterity ATH434 法國開放標籤延伸、MODAG 造影、AskBio 前置研究等）<b>全部已在平台紀錄內、狀態無變動</b>，無新增。其餘回傳為 risdiplam、salanersen 等脊髓性肌肉萎縮症與肌少症的「atrophy」字面誤中，逐筆確認後排除。產業新聞掃描（Alterity ATH434、Lundbeck amlenetug、Teva TEV-56286、Ono ONO-2808、Tiziana foralumab、Ionis ION464）未見近 7 天內的新事實。",
+    "link": {
+      "label": "詳見 文獻雷達 ↗",
+      "tab": "si",
+      "anchor": "litradar"
+    },
+    "en": {
+      "tag": "Daily scan",
+      "body": "One paper added to the literature radar: a review of MSA from the Department of Neurology at LMU Klinikum, Munich, published in <b>Fortschritte der Neurologie-Psychiatrie</b> (in German, online ahead of print). It sets out the current consensus — MSA is a rare and rapidly progressive member of the atypical parkinsonian syndromes, presenting with parkinsonism, cerebellar ataxia and autonomic dysfunction, driven pathologically by <b>misfolded α-synuclein in oligodendrocytes</b> causing multisystem degeneration; diagnosis follows the MDS criteria supported by MRI, while <b>definitive confirmation remains post-mortem only</b>; and there are no disease-modifying treatments, so management is symptomatic and multidisciplinary. The authors name biomarker development and interventions against α-synuclein aggregation and neuroinflammation as research priorities. <b>It is a review and contains no new data</b>; it is included as a citable statement of the current criteria, and because the limitation it identifies — diagnosis confirmed only at autopsy — is exactly what several imaging and fluid-biomarker efforts tracked here are trying to solve, among them the MODAG [11C]MODAG-005 imaging study (NCT07640542). Every MSA-related trial returned by CT.gov today (two Teva TEV-56286 studies, Lundbeck's amlenetug, Alterity's French open-label extension of ATH434, the MODAG imaging study, the AskBio pre-gene-therapy study and others) was <b>already on the platform with no change of status</b>, so nothing was added. The remaining hits were literal 'atrophy' matches from spinal muscular atrophy and sarcopenia studies such as risdiplam and salanersen, excluded after checking each record. The industry news sweep (Alterity ATH434, Lundbeck amlenetug, Teva TEV-56286, Ono ONO-2808, Tiziana foralumab, Ionis ION464) surfaced no new facts within the past 7 days.",
+      "linkLabel": "See Literature Radar ↗"
+    }
+  },
+  {
     "date": "2026-08-08",
     "dateDisplay": "2026/08/08",
     "tag": "每日掃描",
