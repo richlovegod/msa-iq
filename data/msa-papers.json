@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:42572865",
+    "date": "2026-08-10",
+    "dateDisplay": "2026/08/10",
+    "title": "Clinicopathologic mismatch in young-onset parkinsonism: Multiple system atrophy masquerading as a neurotransmitter synthesis disorder",
+    "journal": "Clinical Neuropathology · Newman JM 等 · doi:10.5414/NP301756",
+    "tag": "診斷 · 臨床病理不一致",
+    "highlight": false,
+    "note": "→ 一例<b>年輕發病帕金森症候群</b>的臨床病理不一致案例：病人生前被診斷為神經傳導物質合成障礙（一類多屬可治療的遺傳性代謝疾病），<b>死後病理才確認實為 MSA</b>。⚠️ <b>單一個案報告，不能推論此類誤診的發生率。</b> 收錄理由：MSA 好發於 50–60 歲，年輕發病者本就罕見，本例顯示<b>在非典型年齡層，MSA 可以完全落在臨床鑑別診斷的視野之外</b>。這與本站已收錄的德文綜述指出的同一個結構性問題相扣——<b>確診至今仍只能靠死後病理</b>，臨床診斷準則在非典型表現上的敏感度有其上限。對疾病修飾療法的試驗設計而言，此類誤診方向（把 MSA 誤判為他病）意味著<b>部分病人在可介入的早期階段從未被納入試驗族群</b>。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42572865/",
+    "urlLabel": "論文 ↗ PubMed 42572865",
+    "en": {
+      "journal": "Clinical Neuropathology · Newman JM et al. · doi:10.5414/NP301756",
+      "tag": "Diagnosis · clinicopathologic mismatch",
+      "note": "→ A clinicopathologic mismatch in <b>young-onset parkinsonism</b>: the patient was diagnosed during life with a neurotransmitter synthesis disorder — a class of largely treatable inherited metabolic conditions — and <b>only post-mortem pathology established that the disease was in fact MSA</b>. ⚠️ <b>A single case report; no inference can be drawn about how often this misdiagnosis occurs.</b> Why it is included: MSA typically presents in the fifties and sixties, so young-onset cases are rare to begin with, and this one shows that <b>in an atypical age group MSA can fall entirely outside the clinical differential</b>. That ties back to the structural problem named in the German-language review already on this site — <b>definitive diagnosis still requires post-mortem pathology</b>, and the clinical criteria have a ceiling on sensitivity for atypical presentations. For disease-modifying trial design, a miss in this direction (MSA mistaken for another disease) means <b>some patients are never entered into the trial population during the window when intervention is still possible</b>.",
+      "urlLabel": "Paper ↗ PubMed 42572865"
+    }
+  },
+  {
     "id": "pubmed:42561997",
     "date": "2026-08-06",
     "dateDisplay": "2026/08/06",

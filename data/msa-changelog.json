@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-08-10",
+    "dateDisplay": "2026/08/10",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "文獻雷達新增 1 篇：<b>Clinical Neuropathology</b> 一則<b>年輕發病帕金森症候群</b>的臨床病理不一致個案——病人生前被診斷為神經傳導物質合成障礙（一類多屬可治療的遺傳性代謝疾病），<b>死後病理才確認實為 MSA</b>。<b>單一個案報告，不能推論誤診發生率</b>；收錄理由是它與前一日收錄的德文綜述指向同一個結構性限制：<b>MSA 確診至今仍只能靠死後病理</b>，而在非典型年齡層，MSA 可能完全不在臨床鑑別診斷的視野內。此類誤診方向對疾病修飾療法的意義在於，部分病人在仍可介入的早期階段從未被納入試驗族群。CT.gov 當日 MSA 查詢回傳的相關試驗（Teva TEV-56286 主試驗與延伸試驗、Lundbeck amlenetug MASCOT、Alterity ATH434 法國開放標籤延伸、MODAG [11C]MODAG-005 造影、Synusight SST001、AskBio 前置研究）<b>全部已在平台紀錄內、狀態無變動</b>；其餘回傳為 risdiplam、salanersen 等脊髓性肌肉萎縮症，以及肌少症、原發性纖毛不動症等「atrophy」字面誤中，逐筆確認適應症後排除。產業新聞掃描：<b>Alterity ATH434</b> 的 FDA End-of-Phase-2 註冊路徑（2026/07/07）與 <b>Lundbeck MASCOT 完成隨機分派</b>（2026/03/12 公告，較原訂提前）均為平台既已記錄的事實，本次未見近 7 天內的新事實。",
+    "link": {
+      "label": "詳見 文獻雷達 ↗",
+      "tab": "si",
+      "anchor": "litradar"
+    },
+    "en": {
+      "tag": "Daily scan",
+      "body": "One paper added to the literature radar: a clinicopathologic mismatch in <b>young-onset parkinsonism</b>, reported in <b>Clinical Neuropathology</b> — the patient was diagnosed during life with a neurotransmitter synthesis disorder, a class of largely treatable inherited metabolic conditions, and <b>only post-mortem pathology established the disease was MSA</b>. <b>It is a single case report and says nothing about how often this happens</b>; it is included because it points at the same structural limitation as the German-language review added the previous day: <b>definitive diagnosis of MSA still requires autopsy</b>, and in an atypical age group MSA may fall entirely outside the clinical differential. For disease-modifying therapy, a miss in this direction means some patients are never entered into the trial population while intervention is still possible. Every MSA-related trial returned by today's CT.gov query (Teva's TEV-56286 main and extension studies, Lundbeck's amlenetug MASCOT, Alterity's French open-label extension of ATH434, the MODAG [11C]MODAG-005 imaging study, Synusight's SST001 and the AskBio pre-gene-therapy study) was <b>already on the platform with no change of status</b>; the remaining hits were literal 'atrophy' matches — spinal muscular atrophy studies such as risdiplam and salanersen, plus sarcopenia and primary ciliary dyskinesia — excluded after checking the indication on each record. On the industry news side, <b>Alterity's FDA End-of-Phase-2 registrational pathway for ATH434</b> (2026/07/07) and <b>Lundbeck's completion of randomisation in MASCOT</b> (announced 2026/03/12, ahead of plan) are both facts the platform already records; no new facts within the past 7 days were found.",
+      "linkLabel": "See Literature Radar ↗"
+    }
+  },
+  {
     "date": "2026-08-09",
     "dateDisplay": "2026/08/09",
     "tag": "每日掃描",
