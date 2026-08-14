@@ -1,5 +1,32 @@
 [
   {
+    "id": "ath434-patent-2026-08",
+    "date": "2026-08-12",
+    "dateDisplay": "2026/08",
+    "level": "info",
+    "tag": "智慧財產",
+    "body": "<b>Alterity ATH434</b> 取得美國專利商標局新核准的<b>物質組成專利</b>：保護範圍為 ATH434<b>甲磺酸鹽的特定結晶型</b>，並涵蓋以該結晶型治療神經疾病的方法。公司表示此專利<b>將保護期延長至至少 2045 年</b>（自核准日起逾 18 年），且<b>此結晶型即為 Ph2 MSA 試驗所用、亦將用於規劃中的 Ph3</b>。",
+    "note": "→ 這是專利事項、非臨床或法規進展，本身不構成療效或安全性訊息。與 2026/07 的 FDA End-of-Phase-2 註冊路徑一併看，反映該案正在為公司稱 2026 年底啟動的 Ph3 作業鋪路。公司另稱此專利有利於未來拓展至帕金森病等涉及鐵代謝失衡與蛋白聚集的疾病。新聞稿未載專利號。",
+    "links": [
+      {
+        "label": "新聞稿 ↗",
+        "url": "https://www.biospace.com/press-releases/alterity-therapeutics-announces-granting-of-new-u-s-composition-of-matter-patent-for-ath434"
+      }
+    ],
+    "en": {
+      "dateDisplay": "2026/08",
+      "tag": "Intellectual property",
+      "body": "<b>Alterity's ATH434</b> has been granted a new US <b>composition-of-matter patent</b> by the USPTO, covering a <b>specific crystalline form of the mesylate salt</b> of ATH434 together with methods of treating neurological conditions using it. The company states the patent <b>extends protection to at least 2045</b> — more than 18 years from the grant date — and that <b>this is the form used in the Ph2 MSA trials and intended for the planned Ph3</b>.",
+      "note": "→ This is an intellectual-property matter rather than clinical or regulatory progress, and carries no information about efficacy or safety in itself. Read alongside the FDA End-of-Phase-2 registrational pathway of July 2026, it reflects groundwork for the Ph3 activities the company says will begin by the end of 2026. The company also states the patent supports future development in Parkinson's disease and other conditions involving disturbed iron handling and protein aggregation. The release does not give a patent number.",
+      "links": [
+        {
+          "label": "Press release ↗",
+          "url": "https://www.biospace.com/press-releases/alterity-therapeutics-announces-granting-of-new-u-s-composition-of-matter-patent-for-ath434"
+        }
+      ]
+    }
+  },
+  {
     "id": "sca-iq-partnering-2026-07",
     "date": "2026-07-31",
     "dateDisplay": "2026/07",

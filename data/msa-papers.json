@@ -1,5 +1,41 @@
 [
   {
+    "id": "pubmed:42587236",
+    "date": "2026-08-12",
+    "dateDisplay": "2026/08/12",
+    "title": "Cutaneous alpha-synuclein deposition informs autonomic function in individuals with early-stage multiple system atrophy",
+    "journal": "Clinical Autonomic Research · Trujillo P, Mann L, Bellaire B, Freeman R, Levine T, Gibbons CH, Cooper A, Wong C, Stamler D, Claassen DO（范德堡大學醫學中心神經科；CND Life Sciences；貝斯以色列女執事醫療中心神經科；Alterity Therapeutics）· doi:10.1007/s10286-026-01235-y",
+    "tag": "生物標記 · 皮膚切片",
+    "highlight": false,
+    "note": "→ <b>17 名早期 MSA 病人</b>的 12 個月縱貫研究，以<b>皮膚切片</b>量測皮膚神經的 <b>α-突觸核蛋白沉積</b>。結果：沉積量<b>自基線至 12 個月追蹤時上升</b>，且與<b>姿勢性低血壓與自律神經症狀</b>相關。作者結論為皮膚切片<b>可作為侵入性較低的工具</b>，用於輔助診斷、追蹤病程與臨床試驗的受試者分層。⚠️ <b>n=17、無疾病對照組（未與帕金森病等其他突觸核蛋白病變比較），因此本研究無法說明此指標的鑑別診斷特異度</b>；「與自律神經功能相關」是橫斷面相關性，不等於它能預測後續惡化速度。收錄理由：MSA 領域長年的結構性限制是<b>確診仍須死後病理</b>，而現行試驗的療效判讀高度倚賴 UMSARS 這類臨床評分；一個可重複取樣、能<b>量到病理蛋白本身</b>的週邊指標，正是本站同時追蹤的 α-突觸核蛋白 PET 示蹤劑（MODAG、Synusight）想解決的同一個問題，差別在於皮膚切片的技術門檻與成本遠低於 PET。<b>另需揭露：作者群包含 Alterity Therapeutics 兩名任職者</b>（Wong C、Stamler D），該公司 ATH434 為 MSA 在研藥物之一。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42587236/",
+    "urlLabel": "論文 ↗ PubMed 42587236",
+    "en": {
+      "journal": "Clinical Autonomic Research · Trujillo P, Mann L, Bellaire B, Freeman R, Levine T, Gibbons CH, Cooper A, Wong C, Stamler D, Claassen DO (Department of Neurology, Vanderbilt University Medical Center; CND Life Sciences; Department of Neurology, Beth Israel Deaconess Medical Center; Alterity Therapeutics) · doi:10.1007/s10286-026-01235-y",
+      "tag": "Biomarkers · skin biopsy",
+      "note": "→ A 12-month longitudinal study in <b>17 people with early-stage MSA</b>, using <b>skin biopsy</b> to measure <b>α-synuclein deposition</b> in cutaneous nerves. Deposition <b>increased from baseline to the 12-month visit</b> and correlated with <b>orthostatic hypotension and autonomic symptoms</b>. The authors conclude that skin biopsy <b>may serve as a minimally invasive tool</b> to support diagnosis, monitor progression and stratify participants in clinical trials. ⚠️ <b>With n=17 and no disease-control arm — no comparison against Parkinson's disease or other synucleinopathies — the study cannot speak to this measure's specificity for differential diagnosis</b>; the association with autonomic function is cross-sectional and does not establish that it predicts the rate of subsequent decline. Why it is included: the standing structural limitation in MSA is that <b>definitive diagnosis still requires post-mortem pathology</b>, while trials read out largely through clinical scales such as UMSARS. A repeatably samplable peripheral measure that captures <b>the pathological protein itself</b> addresses the same problem as the α-synuclein PET tracers this site also tracks (MODAG, Synusight), at far lower technical cost. <b>Disclosure: two of the authors are employees of Alterity Therapeutics</b> (Wong C, Stamler D), whose ATH434 is one of the investigational agents in MSA.",
+      "urlLabel": "Paper ↗ PubMed 42587236"
+    }
+  },
+  {
+    "id": "pubmed:42587657",
+    "date": "2026-07-31",
+    "dateDisplay": "2026/07/31",
+    "title": "Serum Trace-Element Profiles and Exploratory Composite Indices in Multiple System Atrophy: A Case-Control Study",
+    "journal": "Diagnostics (Basel) 16(15):2420 · Aksoy Gündoğdu A 等（土耳其泰基爾達 Namık Kemal 大學醫學院神經科；伊斯坦堡 Aydın 大學醫學院神經科）· doi:10.3390/diagnostics16152420",
+    "tag": "生物標記 · 血清微量元素",
+    "highlight": false,
+    "note": "→ <b>30 名 MSA 病人對 30 名對照</b>的病例對照研究，測定血清中 <b>11 種微量元素</b>。結果：MSA 組<b>鋁與銅較高、鐵與鋅較低</b>；作者自建的<b>金屬負荷指數（Metal Burden Index）</b>在 MSA 組較高，且<b>經年齡與性別校正後仍與 MSA 狀態相關</b>。⚠️ <b>作者自陳為探索性研究，並明言結果需在「疾病對照」與多中心世代中驗證</b>——這裡的「疾病對照」是關鍵缺口：本研究的對照組非帕金森病等其他神經退化疾病，因此無法判斷這個型態是 MSA 特有，還是神經退化的共通伴隨現象。樣本數 30 對 30 亦屬小規模，複合指數在自身資料上建構、未經獨立驗證，通常會高估其分辨能力。收錄理由：<b>鐵代謝失衡是本站追蹤中的機轉假說之一</b>——Alterity ATH434 的作用機轉即為調節腦內鐵的分布。<b>但兩者不可直接相連</b>：本研究量的是<b>血清</b>鐵並發現偏低，而該假說關切的是<b>腦部特定區域</b>的鐵沉積，血清濃度與腦內分布並非同一件事，本研究也未做任何影像或腦組織的對照。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42587657/",
+    "urlLabel": "論文 ↗ PubMed 42587657",
+    "en": {
+      "journal": "Diagnostics (Basel) 16(15):2420 · Aksoy Gündoğdu A et al. (Department of Neurology, Faculty of Medicine, Tekirdağ Namık Kemal University; Department of Neurology, Faculty of Medicine, Istanbul Aydın University, Turkey) · doi:10.3390/diagnostics16152420",
+      "tag": "Biomarkers · serum trace elements",
+      "note": "→ A case-control study of <b>30 people with MSA against 30 controls</b>, measuring <b>eleven trace elements</b> in serum. Patients with MSA had <b>higher aluminium and copper and lower iron and zinc</b>; a composite <b>Metal Burden Index</b> constructed by the authors was higher in MSA and <b>remained associated with MSA status after adjustment for age and sex</b>. ⚠️ <b>The authors describe the work as exploratory and state that the findings require validation in disease-control and multicentre cohorts</b> — and the disease-control gap is the decisive one: the comparison group here is not Parkinson's disease or another neurodegenerative condition, so the study cannot show whether this profile is specific to MSA or a general accompaniment of neurodegeneration. At 30 versus 30 the sample is small, and a composite index derived and evaluated on the same data will typically overstate how well it separates groups. Why it is included: <b>disturbed iron handling is one of the mechanistic hypotheses this site tracks</b> — Alterity's ATH434 acts by redistributing iron in the brain. <b>The two should not be joined directly</b>: this study measures <b>serum</b> iron and finds it low, whereas that hypothesis concerns iron deposition in <b>specific brain regions</b>. Serum concentration and brain distribution are not the same quantity, and no imaging or brain-tissue comparison was performed here.",
+      "urlLabel": "Paper ↗ PubMed 42587657"
+    }
+  },
+  {
     "id": "pubmed:42572865",
     "date": "2026-08-10",
     "dateDisplay": "2026/08/10",

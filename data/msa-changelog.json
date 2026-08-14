@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-08-14",
+    "dateDisplay": "2026/08/14",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "文獻雷達新增 2 篇、領域焦點新增 1 則。<b>（1）</b>范德堡大學醫學中心與 CND Life Sciences 團隊發表於 <b>Clinical Autonomic Research</b> 的 12 個月縱貫研究：<b>17 名早期 MSA</b> 病人的<b>皮膚切片 α-突觸核蛋白沉積自基線至 12 個月上升</b>，並與姿勢性低血壓與自律神經症狀相關，作者主張皮膚切片可作為侵入性較低的診斷輔助、病程追蹤與試驗分層工具。<b>n=17 且無疾病對照組</b>（未與帕金森病等其他突觸核蛋白病變比較），故無法說明鑑別診斷特異度；<b>作者群含 Alterity Therapeutics 兩名任職者</b>，一併揭露。收錄理由是它與本站追蹤的 α-突觸核蛋白 PET 示蹤劑（MODAG、Synusight）指向同一個缺口——MSA 確診迄今仍須死後病理，而皮膚切片的技術門檻與成本遠低於 PET。<b>（2）</b>土耳其兩校團隊發表於 <b>Diagnostics</b> 的病例對照研究：<b>30 對 30</b> 測定 11 種血清微量元素，MSA 組鋁、銅較高，鐵、鋅較低，自建之金屬負荷指數經年齡性別校正後仍相關。<b>作者自陳為探索性、需在疾病對照與多中心世代驗證</b>——對照組非其他神經退化疾病是關鍵缺口，且複合指數在自身資料上建構會高估分辨力；另需留意本研究量的是<b>血清</b>鐵並發現偏低，與「腦內特定區域鐵沉積」的機轉假說<b>不是同一件事</b>。<b>（3）</b>領域焦點：<b>Alterity ATH434</b> 於 2026/08/12 取得美國專利商標局新核准之<b>物質組成專利</b>（甲磺酸鹽特定結晶型＋治療方法），公司稱保護期延長至<b>至少 2045 年</b>，且該結晶型即 Ph2 所用、將用於規劃中的 Ph3；此為專利事項、非臨床或法規進展，新聞稿未載專利號。CT.gov 當日 MSA 查詢回傳之相關試驗（Teva TEV-56286 主試驗與延伸、Lundbeck amlenetug MASCOT、Alterity ATH434 開放標籤延伸、MODAG 造影、Synusight SST001、AskBio 前置研究）<b>全部已在平台紀錄內、狀態無變動</b>；其餘為 DMD、SMA、肌少症等「atrophy」字面誤中，逐筆確認適應症後排除。",
+    "link": {
+      "label": "詳見 文獻雷達 ↗",
+      "tab": "si",
+      "anchor": "litradar"
+    },
+    "en": {
+      "tag": "Daily scan",
+      "body": "Two papers added to the literature radar and one item to the field highlights. <b>(1)</b> A 12-month longitudinal study from Vanderbilt University Medical Center and CND Life Sciences in <b>Clinical Autonomic Research</b>: in <b>17 people with early-stage MSA</b>, <b>α-synuclein deposition on skin biopsy increased from baseline to 12 months</b> and correlated with orthostatic hypotension and autonomic symptoms, leading the authors to propose skin biopsy as a minimally invasive aid to diagnosis, progression monitoring and trial stratification. <b>With n=17 and no disease-control arm</b> — no comparison against Parkinson's disease or other synucleinopathies — it cannot speak to specificity for differential diagnosis; <b>two authors are employees of Alterity Therapeutics</b>, disclosed here. It is recorded because it addresses the same gap as the α-synuclein PET tracers this site tracks (MODAG, Synusight): definitive diagnosis of MSA still requires post-mortem pathology, and skin biopsy is far cheaper and technically simpler than PET. <b>(2)</b> A case-control study from two Turkish universities in <b>Diagnostics</b>: eleven serum trace elements measured in <b>30 patients versus 30 controls</b>, with higher aluminium and copper and lower iron and zinc in MSA, and a composite Metal Burden Index that remained associated after adjustment for age and sex. <b>The authors call the work exploratory and state it needs validation in disease-control and multicentre cohorts</b> — the absence of a neurodegenerative comparison group is the decisive gap, and an index derived and evaluated on the same data will overstate its separating power. Note too that this study measures <b>serum</b> iron and finds it low, which is <b>not the same quantity</b> as the regional brain iron deposition that the mechanistic hypothesis concerns. <b>(3)</b> Field highlight: on 12 August 2026 <b>Alterity's ATH434</b> was granted a new US <b>composition-of-matter patent</b> (a specific crystalline form of the mesylate salt, plus methods of treatment), which the company says extends protection to <b>at least 2045</b>, the form being the one used in Ph2 and intended for the planned Ph3. This is an intellectual-property matter rather than clinical or regulatory progress, and the release gives no patent number. Every MSA-related trial returned by today's CT.gov query (Teva's TEV-56286 main and extension studies, Lundbeck's amlenetug MASCOT, Alterity's ATH434 open-label extension, the MODAG imaging study, Synusight's SST001 and the AskBio pre-gene-therapy study) was <b>already on the platform with no change of status</b>; the remaining hits were literal 'atrophy' matches in DMD, SMA and sarcopenia, excluded after checking the indication on each record.",
+      "linkLabel": "See Literature Radar ↗"
+    }
+  },
+  {
     "date": "2026-08-10",
     "dateDisplay": "2026/08/10",
     "tag": "每日掃描",
