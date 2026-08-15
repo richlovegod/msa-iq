@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-08-15",
+    "dateDisplay": "2026/08/15",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "文獻雷達新增 2 篇，兩篇同日發表、同談 α-突觸核蛋白<b>株型（strain）</b>，且方向互補。<b>（1）</b>哥本哈根大學醫院、羅斯基勒大學與法國 Institut François Jacob 團隊發表於 <b>Neurobiology of Disease</b>：以蛋白質錯誤摺疊循環放大從 MSA 與帕金森病腦組織擴增 α-突觸核蛋白纖維，接種至神經元培養與小鼠比較——<b>MSA 來源纖維誘發較多磷酸化 α-突觸核蛋白病理，且誘發的寡突膠細胞病理顯著多於 PD 來源材料</b>，支持兩病纖維具不同生物特性。這與 MSA 病理上以<b>寡突膠細胞內膠質細胞質包涵體</b>為定義特徵相符。<b>屬動物與細胞實驗、非病人研究</b>，「較強效」指實驗系統中的接種能力，不可外推為病程速度或治療反應；<b>作者群含 H. Lundbeck A/S 四名任職者</b>（該公司 amlenetug 為本站追蹤之 MSA 在研藥物，機制正是針對細胞外 α-突觸核蛋白傳播），一併揭露。<b>（2）</b>多倫多大學 Tanz 中心、麻省總醫院與烏普薩拉大學團隊發表於 <b>Brain Pathology</b>：檢驗 MSA 兩個臨床亞型<b>小腦型（MSA-C）與帕金森型（MSA-P）</b>是否屬不同株型，以有限蛋白酶解與構形穩定性測定做生化指紋、並在基因轉殖小鼠做接種傳播比較，<b>結果均未能區分兩者</b>，作者解讀為源自同一株型在不同腦區成形。兩篇合看方向一致而非矛盾——<b>株型差異存在於 MSA 與 PD 之間，不存在於 MSA 內部</b>；若成立，這與現行 MSA 試驗多將兩亞型合併收案的作法前提相符。<b>惟第二篇是「未發現差異」的陰性結果</b>，陰性不等於證明相同，也可能是方法分辨力不足，該研究亦未報告樣本數是否足以排除中小幅度差異。另有一則 <b>Journal of Magnetic Resonance Imaging</b> 關於結構性 MRI 體積測量鑑別 PSP／PD／MSA 的<b>編輯評論</b>，因屬對他人研究的評論性短文、無原始數據，<b>經評估不予收錄</b>。CT.gov 當日 MSA 查詢近 7 天內<b>無新試驗、亦無狀態變動</b>：窗內更新的 MSA 相關筆為 Teva TEV-56286 延伸試驗（NCT07197866，已在紀錄內），其餘 08/11–08/13 更新者為 DMD、SMA 與前列腺癌試驗，屬「atrophy」字面誤中，逐筆確認適應症後排除。",
+    "link": {
+      "label": "詳見 文獻雷達 ↗",
+      "tab": "si",
+      "anchor": "litradar"
+    },
+    "en": {
+      "tag": "Daily scan",
+      "body": "Two papers added to the literature radar — published the same day, both on α-synuclein <b>strains</b>, and complementary in what they find. <b>(1)</b> From Copenhagen University Hospital, Roskilde University and the Institut François Jacob in France, in <b>Neurobiology of Disease</b>: α-synuclein fibrils were amplified from MSA and Parkinson's disease brain by protein misfolding cyclic amplification and inoculated into neuronal cultures and mice. <b>MSA-derived fibrils induced more phosphorylated α-synuclein pathology, and significantly more oligodendroglial pathology than PD-derived material</b>, supporting distinct biological properties for the fibrils of the two diseases — consistent with MSA being defined pathologically by the <b>glial cytoplasmic inclusion within oligodendrocytes</b>. <b>This is animal and cell work rather than a patient study</b>; \"more potent\" refers to seeding capacity in an experimental system and cannot be extrapolated to rate of progression or treatment response. <b>Four authors are employees of H. Lundbeck A/S</b>, whose amlenetug is one of the investigational MSA agents tracked here and whose mechanism targets the spread of extracellular α-synuclein — disclosed accordingly. <b>(2)</b> From the Tanz Centre at the University of Toronto with Massachusetts General Hospital and Uppsala University, in <b>Brain Pathology</b>: a test of whether the two clinical subtypes, <b>cerebellar (MSA-C) and parkinsonian (MSA-P)</b>, carry distinct strains, using limited proteolysis and a conformational stability assay for biochemical fingerprinting alongside seeding and progression comparisons in transgenic mice. <b>Neither approach distinguished the two</b>, which the authors read as one strain forming in different brain regions. Together the two papers point the same way rather than conflicting — <b>strain differences lie between MSA and PD, not within MSA</b> — and if that holds it matches the premise behind the prevailing practice of enrolling both subtypes into a single MSA trial. <b>The second paper is nonetheless a negative result</b>: failing to find a difference is not proof of sameness, the methods may lack the resolution for subtler differences, and the study does not report whether the sample could exclude a small or moderate one. A third hit, an <b>editorial</b> in the <b>Journal of Magnetic Resonance Imaging</b> on structural MRI volumetry for distinguishing PSP, PD and MSA, was <b>considered and excluded</b> as a short commentary on someone else's study carrying no primary data. Today's CT.gov query returned <b>no new MSA trials and no status changes</b> within the past 7 days: the one MSA-related record updated in the window was Teva's TEV-56286 extension study (NCT07197866), already on the platform, while the 11–13 August updates were DMD, SMA and prostate cancer trials — literal 'atrophy' matches, excluded after checking the indication on each.",
+      "linkLabel": "See Literature Radar ↗"
+    }
+  },
+  {
     "date": "2026-08-14",
     "dateDisplay": "2026/08/14",
     "tag": "每日掃描",

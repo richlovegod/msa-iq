@@ -1,5 +1,41 @@
 [
   {
+    "id": "pubmed:42600994",
+    "date": "2026-08-14",
+    "dateDisplay": "2026/08/14",
+    "title": "Multiple system atrophy-derived α-synuclein fibrils are more potent and display oligodendrocyte cell tropism compared to Parkinson's disease-derived fibrils",
+    "journal": "Neurobiology of Disease · Laursen AS, Willén K, Fenyi A, Volbracht C, Dalgaard LT, Aznar S, Melki R, Fog K, Sotty F（哥本哈根大學醫院神經科學與立體學中心暨哥本哈根轉譯研究中心；羅斯基勒大學；H. Lundbeck A/S；法國 Institut François Jacob 神經退化疾病實驗室）· doi:10.1016/j.nbd.2026.107575",
+    "tag": "機轉 · α-突觸核蛋白株型",
+    "highlight": false,
+    "note": "→ 以<b>蛋白質錯誤摺疊循環放大（PMCA）</b>從 MSA 與帕金森病（PD）病人腦組織擴增 α-突觸核蛋白纖維，再分別接種至<b>神經元培養與小鼠</b>比較其性質。結果：<b>MSA 來源的纖維在培養與活體中都誘發較多的磷酸化 α-突觸核蛋白病理</b>，且<b>誘發的寡突膠細胞病理顯著多於 PD 來源材料</b>。作者據此支持<b>株型假說（strain hypothesis）</b>——兩病的 α-突觸核蛋白纖維具有不同的生物特性。收錄理由：MSA 在病理上的定義特徵正是<b>寡突膠細胞內的膠質細胞質包涵體（GCI）</b>，而非 PD 的神經元路易體；本研究是少見地在同一套實驗條件下直接比較兩者接種行為、並在細胞層次重現此一分野的資料。⚠️ <b>這是動物與細胞實驗，不是病人研究</b>：PMCA 擴增出來的材料未必完全等同病人腦中的原始纖維，小鼠模型與人腦環境亦有差距，「較強效」指的是實驗系統中的接種能力，<b>不能外推為病程速度或治療反應</b>。⚠️ <b>另需揭露：作者群含 H. Lundbeck A/S 四名任職者</b>（Willén K、Volbracht C、Fog K、Sotty F），該公司的 amlenetug 為本站追蹤中的 MSA 在研藥物之一，且其機制正是針對細胞外 α-突觸核蛋白的傳播。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42600994/",
+    "urlLabel": "論文 ↗ PubMed 42600994",
+    "en": {
+      "journal": "Neurobiology of Disease · Laursen AS, Willén K, Fenyi A, Volbracht C, Dalgaard LT, Aznar S, Melki R, Fog K, Sotty F (Centre for Neuroscience and Stereology and Copenhagen Center for Translational Research, Copenhagen University Hospital; Roskilde University; H. Lundbeck A/S; Laboratory of Neurodegenerative Diseases, Institut François Jacob, France) · doi:10.1016/j.nbd.2026.107575",
+      "tag": "Mechanism · α-synuclein strains",
+      "note": "→ α-Synuclein fibrils were amplified from MSA and Parkinson's disease (PD) brain tissue by <b>protein misfolding cyclic amplification (PMCA)</b> and then inoculated into <b>neuronal cultures and mice</b> to compare their properties. <b>MSA-derived material induced more phosphorylated α-synuclein pathology in both cultures and mice</b>, and <b>notably produced significantly more oligodendroglial pathology than PD-derived material</b>. The authors read this as support for the <b>strain hypothesis</b> — that the α-synuclein fibrils of the two diseases have distinct biological properties. Why it is included: the defining pathological feature of MSA is the <b>glial cytoplasmic inclusion within oligodendrocytes</b>, as against the neuronal Lewy body of PD, and this is an uncommon direct comparison of the two seeding behaviours under one experimental protocol that reproduces that division at the cellular level. ⚠️ <b>This is animal and cell work, not a patient study</b>: PMCA-amplified material is not necessarily identical to the original fibrils in patient brain, mouse models differ from the human brain environment, and \"more potent\" refers to seeding capacity in an experimental system — <b>it cannot be extrapolated to rate of progression or response to treatment</b>. ⚠️ <b>Disclosure: four of the authors are employees of H. Lundbeck A/S</b> (Willén K, Volbracht C, Fog K, Sotty F), whose amlenetug is one of the investigational MSA agents tracked here and whose mechanism targets precisely the spread of extracellular α-synuclein.",
+      "urlLabel": "Paper ↗ PubMed 42600994"
+    }
+  },
+  {
+    "id": "pubmed:42601815",
+    "date": "2026-08-14",
+    "dateDisplay": "2026/08/14",
+    "title": "α-Synuclein strain homogeneity in multiple system atrophy subtypes",
+    "journal": "Brain Pathology · Lau HHC, Silver NRG, Mehra S, So RWL, Li LY, Mao A, Stuart E, Schmitt-Ulms C, Hyman BT, Ingelsson M, Watts JC（多倫多大學 Tanz 神經退化疾病研究中心暨生物化學系；麻省總醫院暨哈佛醫學院神經科、放射科與神經科學學程；多倫多大學 Krembil 腦研究所；烏普薩拉大學公共衛生與照護科學系老年醫學）· doi:10.1111/bpa.70134",
+    "tag": "機轉 · MSA 亞型株型",
+    "highlight": false,
+    "note": "→ 檢驗 MSA 的兩個臨床亞型——<b>小腦型（MSA-C）與帕金森型（MSA-P）</b>——體內的 α-突觸核蛋白聚集體是否屬於不同「株型」。作法是取病人腦組織聚集體，以<b>有限蛋白酶解與構形穩定性測定</b>做生化指紋比對，並在<b>基因轉殖小鼠</b>中做接種傳播與病程比較。結果：<b>生化指紋未能區分 MSA-C 與 MSA-P</b>，接種與病程實驗同樣未顯示可資分辨的特性。作者的解讀是兩個亞型<b>源自同一株型在不同腦區成形</b>，而非不同株型。<b>與同日收錄的 Neurobiology of Disease 論文（PubMed 42600994）合看，兩者方向一致而非矛盾</b>：後者顯示 MSA 與 PD 之間存在株型差異，本篇則顯示<b>差異不存在於 MSA 內部</b>。若成立，這對<b>臨床試驗設計的意涵是：MSA-C 與 MSA-P 在蛋白病理層次可視為同一疾病</b>，兩亞型的臨床差異較可能來自受累腦區分布而非致病物種本身——現行 MSA 試驗多將兩亞型合併收案，這與該作法的前提相符。⚠️ <b>惟這是「未發現差異」的陰性結果</b>：陰性不等於證明相同，也可能是所用方法的分辨力不足以偵測較細微的構形差異；本研究亦未報告樣本數是否足以排除中小幅度的差異。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42601815/",
+    "urlLabel": "論文 ↗ PubMed 42601815",
+    "en": {
+      "journal": "Brain Pathology · Lau HHC, Silver NRG, Mehra S, So RWL, Li LY, Mao A, Stuart E, Schmitt-Ulms C, Hyman BT, Ingelsson M, Watts JC (Tanz Centre for Research in Neurodegenerative Diseases and Department of Biochemistry, University of Toronto; Departments of Neurology and Radiology and the Neuroscience Program, Massachusetts General Hospital and Harvard Medical School; Krembil Brain Institute, University of Toronto; Department of Public Health and Caring Sciences, Geriatrics, Uppsala University) · doi:10.1111/bpa.70134",
+      "tag": "Mechanism · strains across MSA subtypes",
+      "note": "→ A test of whether the α-synuclein aggregates in the two clinical subtypes of MSA — <b>cerebellar (MSA-C) and parkinsonian (MSA-P)</b> — represent distinct strains. Aggregates from patient brain were biochemically fingerprinted by <b>limited proteolysis and a conformational stability assay</b>, and compared for seeding and disease progression in <b>transgenic mice</b>. <b>The biochemical fingerprinting failed to distinguish MSA-C from MSA-P</b>, and the seeding and progression experiments likewise revealed no distinguishing characteristics. The authors read this as the two subtypes arising from <b>the same strain forming in different brain regions</b> rather than from different strains. <b>Read alongside the Neurobiology of Disease paper recorded the same day (PubMed 42600994), the two point the same way rather than conflicting</b>: that paper finds strain differences between MSA and PD, while this one finds <b>no such difference within MSA</b>. If it holds, the implication <b>for trial design is that MSA-C and MSA-P can be treated as one disease at the level of protein pathology</b>, with their clinical divergence more likely reflecting which regions are affected than the pathogenic species itself — consistent with the prevailing practice of enrolling both subtypes into a single MSA trial. ⚠️ <b>This is nonetheless a negative result</b>: failing to find a difference is not the same as showing there is none, and the methods used may simply lack the resolution for subtler conformational differences; the study does not report whether the sample was large enough to exclude a small or moderate difference.",
+      "urlLabel": "Paper ↗ PubMed 42601815"
+    }
+  },
+  {
     "id": "pubmed:42587236",
     "date": "2026-08-12",
     "dateDisplay": "2026/08/12",
