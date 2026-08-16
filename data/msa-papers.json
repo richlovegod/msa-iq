@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:42603223",
+    "date": "2026-08-15",
+    "dateDisplay": "2026/08/15",
+    "title": "Distinct alpha-synuclein seeding in post-mortem skin of Lewy body disease and multiple system atrophy",
+    "journal": "Acta Neuropathologica 152(1) · Kim A, Abkur T, Enomoto M, Xu X, Lang AE, Tartaglia C, Kovacs GG, Martinez-Valbuena I（多倫多大學 Tanz 神經退化疾病研究中心暨檢驗醫學與病理生物學系；多倫多西區醫院 Edmond J. Safra 帕金森病計畫；愛爾蘭 Waterford 大學醫院神經科；瑪嘉烈公主癌症中心；多倫多大學醫學生物物理系；大學健康網絡 Krembil 腦研究所暨檢驗醫學部）· doi:10.1007/s00401-026-03068-5",
+    "tag": "生物標記 · 皮膚 α-突觸核蛋白種子活性",
+    "highlight": false,
+    "note": "→ 依標題與書目資料，本文比較<b>路易體疾病（LBD）與 MSA 死後皮膚檢體中 α-突觸核蛋白的種子活性（seeding）差異</b>。⚠️ <b>重要限制：本篇為 Letter 體裁、PubMed 未收錄摘要，全文於出版社端為付費牆，本平台無法取得樣本數、檢測平台與判別準確度等關鍵數字，故此處僅記錄「已發表、主題為何」，不轉述任何未經查證的結果。</b>需要實際數據者請逕行取得全文。收錄理由：<b>皮膚是活體可取得的組織</b>，而 MSA 與 LBD（含帕金森病、路易體失智症）的生前鑑別診斷一直是本領域的實務難題——現行皮膚種子擴增試驗多能判定「有無 α-突觸核蛋白病理」，能否進一步<b>分辨是哪一種</b>則是尚未定案的問題，這正是本文標題所指的方向。與本站 08/14 收錄的兩篇株型研究（PubMed 42600994 主張 MSA 與 PD 之間存在株型差異、42601815 主張 MSA 內部不存在）屬同一條研究線；<b>本篇作者群同樣出自多倫多大學 Tanz 中心</b>（與 42601815 為不同實驗室）。<b>在取得全文查證之前，不應假定本文已證實皮膚檢測可用於鑑別診斷，更不應假定其可用於活體。</b>",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42603223/",
+    "urlLabel": "論文 ↗ PubMed 42603223",
+    "en": {
+      "journal": "Acta Neuropathologica 152(1) · Kim A, Abkur T, Enomoto M, Xu X, Lang AE, Tartaglia C, Kovacs GG, Martinez-Valbuena I (Tanz Centre for Research in Neurodegenerative Disease and Department of Laboratory Medicine & Pathobiology, University of Toronto; Edmond J. Safra Program in Parkinson's Disease, Toronto Western Hospital; Department of Neurology, University Hospital Waterford, Ireland; Princess Margaret Cancer Centre; Department of Medical Biophysics, University of Toronto; Krembil Brain Institute and Laboratory Medicine Program, University Health Network) · doi:10.1007/s00401-026-03068-5",
+      "tag": "Biomarker · α-synuclein seeding in skin",
+      "note": "→ On the evidence of its title and bibliographic record, this paper compares <b>α-synuclein seeding activity in post-mortem skin between Lewy body disease (LBD) and MSA</b>. ⚠️ <b>An important limitation: this is a Letter, PubMed carries no abstract for it, and the full text sits behind the publisher's paywall, so this platform could not obtain the sample sizes, assay platform or discriminative accuracy. What is recorded here is therefore only that the paper exists and what it is about; no result is being paraphrased unverified.</b> Readers needing the actual figures should obtain the full text directly. Why it is included: <b>skin is a tissue obtainable from living patients</b>, and separating MSA from LBD (Parkinson's disease and dementia with Lewy bodies included) during life remains a practical difficulty in this field — existing skin seed-amplification assays can generally establish <b>whether</b> α-synuclein pathology is present, while whether they can further establish <b>which disease</b> is unsettled, and that is the direction the title points. It belongs to the same line of work as the two strain papers recorded here on 14 August (PubMed 42600994, arguing for a strain difference between MSA and PD; 42601815, arguing against one within MSA), and <b>its authors are likewise from the Tanz Centre at the University of Toronto</b>, though a different laboratory from 42601815. <b>Until the full text is checked, it should not be assumed that this paper establishes skin testing as a differential diagnostic, still less that it does so in living patients.</b>",
+      "urlLabel": "Paper ↗ PubMed 42603223"
+    }
+  },
+  {
     "id": "pubmed:42600994",
     "date": "2026-08-14",
     "dateDisplay": "2026/08/14",

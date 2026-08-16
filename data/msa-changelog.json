@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-08-16",
+    "dateDisplay": "2026/08/16",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "文獻雷達新增 1 篇。多倫多大學 Tanz 神經退化疾病研究中心與大學健康網絡團隊發表於 <b>Acta Neuropathologica</b>，主題為<b>路易體疾病（LBD）與 MSA 死後皮膚檢體中 α-突觸核蛋白種子活性（seeding）的差異</b>。⚠️ <b>本筆刻意只記錄「已發表、主題為何」：該文為 Letter 體裁，PubMed 未收錄摘要、出版社端全文為付費牆，本平台無法查證樣本數、檢測平台與判別準確度，因此不轉述任何未經查證的結果數字。</b>收錄理由在於方向而非結論——<b>皮膚是活體可取得的組織</b>，而 MSA 與 LBD（含帕金森病、路易體失智症）的生前鑑別診斷是本領域長期未解的實務問題：現行皮膚種子擴增試驗多半只能判定「有無 α-突觸核蛋白病理」，能否進一步分辨「是哪一種」尚未定案。本篇與 08/14 收錄的兩篇株型研究（PubMed 42600994、42601815）屬同一條研究線，<b>作者群同樣出自 Tanz 中心</b>（與 42601815 為不同實驗室）。<b>在取得全文之前，不應假定本文已證實皮膚檢測可用於鑑別診斷，亦不應假定其適用於活體。</b>另 PubMed 窗內第二筆命中為 <b>Journal of Magnetic Resonance Imaging</b> 之結構性 MRI 體積測量鑑別 PSP／PD／MSA 編輯評論，<b>即昨日已評估並排除的同一篇</b>（評論性短文、無原始數據），維持不予收錄。CT.gov 當日 MSA 查詢近 7 天內<b>無新試驗、亦無狀態變動</b>：窗內更新者為 Entrada 兩筆 DMD 試驗、Grünenthal GRT6019（DMD）、Biogen salanersen 與 Dyne DYNE-251、AstraZeneca AZD9750（前列腺癌），以及 Kuopio 大學醫院一筆神經退化疾病觀察性研究，均屬「atrophy」字面誤中或非 MSA 適應症，逐筆確認後排除。",
+    "link": {
+      "label": "詳見 文獻雷達 ↗",
+      "tab": "si",
+      "anchor": "litradar"
+    },
+    "en": {
+      "tag": "Daily scan",
+      "body": "One paper added to the literature radar. From the Tanz Centre for Research in Neurodegenerative Disease at the University of Toronto and the University Health Network, in <b>Acta Neuropathologica</b>, on <b>differences in α-synuclein seeding activity between post-mortem skin in Lewy body disease (LBD) and in MSA</b>. ⚠️ <b>This entry deliberately records only that the paper exists and what it is about: it is a Letter, PubMed carries no abstract, and the publisher's full text is paywalled, so the sample sizes, assay platform and discriminative accuracy could not be verified — and no result is being paraphrased unverified.</b> It is included for its direction rather than its conclusion: <b>skin is a tissue obtainable from living patients</b>, and telling MSA from LBD (Parkinson's disease and dementia with Lewy bodies included) during life remains an unsolved practical problem in this field — existing skin seed-amplification assays can generally establish <b>whether</b> α-synuclein pathology is present, while whether they can establish <b>which disease</b> is unsettled. The paper belongs to the same line of work as the two strain papers recorded on 14 August (PubMed 42600994 and 42601815), and <b>its authors are likewise from the Tanz Centre</b>, in a different laboratory from 42601815. <b>Until the full text is obtained, it should not be assumed that this establishes skin testing as a differential diagnostic, nor that it applies in living patients.</b> The second PubMed hit in the window, an editorial in the <b>Journal of Magnetic Resonance Imaging</b> on structural MRI volumetry for distinguishing PSP, PD and MSA, is <b>the same one assessed and excluded yesterday</b> — a short commentary carrying no primary data — and remains excluded. Today's CT.gov query returned <b>no new MSA trials and no status changes</b> within the past 7 days: the records updated in the window were two Entrada DMD trials, Grünenthal's GRT6019 (DMD), Biogen's salanersen and Dyne's DYNE-251, AstraZeneca's AZD9750 (prostate cancer), and one observational neurodegenerative-disease study from Kuopio University Hospital — all either literal 'atrophy' matches or non-MSA indications, excluded after checking each.",
+      "linkLabel": "See Literature Radar ↗"
+    }
+  },
+  {
     "date": "2026-08-15",
     "dateDisplay": "2026/08/15",
     "tag": "每日掃描",
