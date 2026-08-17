@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:42381593",
+    "date": "2026-07-01",
+    "dateDisplay": "2026/07/01",
+    "title": "Structural MRI Volumetry Index for Differentiation of Progressive Supranuclear Palsy From Parkinson's Disease and Multiple System Atrophy by Automatic Segmentation: A Comparison With Magnetic Resonance Parkinsonism Index",
+    "journal": "Journal of Magnetic Resonance Imaging · Jia M, You H, Liu Z, Wang Y, Wang H, Li M, Feng F（北京協和醫院放射科暨神經科，中國醫學科學院／北京協和醫學院；首都醫科大學附屬北京天壇醫院放射科；協和醫院疑難重症及罕見病國家重點實驗室）· doi:10.1002/jmri.70418",
+    "tag": "鑑別診斷 · 自動化影像指標",
+    "highlight": false,
+    "note": "→ 提出一個<b>全自動、不依賴特定軟體的腦容積指標 PDSVI</b>（parkinsonism volumetric index），公式為<b>（橋腦體積 × 第三腦室體積）/（中腦體積 × 視丘體積）× 10</b>，用以取代現行需人工在特定切面測量、費時且受判讀者影響的 2D 指標。世代：<b>480 名病人（帕金森病 246、進行性核上性麻痺 108、MSA-C 63、MSA-P 63）加 252 名健康對照</b>，隨機分為訓練組 320、內部驗證組 160。內部驗證結果：PDSVI 區辨 PSP 與非 PSP 的 <b>AUC 0.897</b>，對 PD 0.873、<b>對 MSA-P 0.950、對 MSA-C 0.939</b>、對健康對照 0.909；與人工測量的 MRPI（依序 0.909、0.886、0.923、0.984、0.862）相當。收錄理由：<b>MSA 與 PSP、PD 的生前鑑別是本領域最常見的實務難題</b>，而此指標主張在不犧牲準確度的前提下自動化——對需要跨中心一致納入標準的臨床試驗尤其相關。⚠️ <b>限制</b>：單一國家、以中國人族群為主，<b>僅有內部驗證、無獨立外部世代</b>；PDSVI 是為了偵測 PSP 而設計，MSA 在此扮演的是「對照組」而非目標診斷，因此高 AUC 反映的是<b>把 MSA 排除在 PSP 之外</b>的能力，<b>不代表能區分 MSA-P 與 MSA-C，也不代表能把 MSA 與 PD 分開</b>。本篇經 <b>JMRI 於 2026/08/13 刊出的社論（PubMed 42596062）</b>評介而納入本站；社論本身為評論，未另收錄。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42381593/",
+    "urlLabel": "論文 ↗ PubMed 42381593",
+    "en": {
+      "journal": "Journal of Magnetic Resonance Imaging · Jia M, You H, Liu Z, Wang Y, Wang H, Li M, Feng F (Departments of Radiology and Neurology, Peking Union Medical College Hospital, Chinese Academy of Medical Sciences & Peking Union Medical College; Department of Radiology, Beijing Tiantan Hospital, Capital Medical University; State Key Laboratory of Complex Severe and Rare Disease, Peking Union Medical College Hospital) · doi:10.1002/jmri.70418",
+      "tag": "Differential diagnosis · automated imaging index",
+      "note": "→ The paper proposes a <b>fully automated, software-independent brain volumetry metric, the PDSVI</b> (parkinsonism volumetric index), calculated as <b>(pons volume × third ventricle volume) / (midbrain volume × thalamus volume) × 10</b>, as a replacement for the current 2D metrics, which must be measured manually on specific planes and are both laborious and observer-dependent. The cohort comprised <b>480 patients (246 Parkinson's disease, 108 progressive supranuclear palsy, 63 MSA-C, 63 MSA-P) plus 252 healthy controls</b>, randomised into a training set of 320 and an internal validation set of 160. In internal validation the PDSVI separated PSP from non-PSP with an <b>AUC of 0.897</b>, and from PD at 0.873, <b>MSA-P at 0.950, MSA-C at 0.939</b> and healthy controls at 0.909 — comparable to the manually measured MRPI (0.909, 0.886, 0.923, 0.984, 0.862 respectively). Why it is included: <b>separating MSA from PSP and PD during life is among the most common practical difficulties in this field</b>, and this index claims to automate that separation without losing accuracy — of particular relevance to trials that need consistent inclusion criteria across centres. ⚠️ <b>Limitations</b>: a single country and a predominantly Chinese population, with <b>internal validation only and no independent external cohort</b>. The PDSVI was designed to detect PSP, with MSA serving as a comparator rather than the target diagnosis, so the high AUCs reflect the ability to <b>exclude MSA from PSP</b>; they do <b>not</b> indicate that MSA-P can be separated from MSA-C, nor that MSA can be separated from PD. The paper was surfaced here through the <b>JMRI editorial published on 13 August 2026 (PubMed 42596062)</b>; the editorial itself is commentary and is not separately recorded.",
+      "urlLabel": "Paper ↗ PubMed 42381593"
+    }
+  },
+  {
     "id": "pubmed:42603223",
     "date": "2026-08-15",
     "dateDisplay": "2026/08/15",

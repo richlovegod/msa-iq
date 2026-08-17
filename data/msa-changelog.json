@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-08-17",
+    "dateDisplay": "2026/08/17",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "文獻雷達新增 1 篇。<b>作法更正</b>：前兩日的掃描兩度命中 <b>Journal of Magnetic Resonance Imaging</b> 一篇評介結構性 MRI 體積測量鑑別 PSP／PD／MSA 的<b>社論</b>（PubMed 42596062），並以「評論性短文、無原始數據」為由排除——排除社論本身仍屬正確，但<b>當時未回頭去找它評介的原始論文</b>。今日補上該原始論文：北京協和醫院與北京天壇醫院團隊的 <b>PDSVI（parkinsonism volumetric index）</b>，一個<b>全自動、不依賴特定軟體</b>的腦容積指標，公式為<b>（橋腦體積 × 第三腦室體積）/（中腦體積 × 視丘體積）× 10</b>，用以取代現行需人工在特定切面測量、費時且受判讀者影響的 2D 指標。世代為 <b>480 名病人（PD 246、PSP 108、MSA-C 63、MSA-P 63）加 252 名健康對照</b>，隨機分訓練組 320／內部驗證組 160。內部驗證：區辨 PSP 與非 PSP <b>AUC 0.897</b>，對 PD 0.873、<b>對 MSA-P 0.950、對 MSA-C 0.939</b>、對健康對照 0.909，與人工測量的 MRPI 相當。⚠️ <b>限制須一併讀</b>：單一國家、以中國人族群為主，<b>僅內部驗證、無獨立外部世代</b>；PDSVI 是為偵測 PSP 而設計，MSA 在此是<b>對照組而非目標診斷</b>，故高 AUC 反映的是把 MSA 排除在 PSP 之外的能力，<b>不代表能區分 MSA-P 與 MSA-C，也不代表能把 MSA 與 PD 分開</b>。原始論文出版日為 2026/07/01、落在 7 天窗外，之所以仍予收錄，是因為它是本站漏收的實質內容、且由窗內社論帶出；此一判斷在此記錄備查。PubMed 窗內其餘 6 筆均已在檔。CT.gov 當日 MSA 查詢近 7 天內<b>無新試驗、亦無狀態變動</b>：窗內更新者為 Entrada 兩筆 DMD 試驗、Grünenthal GRT6019（DMD）與 AstraZeneca AZD9750（前列腺癌），均屬「atrophy」字面誤中或非 MSA 適應症，逐筆確認適應症後排除。在研療法新聞掃描（Alterity ATH434、Lundbeck amlenetug、Ono ONO-2808）<b>未見近 7 天內的新事實</b>，檢索命中者均為既有已記錄事件之轉載。",
+    "link": {
+      "label": "詳見 文獻雷達 ↗",
+      "tab": "si",
+      "anchor": "litradar"
+    },
+    "en": {
+      "tag": "Daily scan",
+      "body": "One paper added to the literature radar. <b>A correction of method</b>: the scans of the past two days twice hit an <b>editorial</b> in the <b>Journal of Magnetic Resonance Imaging</b> (PubMed 42596062) reviewing structural MRI volumetry for distinguishing PSP, PD and MSA, and excluded it as a short commentary carrying no primary data. Excluding the editorial was right, but <b>no one went back to find the original paper it was reviewing</b>. That paper is added today: the <b>PDSVI (parkinsonism volumetric index)</b> from Peking Union Medical College Hospital and Beijing Tiantan Hospital, a <b>fully automated, software-independent</b> brain volumetry metric calculated as <b>(pons volume × third ventricle volume) / (midbrain volume × thalamus volume) × 10</b>, intended to replace the current 2D metrics, which must be measured manually on specific planes and are both laborious and observer-dependent. The cohort was <b>480 patients (246 PD, 108 PSP, 63 MSA-C, 63 MSA-P) plus 252 healthy controls</b>, randomised into a training set of 320 and an internal validation set of 160. In internal validation it separated PSP from non-PSP with an <b>AUC of 0.897</b>, and from PD at 0.873, <b>MSA-P at 0.950, MSA-C at 0.939</b> and healthy controls at 0.909 — comparable to the manually measured MRPI. ⚠️ <b>The limitations belong with the figures</b>: a single country and a predominantly Chinese population, with <b>internal validation only and no independent external cohort</b>. The PDSVI was designed to detect PSP, and MSA serves here as a <b>comparator rather than the target diagnosis</b>, so the high AUCs reflect the ability to exclude MSA from PSP; they do <b>not</b> indicate that MSA-P can be separated from MSA-C, nor that MSA can be separated from PD. The original paper was published on 2026/07/01, outside the 7-day window; it is recorded nonetheless because it is substantive content this site had missed and because the editorial that surfaced it fell inside the window — that judgement is noted here for the record. The other six PubMed hits in the window were already on file. Today's CT.gov query returned <b>no new MSA trials and no status changes</b> within the past 7 days: the records updated in the window were two Entrada DMD trials, Grünenthal's GRT6019 (DMD) and AstraZeneca's AZD9750 (prostate cancer), all either literal 'atrophy' matches or non-MSA indications and excluded after checking each. The sweep of investigational-therapy news (Alterity's ATH434, Lundbeck's amlenetug, Ono's ONO-2808) found <b>no new facts within the past 7 days</b> — every hit restated an event already on record.",
+      "linkLabel": "See Literature Radar ↗"
+    }
+  },
+  {
     "date": "2026-08-16",
     "dateDisplay": "2026/08/16",
     "tag": "每日掃描",
