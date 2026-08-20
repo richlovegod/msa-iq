@@ -200,6 +200,54 @@
     "category": "dmt"
   },
   {
+    "id": "ya-101",
+    "category": "dmt",
+    "company": "思捷優達 Dasher Neuroscience（台灣）",
+    "drug": "YA-101",
+    "mechanism": "D-胺基酸氧化酶（DAAO）抑制劑（口服，一日兩次）",
+    "phase": "Ph2（NCT06848231）",
+    "status": "收案完成、雙盲進行中（登錄狀態查核日 2026-08）",
+    "highlight": false,
+    "relevance": "Ph2 已完成收案",
+    "note": "→ 公司自述為新化學實體（NCE），作用為抑制發炎細胞激素、降低神經發炎並促進神經可塑性。全球多中心、雙盲、安慰劑對照、劑量遞增 Ph2，收案 30 歲以上、依國際運動障礙學會（MDS）診斷準則確診的 MSA 病人，MSA-P 與 MSA-C 兩種次型皆收；主要終點為不良事件發生率與嚴重度（安全性與耐受性），次要終點為藥物動力學參數、UMSARS 與 10 公尺步行測試。站點分布於美國（6 站）、日本（1 站）與台灣（2 站）。⚠️ <b>收案人數兩個公開來源不一致</b>：公司 2026-07-28 新聞稿稱「已完成 90 人收案」，而 ClinicalTrials.gov 登錄的預計收案數為 <b>75 人</b>——本平台兩者並列，不擇一採信。法規面：公司公開資料載有美國 FDA <b>快速通道資格（Fast Track）</b>，以及美國、日本與歐盟的<b>孤兒藥資格</b>（公開來源未載明各項的核予日期，故不填年份）。公司表示主要數據（topline）預計 <b>2027 年第 1 季</b>公布，登錄的主要完成日為 2027-06-30。（尚未有任何療效數據公開讀出）",
+    "sources": [
+      {
+        "label": "ClinicalTrials NCT06848231",
+        "url": "https://clinicaltrials.gov/study/NCT06848231"
+      },
+      {
+        "label": "公司新聞稿：Ph2 完成收案，2026/07/28",
+        "url": "https://www.biospace.com/press-releases/dasher-neuroscience-completes-patient-enrollment-in-phase-2-global-clinical-trial-of-lead-ai-drug-candidate-ya-101-for-multiple-system-atrophy-msa"
+      },
+      {
+        "label": "FDA 快速通道資格公告（Taiwan Healthcare+）",
+        "url": "https://www.taiwan-healthcare.org/en/news-detail?id=0t7r121sgmvb1vaq"
+      }
+    ],
+    "en": {
+      "company": "Dasher Neuroscience (Taiwan)",
+      "mechanism": "D-amino acid oxidase (DAAO) inhibitor (oral, twice daily)",
+      "phase": "Ph2 (NCT06848231)",
+      "status": "Enrolment complete, double-blind phase ongoing (registry status verified 2026-08)",
+      "relevance": "Ph2 fully enrolled",
+      "note": "→ Described by the company as a new chemical entity (NCE) that inhibits inflammatory cytokines, reducing neuroinflammation and enhancing neuroplasticity. A global multi-centre, double-blind, placebo-controlled, dose-escalation Ph2 enrolling MSA patients aged 30 and over diagnosed per Movement Disorder Society (MDS) criteria, including both the parkinsonian (MSA-P) and cerebellar (MSA-C) subtypes; the primary endpoint is the incidence and severity of adverse events (safety and tolerability), with pharmacokinetic parameters, UMSARS and the 10-Metre Walk Test as secondary endpoints. Sites are in the United States (6), Japan (1) and Taiwan (2). ⚠️ <b>The two public sources disagree on enrolment</b>: the company's 2026-07-28 press release states 90 patients enrolled, while the ClinicalTrials.gov registration lists a target enrolment of <b>75</b> — this platform reports both rather than choosing between them. On the regulatory side, company materials cite US FDA <b>Fast Track designation</b> and <b>orphan drug designation</b> in the United States, Japan and the European Union (the public sources do not give the dates on which these were granted, so no years are stated here). The company expects <b>topline data in Q1 2027</b>; the registered primary completion date is 2027-06-30. (No efficacy data have been read out publicly.)",
+      "sources": [
+        {
+          "label": "ClinicalTrials NCT06848231",
+          "url": "https://clinicaltrials.gov/study/NCT06848231"
+        },
+        {
+          "label": "Company press release: Ph2 enrolment complete, 2026/07/28",
+          "url": "https://www.biospace.com/press-releases/dasher-neuroscience-completes-patient-enrollment-in-phase-2-global-clinical-trial-of-lead-ai-drug-candidate-ya-101-for-multiple-system-atrophy-msa"
+        },
+        {
+          "label": "FDA Fast Track designation announcement (Taiwan Healthcare+)",
+          "url": "https://www.taiwan-healthcare.org/en/news-detail?id=0t7r121sgmvb1vaq"
+        }
+      ]
+    }
+  },
+  {
     "id": "ono-2808",
     "category": "dmt",
     "company": "小野藥品 Ono Pharmaceutical（與 Deciphera）",

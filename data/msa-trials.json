@@ -1,5 +1,41 @@
 [
   {
+    "nct": "NCT06848231",
+    "drug": "YA-101",
+    "mechanism": "D-胺基酸氧化酶（DAAO）抑制劑（口服，一日兩次）；公司自述機轉為抑制發炎細胞激素、降低神經發炎並促進神經可塑性",
+    "phase": "Ph2（雙盲、安慰劑對照、多中心、劑量遞增）",
+    "status": "收案完成、雙盲進行中（登錄狀態查核日 2026-08，最後更新 2026-08-19；收 30 歲以上、依 MDS 準則確診之 MSA 病人，MSA-P 與 MSA-C 皆收；主要終點為不良事件發生率與嚴重度，次要終點為藥物動力學、UMSARS 與 10 公尺步行測試；站點：美國 6 站、日本 1 站、台灣 2 站；<b>收案數兩來源不一致</b>——公司 2026-07-28 新聞稿稱完成 90 人，CT.gov 登錄預計 75 人，兩者並列；公司表示 topline 預計 2027 Q1 公布）",
+    "sponsor": "思捷優達 Dasher Neuroscience（台灣）",
+    "cell": false,
+    "primary": "2027-06",
+    "url": "https://clinicaltrials.gov/study/NCT06848231",
+    "en": {
+      "drug": "YA-101",
+      "mechanism": "D-amino acid oxidase (DAAO) inhibitor (oral, twice daily); the company describes the mechanism as inhibiting inflammatory cytokines, reducing neuroinflammation and enhancing neuroplasticity",
+      "phase": "Ph2 (double-blind, placebo-controlled, multi-centre, dose escalation)",
+      "status": "Enrolment complete, double-blind phase ongoing (registry status verified 2026-08, last updated 2026-08-19; enrolling MSA patients aged 30 and over diagnosed per MDS criteria, both MSA-P and MSA-C; primary endpoint the incidence and severity of adverse events, secondary endpoints pharmacokinetics, UMSARS and the 10-Metre Walk Test; sites in the United States (6), Japan (1) and Taiwan (2); <b>the two sources disagree on enrolment</b> — the company's 2026-07-28 press release states 90 completed, the CT.gov registration lists a target of 75, and both are reported here; the company expects topline data in Q1 2027)",
+      "sponsor": "Dasher Neuroscience (Taiwan)"
+    }
+  },
+  {
+    "nct": "NCT07774585",
+    "drug": "α-Syn H21 單株抗體",
+    "mechanism": "人源化單株抗體，設計上選擇性結合病理性 α-synuclein 聚集體，可能減少其擴散與相關神經發炎（登錄未載明開發廠商）",
+    "phase": "Ph1（前瞻性探索、單一中心、開放標籤）",
+    "status": "尚未開始收案（登錄最後更新 2026-08-19，但狀態查核日仍為 2026-04；預計 2026-09-15 起始；<b>n＝3</b>，靜脈輸注每 4 週一次、共 3 劑，追蹤 12 週，評估安全性、耐受性與初步療效；主要完成日 2026-12-31；站點：上海交通大學醫學院附屬瑞金醫院神經內科）⚠️ 這是<b>極早期、單一中心、僅 3 人的研究者發起探索性研究</b>，樣本數不足以推論療效",
+    "sponsor": "瑞金醫院（上海交通大學醫學院）",
+    "cell": false,
+    "primary": "2026-12",
+    "url": "https://clinicaltrials.gov/study/NCT07774585",
+    "en": {
+      "drug": "α-Syn H21 monoclonal antibody",
+      "mechanism": "A humanised monoclonal antibody designed to bind selectively to pathological alpha-synuclein aggregates, potentially reducing their spread and the associated neuroinflammation (the registration does not name a developer)",
+      "phase": "Ph1 (prospective exploratory, single-centre, open-label)",
+      "status": "Not yet recruiting (registration last updated 2026-08-19, though the status-verified date remains 2026-04; start planned for 2026-09-15; <b>n = 3</b>, intravenous infusion every 4 weeks for 3 doses with 12 weeks of follow-up, assessing safety, tolerability and preliminary efficacy; primary completion 2026-12-31; site: Department of Neurology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine) ⚠️ This is a <b>very early, single-centre, investigator-initiated exploratory study of just 3 patients</b>, far too small to support efficacy inference",
+      "sponsor": "Ruijin Hospital (Shanghai Jiao Tong University School of Medicine)"
+    }
+  },
+  {
     "nct": "NCT07604116",
     "drug": "SST001（PET 造影劑）",
     "mechanism": "放射性標記 PET 造影劑（非治療藥物；標的分子公開登錄未載明）",

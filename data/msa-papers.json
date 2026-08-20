@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:42615574",
+    "date": "2026-08-19",
+    "dateDisplay": "2026/08/19",
+    "title": "Rehabilitation strategies for atypical parkinsonian syndromes: A scoping review of progressive supranuclear palsy, multiple system atrophy, corticobasal syndrome, and dementia with Lewy bodies",
+    "journal": "Journal of Parkinson's Disease（線上先行）· Kamo H, Amano S, Gerzenshtein IK 等，通訊作者群含 McFarland NR 與 Shukla AW（佛羅里達大學 Fixel 神經疾病研究所神經科，美國）；合作單位含順天堂大學醫學部神經科（日本東京）、北里大學醫療衛生學部作業療法學科（日本神奈川）、印度全印醫學科學院神經科（新德里）· doi:10.1177/1877718X261440430",
+    "tag": "復健與照護 · 範疇綜述 · 非藥物介入",
+    "highlight": false,
+    "note": "→ 依 <b>PRISMA-ScR</b> 準則進行的<b>範疇綜述（scoping review）</b>，檢索 PubMed、Embase、Web of Science 與 Cochrane Library 自建庫起至 <b>2025 年 5 月</b>，納入探討<b>非侵入性復健</b>（物理治療、職能治療、語言治療）的英文同儕審查文獻，由兩位獨立審查者篩選、歧見經共識或第三位審查者裁決。共 <b>60 篇</b>符合納入條件，分布為進行性核上性麻痺 <b>32 篇</b>、<b>MSA 20 篇</b>、皮質基底核症候群 5 篇、路易氏體失智症 6 篇。結果：跨疾病來看，復健<b>一致地安全且可行</b>；<b>步態與平衡訓練、發聲與吞嚥治療、多模式方案</b>在行動能力、言語與生活品質上顯示<b>短期效益</b>——但作者依美國神經學會（AAN）證據分級將其定為 <b>Class III–IV</b>，即證據等級偏低。作者結論認為高品質證據仍然有限，指出照護上的顯著缺口，並主張需要<b>早期、多專科、針對個別疾病設計</b>的介入，以及<b>標準化的療效指標與長期試驗</b>來確立持續效益。⚠️ <b>限制</b>：這是範疇綜述而非系統性回顧或統合分析，<b>未做偏誤風險評估、未合併效果量</b>；MSA 僅佔 20 篇且與其他三種疾病合併討論，<b>結論並非 MSA 專屬</b>；檢索截止於 2025 年 5 月，其後文獻未納入。收錄理由：MSA 目前<b>尚無任何具疾病修飾療效的核准藥物</b>，非藥物介入因而是現行臨床照護的主要組成之一；本篇是少數把 MSA 復健證據量化盤點的文獻，同時點出<b>缺乏標準化療效指標</b>——這一點對日後任何以功能性指標為終點的試驗設計都有參考價值。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42615574/",
+    "urlLabel": "論文 ↗ PubMed 42615574",
+    "en": {
+      "journal": "Journal of Parkinson's Disease (online ahead of print) · Kamo H, Amano S, Gerzenshtein IK et al., with McFarland NR and Shukla AW among the senior authors (Department of Neurology, Fixel Institute for Neurological Diseases, University of Florida, USA); collaborating centres include the Department of Neurology, Juntendo University School of Medicine (Tokyo, Japan), the Department of Occupational Therapy, Kitasato University School of Allied Health Sciences (Kanagawa, Japan) and the Department of Neurology, All India Institute of Medical Sciences (New Delhi, India) · doi:10.1177/1877718X261440430",
+      "tag": "Rehabilitation and care · scoping review · non-pharmacological intervention",
+      "note": "→ A <b>scoping review</b> conducted per <b>PRISMA-ScR</b> guidance, searching PubMed, Embase, Web of Science and the Cochrane Library from inception to <b>May 2025</b> for peer-reviewed English-language reports on <b>non-invasive rehabilitation</b> (physical, occupational and speech therapy), with two independent reviewers screening and disagreements resolved by consensus or a third reviewer. <b>Sixty studies</b> met the inclusion criteria: progressive supranuclear palsy <b>32</b>, <b>MSA 20</b>, corticobasal syndrome 5 and dementia with Lewy bodies 6. Findings: across the disorders, rehabilitation was <b>consistently safe and feasible</b>, and <b>gait and balance training, voice and swallowing therapy, and multimodal programmes</b> showed <b>short-term benefits</b> in mobility, speech and quality of life — though the authors graded these <b>Class III–IV</b> on the American Academy of Neurology classification, i.e. a low evidence level. The authors conclude that high-quality evidence remains limited, highlight significant gaps in care, and argue for <b>early, multidisciplinary and disease-specific</b> interventions together with <b>standardised outcome measures and long-term trials</b> to establish sustained efficacy. ⚠️ <b>Limitations</b>: this is a scoping review rather than a systematic review or meta-analysis, so <b>no risk-of-bias assessment was performed and no effect sizes were pooled</b>; MSA accounts for only 20 of the studies and is discussed alongside three other disorders, so <b>the conclusions are not MSA-specific</b>; and the search ends in May 2025, excluding later literature. Why it is included: MSA still has <b>no approved disease-modifying therapy</b>, which makes non-pharmacological intervention a major component of current clinical care; this is one of the few papers to take a quantified inventory of the MSA rehabilitation evidence, and its point about the <b>absence of standardised outcome measures</b> is relevant to the design of any future trial using functional endpoints.",
+      "urlLabel": "Paper ↗ PubMed 42615574"
+    }
+  },
+  {
     "id": "pubmed:42381593",
     "date": "2026-07-01",
     "dateDisplay": "2026/07/01",
