@@ -1,5 +1,39 @@
 [
   {
+    "id": "pubmed:42616133",
+    "date": "2026-08-19",
+    "dateDisplay": "2026/08/19",
+    "title": "Does CANVAS mimic MSA-C? A prospective multimodal study",
+    "journal": "Journal of Neurology 第 273 卷第 9 期（線上先行）· Pei 等，史特拉斯堡大學醫院神經科（法國史特拉斯堡）；合作單位含史特拉斯堡神經科學研究所與史特拉斯堡大學遺傳學暨細胞與分子生物學研究所（IGBMC）· doi:10.1007/s00415-026-14005-7",
+    "tag": "鑑別診斷 · RFC1／CANVAS · 前瞻世代 · 存活分析",
+    "highlight": false,
+    "note": "→ 直接處理一個實務上難解的鑑別問題：<b>RFC1 基因 AAGGG 內含子重複擴增</b>所致的疾病，典型表現為 <b>CANVAS（小腦性共濟失調、周邊神經病變與前庭反射消失症候群）</b>，但也可以表現為<b>合併自律神經失調、巴金森症候群與錐體束症候群的共濟失調</b>——與<b>小腦型多系統萎縮症（MSA-C）</b>在臨床上高度重疊。作者以<b>前瞻、多模態</b>方式描述 RFC1 相關共濟失調的自然史，並找出可與 MSA-C 區辨的特徵。世代為 <b>418 名散發性晚發型小腦共濟失調病人</b>，其中確認 <b>RFC1 相關共濟失調 20 人、MSA-C 65 人</b>。結果：<b>發病年齡較早</b>，以及<b>巴金森症候群、自律神經失調與錐體束症候群出現得較晚</b>、<b>病程進展較慢</b>，均與 RFC1 相關共濟失調顯著相關（<b>p &lt; 0.05</b>）。存活方面，<b>RFC1 相關共濟失調的中位存活期超過 20 年</b>，顯著長於對照的 MSA-C（<b>p &lt; 0.0001</b>）。⚠️ <b>限制</b>：RFC1 組僅 <b>20 人</b>，樣本數偏小；為<b>單一國家、單一轉診中心</b>的世代，可能有轉診偏誤；文中<b>未報告個別特徵的靈敏度／特異度或診斷閾值</b>，因此上述特徵屬<b>群體層次的關聯</b>，尚不足以直接當成個別病人的診斷準則。收錄理由：MSA 目前<b>仍以臨床準則診斷、無確診生物標記</b>，而誤診會同時污染臨床試驗的收案族群與自然史資料；本篇量化了「看起來像 MSA-C、實則為 RFC1」這一類病人的比例與可資區辨的線索，且<b>存活期相差極大（逾 20 年 vs MSA-C）</b>——這意味著若未做 RFC1 篩檢，混入的病人可能系統性地<b>拉長試驗族群的觀察存活期並拖慢惡化速率</b>，對以進展速率為終點的試驗設計是實質干擾。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42616133/",
+    "urlLabel": "論文 ↗ PubMed 42616133",
+    "en": {
+      "journal": "Journal of Neurology, vol. 273 no. 9 (online ahead of print) · Pei et al., Department of Neurology, Strasbourg University Hospital, Strasbourg, France; collaborating centres include the Institut des Neurosciences de Strasbourg and the Institute of Genetics and Cellular and Molecular Biology (IGBMC), University of Strasbourg · doi:10.1007/s00415-026-14005-7",
+      "tag": "Differential diagnosis · RFC1 / CANVAS · prospective cohort · survival analysis",
+      "note": "→ This addresses a genuinely difficult differential. <b>AAGGG intronic repeat expansions in RFC1</b> typically cause <b>CANVAS (cerebellar ataxia, neuropathy and vestibular areflexia syndrome)</b>, but can also present as <b>ataxia combined with dysautonomia, parkinsonism and a pyramidal syndrome</b> — clinically overlapping <b>cerebellar-type multiple system atrophy (MSA-C)</b>. The authors set out to describe the natural history of RFC1-related ataxia <b>prospectively and multimodally</b> and to identify features discriminating it from MSA-C. The cohort comprised <b>418 patients with sporadic late-onset cerebellar ataxia</b>, among whom <b>20 had RFC1-related ataxia and 65 had MSA-C</b>. Results: <b>earlier age at onset</b>, together with <b>later onset of parkinsonism, dysautonomia and pyramidal signs</b> and <b>slower disease progression</b>, were all significantly associated with RFC1-related ataxia (<b>p &lt; 0.05</b>). On survival, <b>median survival in RFC1-related ataxia exceeded 20 years</b>, significantly longer than in the MSA-C comparator (<b>p &lt; 0.0001</b>). ⚠️ <b>Limitations</b>: the RFC1 group numbered only <b>20 patients</b>; this is a <b>single-country, single-referral-centre</b> cohort subject to referral bias; and the paper <b>reports no sensitivity, specificity or diagnostic thresholds for individual features</b>, so these are <b>group-level associations</b> rather than criteria that can be applied directly to an individual patient. Why it is included: MSA is still <b>diagnosed on clinical criteria with no confirmatory biomarker</b>, and misdiagnosis contaminates both trial populations and natural-history data. This paper quantifies how often patients who look like MSA-C in fact carry RFC1 expansions and which clues separate them, and the <b>survival gap is very large (over 20 years versus MSA-C)</b> — meaning that without RFC1 screening, misclassified patients would systematically <b>lengthen observed survival and slow apparent progression</b> in a trial population, which materially distorts any design using progression rate as an endpoint."
+    }
+  },
+  {
+    "id": "pubmed:42615520",
+    "date": "2026-08-18",
+    "dateDisplay": "2026/08/18",
+    "title": "A Standardized Head-Up Tilt Test Protocol to Assess Cardiovascular Autonomic Dysfunction in Neurodegenerative Diseases",
+    "journal": "Journal of Visualized Experiments (JoVE) 第 234 期 · Suzuki 等，名古屋大學研究所醫學系神經內科與名古屋大學醫院臨床檢驗部（日本名古屋）；合作單位為濱松醫科大學醫院神經內科（日本濱松）· doi:10.3791/72496",
+    "tag": "自律神經評估 · 檢查方法標準化 · 影音方法論文",
+    "highlight": false,
+    "note": "→ 一篇<b>方法論／操作示範論文</b>（JoVE 為影音格式期刊），提出<b>標準化的傾斜床測試（head-up tilt test）操作流程</b>，用以評估神經退化性疾病的<b>心血管自律神經功能障礙</b>。作者指出自律神經失調是神經退化性疾病常見且具臨床意義的表現，<b>並明確以帕金森病與多系統萎縮症為主要對象</b>；測試的核心是量測<b>由平躺轉為直立姿勢過程中的血壓變化</b>，藉以偵測<b>心血管自律神經衰竭</b>。⚠️ <b>本篇的性質必須說清楚</b>：這是<b>操作規範與示範，不是臨床研究</b>——<b>沒有病人世代、沒有診斷準確度數據（無靈敏度／特異度／AUC）、也沒有與其他方法的比較</b>，因此<b>不能被引用為任何診斷效能的證據</b>。收錄理由：<b>神經性直立性低血壓是 MSA 診斷準則中的核心項目之一</b>，而傾斜床測試正是其標準量測工具；此類檢查的結果<b>對操作細節（傾斜角度、時長、量測時點、事前用藥與禁食條件）高度敏感</b>，跨中心作法不一會直接影響病人是否符合收案條件。本站先前收錄的復健範疇綜述（PubMed 42615574）已點出 MSA 領域<b>缺乏標準化療效指標</b>的問題，本篇屬於同一方向上、在<b>檢查程序端</b>的標準化嘗試，對日後多中心試驗的一致性有參考價值。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42615520/",
+    "urlLabel": "論文 ↗ PubMed 42615520",
+    "en": {
+      "journal": "Journal of Visualized Experiments (JoVE), issue 234 · Suzuki et al., Department of Neurology, Nagoya University Graduate School of Medicine, and Department of Clinical Laboratory, Nagoya University Hospital (Nagoya, Japan); with the Department of Neurology, Hamamatsu University Hospital (Hamamatsu, Japan) · doi:10.3791/72496",
+      "tag": "Autonomic assessment · protocol standardisation · video methods paper",
+      "note": "→ A <b>methods and demonstration paper</b> (JoVE publishes in video format) presenting a <b>standardised head-up tilt test protocol</b> for assessing <b>cardiovascular autonomic dysfunction</b> in neurodegenerative disease. The authors note that autonomic dysfunction is a common and clinically meaningful feature of these disorders and <b>name Parkinson's disease and multiple system atrophy as the principal targets</b>; the test centres on measuring <b>blood pressure changes during the postural transition from supine to upright</b> in order to detect <b>cardiovascular autonomic failure</b>. ⚠️ <b>The nature of this paper must be stated plainly</b>: it is a <b>procedural specification and demonstration, not a clinical study</b> — there is <b>no patient cohort, no diagnostic accuracy data (no sensitivity, specificity or AUC) and no comparison against other methods</b>, so it <b>cannot be cited as evidence of diagnostic performance</b>. Why it is included: <b>neurogenic orthostatic hypotension is one of the core items in the MSA diagnostic criteria</b>, and the tilt test is its standard measurement tool. Results from such testing are <b>highly sensitive to procedural detail</b> — tilt angle, duration, measurement time points, prior medication and fasting conditions — and inconsistent practice between centres directly affects whether a patient meets enrolment criteria. The rehabilitation scoping review recorded here earlier (PubMed 42615574) already flagged the <b>absence of standardised outcome measures</b> in MSA; this paper is an attempt at standardisation in the same direction but on the <b>examination-procedure side</b>, and is relevant to consistency in future multicentre trials."
+    }
+  },
+  {
     "id": "pubmed:42615574",
     "date": "2026-08-19",
     "dateDisplay": "2026/08/19",
