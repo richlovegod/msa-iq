@@ -1,5 +1,23 @@
 [
   {
+    "nct": "NCT06671938",
+    "drug": "Exidavnemab（BAN0805）",
+    "mechanism": "靜脈輸注之單株抗體，設計上選擇性結合病理性 α-synuclein 的原纖維／聚集體形式，目標為降低其細胞間擴散",
+    "phase": "Ph2a（隨機、安慰劑對照、四重盲、多重劑量遞增；2:1 分派）",
+    "status": "<b>已完成（完成日 2026-08-10，登錄於 2026-08-21 更新為 Completed）</b>。此即 BioArctic 的 <b>EXIST 研究</b>，同時納入輕中度帕金森病與 MSA 兩個族群，<b>實際收案 38 人</b>（原設計約 36 人，其中 MSA 約 12 人），起始 2024-10-24，站點 <b>7 站、位於波蘭 2 站與西班牙 5 站</b>。<b>主要指標為不良事件與嚴重不良事件人數</b>（安全性與耐受性），非療效。公司先前於 2025-06 公布期中安全性審查結果為安全、耐受良好並據以啟動第二劑量世代。⚠️ <b>截至目前尚無任何療效或生物標記結果公開讀出</b>；公司公開表示正在籌備 Ph2b，但未見公開的啟動時程。",
+    "sponsor": "BioArctic AB（瑞典）",
+    "cell": false,
+    "primary": "2026-08",
+    "url": "https://clinicaltrials.gov/study/NCT06671938",
+    "en": {
+      "drug": "Exidavnemab (BAN0805)",
+      "mechanism": "An intravenously infused monoclonal antibody designed to bind selectively to fibrillar/aggregated forms of pathological alpha-synuclein, with the aim of reducing cell-to-cell spread",
+      "phase": "Ph2a (randomised, placebo-controlled, quadruple-blind, multiple ascending dose; 2:1 allocation)",
+      "status": "<b>Completed (completion date 2026-08-10; the registration was updated to Completed on 2026-08-21)</b>. This is BioArctic's <b>EXIST study</b>, which enrolled both mild-to-moderate Parkinson's disease and MSA cohorts, with an <b>actual enrolment of 38</b> (against an original design of roughly 36, of whom about 12 had MSA), started 2024-10-24, across <b>7 sites — 2 in Poland and 5 in Spain</b>. The <b>primary outcome is the number of participants with adverse events and serious adverse events</b> (safety and tolerability), not efficacy. The company reported in June 2025 that an interim safety review found the drug safe and well tolerated, on the basis of which the second dose cohorts were opened. ⚠️ <b>No efficacy or biomarker results have been read out publicly to date</b>; the company has said publicly that it is preparing a Phase 2b, but no start timing has been disclosed.",
+      "sponsor": "BioArctic AB (Sweden)"
+    }
+  },
+  {
     "nct": "NCT06848231",
     "drug": "YA-101",
     "mechanism": "D-胺基酸氧化酶（DAAO）抑制劑（口服，一日兩次）；公司自述機轉為抑制發炎細胞激素、降低神經發炎並促進神經可塑性",

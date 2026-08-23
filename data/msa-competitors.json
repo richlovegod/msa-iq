@@ -1,5 +1,54 @@
 [
   {
+    "id": "exidavnemab",
+    "company": "BioArctic AB（瑞典，Nasdaq Stockholm: BIOA B）",
+    "drug": "Exidavnemab（BAN0805）",
+    "mechanism": "靜脈輸注單株抗體，設計上選擇性結合病理性 α-synuclein 的原纖維／聚集體形式，目標為降低其細胞間擴散",
+    "phase": "Ph2a 已完成",
+    "status": "Ph2a「EXIST」研究（NCT06671938）<b>於 2026-08-10 完成、登錄 2026-08-21 更新為 Completed</b>。該研究同時納入輕中度帕金森病與 MSA 兩族群，實際收案 38 人（MSA 約 12 人），2:1 隨機、四重盲、多重劑量遞增，站點在波蘭 2 站與西班牙 5 站；<b>主要指標為安全性與耐受性</b>。2025-06 期中安全性審查為安全、耐受良好並啟動第二劑量世代。公司公開表示正籌備 Ph2b。⚠️ <b>尚無療效或生物標記結果公開讀出</b>。",
+    "highlight": false,
+    "relevance": "α-synuclein 抗體，MSA 為其兩個納入族群之一",
+    "note": "→ 與多數 α-synuclein 抗體一樣，本案的 MSA 族群規模很小（約 12 人）且主要指標是安全性，因此<b>不會、也無意產生療效證據</b>；它的訊息價值在於能否支撐 Ph2b 的劑量與族群選擇。此類抗體在 MSA 面臨的共同問題是病灶位於寡突膠細胞內、細胞外抗體能觸及的比例仍有爭議。",
+    "category": "asyn",
+    "sources": [
+      {
+        "label": "試驗登錄 NCT06671938",
+        "url": "https://clinicaltrials.gov/study/NCT06671938"
+      },
+      {
+        "label": "Ph2a 擴充納入 MSA 病人（BioArctic）",
+        "url": "https://www.bioarctic.com/en/exidavnemab-phase-2a-study-expanded-to-include-msa-patients/"
+      },
+      {
+        "label": "期中安全性審查後啟動下一世代（2025/06）",
+        "url": "https://www.prnewswire.com/news-releases/bioarctic-to-initiate-next-cohorts-in-exidavnemab-phase-2a-study-after-positive-safety-review-302480954.html"
+      }
+    ],
+    "en": {
+      "company": "BioArctic AB (Sweden, Nasdaq Stockholm: BIOA B)",
+      "drug": "Exidavnemab (BAN0805)",
+      "mechanism": "An intravenously infused monoclonal antibody designed to bind selectively to fibrillar/aggregated forms of pathological alpha-synuclein, aiming to reduce cell-to-cell spread",
+      "phase": "Ph2a completed",
+      "status": "The Phase 2a 'EXIST' study (NCT06671938) <b>completed on 2026-08-10, with the registration updated to Completed on 2026-08-21</b>. It enrolled both mild-to-moderate Parkinson's disease and MSA cohorts, with an actual enrolment of 38 (about 12 with MSA), randomised 2:1, quadruple-blind and multiple ascending dose, across 2 sites in Poland and 5 in Spain; the <b>primary outcome is safety and tolerability</b>. An interim safety review in June 2025 found the drug safe and well tolerated and the second dose cohorts were opened. The company has said publicly that it is preparing a Phase 2b. ⚠️ <b>No efficacy or biomarker results have been read out publicly.</b>",
+      "relevance": "An alpha-synuclein antibody with MSA as one of its two enrolled populations",
+      "note": "As with most alpha-synuclein antibodies, the MSA cohort here is small (roughly 12 patients) and the primary outcome is safety, so the study <b>will not, and is not designed to, generate efficacy evidence</b>; its informational value lies in whether it supports dose and population selection for a Phase 2b. The shared difficulty for antibodies of this class in MSA is that the pathology sits inside oligodendrocytes, and how much of it an extracellular antibody can reach remains contested.",
+      "sources": [
+        {
+          "label": "Registration NCT06671938",
+          "url": "https://clinicaltrials.gov/study/NCT06671938"
+        },
+        {
+          "label": "Phase 2a expanded to include MSA patients (BioArctic)",
+          "url": "https://www.bioarctic.com/en/exidavnemab-phase-2a-study-expanded-to-include-msa-patients/"
+        },
+        {
+          "label": "Next cohorts initiated after interim safety review (2025/06)",
+          "url": "https://www.prnewswire.com/news-releases/bioarctic-to-initiate-next-cohorts-in-exidavnemab-phase-2a-study-after-positive-safety-review-302480954.html"
+        }
+      ]
+    }
+  },
+  {
     "id": "msc-mayo",
     "company": "Mayo Clinic（學術）",
     "drug": "鞘內自體脂肪 MSC",

@@ -1,5 +1,22 @@
 [
   {
+    "id": "pubmed:42624856",
+    "date": "2026-08-20",
+    "dateDisplay": "2026/08/20",
+    "title": "Regional reduction of high-energy phosphorus metabolites characterizes the cerebellar subtype of multiple system atrophy",
+    "journal": "npj Parkinson's Disease · Prasuhn J 等，德國呂北克（另兼約翰霍普金斯大學醫學院與 Kennedy Krieger Institute，美國）",
+    "tag": "亞型影像生物標記 · 粒線體能量代謝 · 31P-MRSI",
+    "highlight": false,
+    "note": "→ 以 <b>31P 磁振頻譜影像（31P-MRSI）</b>在活體測量腦內<b>高能磷酸代謝物（HEP）</b>，比較 MSA 的兩個亞型與帕金森病及健康對照。世代為 <b>MSA 24 人（MSA-P 12、MSA-C 12）、帕金森病 24 人、年齡性別配對健康對照 24 人</b>，掃描標的為基底核與小腦。結果：<b>只有 MSA-C 組在小腦顯示 HEP 濃度下降</b>；基底核的 HEP 則在兩個 MSA 亞型、帕金森病與健康對照之間<b>無差異</b>。作者將此定位為 MSA-C 小腦區域性生物能量異常的<b>初步活體證據</b>。⚠️ <b>限制（作者自陳）</b>：每組僅 12 人，屬<b>初步（preliminary）</b>結果；基底核的陰性發現<b>尤其在 MSA-P 需謹慎解讀</b>，因為此 31P-MRSI 方法的<b>空間解析度有限</b>，未必能偵測到該區域的變化。本研究<b>未評估任何治療</b>，亦未建立診斷閾值。收錄理由：粒線體功能失常長期被提為 MSA 的可能治療標的，而本文提供的是「該標的在哪一個亞型、哪一個腦區可被活體量到」的方法學線索——若後續能放大驗證，對<b>亞型分層</b>與<b>藥效藥理學指標</b>的設計有參考價值。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42624856/",
+    "urlLabel": "論文 ↗ PubMed 42624856",
+    "en": {
+      "journal": "npj Parkinson's Disease · Prasuhn J et al., Lübeck, Germany (with joint affiliations at Johns Hopkins University School of Medicine and the Kennedy Krieger Institute, USA)",
+      "tag": "Subtype imaging biomarker · mitochondrial bioenergetics · 31P-MRSI",
+      "note": "→ The study used <b>31-phosphorus magnetic resonance spectroscopic imaging (31P-MRSI)</b> to measure <b>high-energy phosphorus-containing metabolites (HEPs)</b> in vivo, comparing the two MSA subtypes against Parkinson's disease and healthy controls. The cohort comprised <b>24 MSA patients (12 MSA-P, 12 MSA-C), 24 with Parkinson's disease and 24 age- and sex-matched healthy controls</b>, with the basal ganglia and cerebellum as the imaging targets. <b>Only the MSA-C group showed decreased HEP levels in the cerebellum</b>; basal ganglia HEP levels showed <b>no difference</b> between the two MSA subtypes, Parkinson's disease or controls. The authors frame this as <b>preliminary in-vivo evidence</b> of regional bioenergetic alteration in the MSA-C cerebellum. ⚠️ <b>Limitations (stated by the authors)</b>: only 12 patients per subtype, and the findings are explicitly <b>preliminary</b>; the negative basal ganglia result <b>requires particularly cautious interpretation in MSA-P</b>, because the <b>spatial resolution</b> of this 31P-MRSI approach may not detect changes in that region. The study <b>evaluated no treatment</b> and established no diagnostic threshold. Why it is included: mitochondrial dysfunction has long been proposed as a treatment target in MSA, and this paper contributes a methodological clue as to which subtype and which brain region that target can actually be measured in vivo — which, if replicated at larger scale, would be relevant to <b>subtype stratification</b> and to the design of <b>pharmacodynamic readouts</b>."
+    }
+  },
+  {
     "id": "pubmed:42616133",
     "date": "2026-08-19",
     "dateDisplay": "2026/08/19",
