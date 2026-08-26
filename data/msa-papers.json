@@ -1,5 +1,22 @@
 [
   {
+    "id": "pubmed:42634290",
+    "date": "2026-08-24",
+    "dateDisplay": "2026/08/24",
+    "title": "The Glymphatic System in α-Synucleinopathies",
+    "journal": "Yonsei Med J 第 67 卷第 9 期 · Jeong SH、Chung SJ、Lee PH（韓國首爾延世大學醫學院神經科／龍仁世福蘭斯醫院）· doi:10.3349/ymj.2025.0495",
+    "tag": "綜述 · 膠淋巴清除系統 · AQP4",
+    "highlight": false,
+    "note": "→ <b>本篇是narrative review（綜述），不含新的原始數據</b>。作者彙整近年影像、病理與實驗證據，論證<b>膠淋巴系統（glymphatic system）</b>——即經血管周邊路徑與星形膠細胞 <b>aquaporin-4（AQP4）</b>通道進行腦脊髓液廢物清除的全腦網絡——在<b>α-突觸核蛋白病變</b>（含帕金森病、路易氏體失智症與<b>多系統萎縮症</b>）中的角色。要點：進階磁振方法（<b>沿血管周邊間隙的擴散張量影像分析 DTI-ALPS</b>、功能性 BOLD-CSF 耦合）在三種疾病中都顯示膠淋巴流動受損，並與認知及運動退化程度相關；動物與屍檢研究顯示 <b>AQP4 極化受破壞會加劇 α-突觸核蛋白堆積與神經退化</b>；作者並整理目前正在探索的介入方向（睡眠優化、AQP4 藥理調節、器械式方法）。⚠️ <b>限制</b>：屬綜述而非原始研究，未做系統性回顧或統合分析；<b>DTI-ALPS 是膠淋巴功能的間接替代指標</b>、其效度仍有爭議；文中<b>未提供 MSA 專屬的效果量、亞型細分或診斷閾值</b>；所述治療策略<b>均為研究階段，無任何已完成的 MSA 臨床療效讀出</b>。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42634290/",
+    "urlLabel": "論文 ↗ PubMed 42634290",
+    "en": {
+      "journal": "Yonsei Med J, vol. 67 no. 9 · Jeong SH, Chung SJ, Lee PH (Department of Neurology, Yonsei University College of Medicine / Yongin Severance Hospital, Seoul, Korea) · doi:10.3349/ymj.2025.0495",
+      "tag": "Review · glymphatic clearance · AQP4",
+      "note": "→ <b>This is a narrative review and contains no new primary data.</b> The authors synthesise recent imaging, pathological and experimental evidence on the role of the <b>glymphatic system</b> — the brain-wide network that clears waste via cerebrospinal fluid moving through perivascular pathways and astrocytic <b>aquaporin-4 (AQP4)</b> channels — in the <b>α-synucleinopathies</b>, comprising Parkinson's disease, dementia with Lewy bodies and <b>multiple system atrophy</b>. Key points: advanced MRI methods (<b>diffusion tensor imaging analysis along the perivascular space, DTI-ALPS</b>, and functional BOLD–CSF coupling) show impaired glymphatic flow across all three diseases, correlating with cognitive and motor decline; animal and postmortem work indicates that <b>disrupted AQP4 polarisation exacerbates α-synuclein accumulation and neurodegeneration</b>; and the authors survey the intervention directions currently being explored (sleep optimisation, pharmacological modulation of AQP4, device-based approaches). ⚠️ <b>Limitations</b>: this is a review rather than original research, and it is neither a systematic review nor a meta-analysis; <b>DTI-ALPS is an indirect proxy for glymphatic function</b> whose validity remains contested; the paper <b>reports no MSA-specific effect sizes, subtype breakdown or diagnostic thresholds</b>; and the therapeutic strategies described are <b>all at a research stage, with no completed clinical efficacy readout in MSA</b>."
+    }
+  },
+  {
     "id": "pubmed:42624856",
     "date": "2026-08-20",
     "dateDisplay": "2026/08/20",
