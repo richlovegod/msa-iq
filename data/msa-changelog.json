@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-08-27",
+    "dateDisplay": "2026/08/27",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "<b>本次為補掃，無新增資料。</b>上次成功發布為 2026-08-25，<b>08-26 當日排程未執行</b>，故本次一併回補 08-26～08-27 兩天的窗期（PubMed 以 reldate=4 拉長、CT.gov 以 LastUpdatePostDate 範圍檢視）。<b>掃描結果</b>：CT.gov 的 multiple system atrophy 查詢在窗內<b>無新的 MSA 療法試驗</b>——窗內三筆異動逐筆確認後均不收錄：<b>NCT03648905</b>（美國 NINDS 慢性自律神經衰竭之實驗室與影像評估，08/27 更新為 Completed）屬<b>觀察性／影像研究</b>；<b>NCT07657520</b>（華西醫院高海拔神經退化世代研究，08/25 更新）屬觀察性世代研究且狀態為 <b>Withdrawn</b>；<b>NCT06671938</b>（BioArctic exidavnemab Ph2a，08/21 更新為 Completed）已於 08/23 收錄、內容無變化。其餘命中多為 SMA、DMD、肌強直性失養症等「atrophy」字面命中，已逐筆確認適應症後排除。PubMed 的 <code>\"multiple system atrophy\"[Title]</code> 查詢窗內 0 筆；放寬至全欄位後唯一命中為 PMID 42634290（膠淋巴系統綜述），該筆已於 08/24 收錄，不重複新增。追蹤中的業者（Alterity ATH434、Lundbeck amlenetug、Ono ONO-2808、Teva TEV-56286、Tiziana foralumab、Ionis ION464、Dasher Neuroscience YA-101、BioArctic）在窗內未見新的公開新聞稿；窗內出現的 MSA 產業報導為市場研究商的管線彙編新聞稿，非一手來源，依準則不予收錄。",
+    "en": {
+      "tag": "Daily scan",
+      "body": "<b>This scan is a catch-up and added no new data.</b> The last successful publication was 2026-08-25 and <b>the scheduled run did not execute on 08-26</b>, so this pass covers the 08-26 to 08-27 window in one go (PubMed widened via reldate=4, ClinicalTrials.gov reviewed across the LastUpdatePostDate range). <b>Findings</b>: the ClinicalTrials.gov multiple system atrophy query returned <b>no new MSA therapeutic trial</b> in the window. Three records changed and each was excluded on review: <b>NCT03648905</b> (the US NINDS laboratory and imaging evaluation of chronic autonomic failure, updated to Completed on 08/27) is an <b>observational imaging study</b>; <b>NCT07657520</b> (West China Hospital's high-altitude neurodegeneration cohort, updated 08/25) is an observational cohort and its status is <b>Withdrawn</b>; and <b>NCT06671938</b> (BioArctic's exidavnemab Phase 2a, updated to Completed on 08/21) was already recorded on 08/23 with no change in content. The remaining hits were largely SMA, DMD and myotonic dystrophy studies matching on the word 'atrophy', excluded after checking the indication of each. The PubMed query <code>\"multiple system atrophy\"[Title]</code> returned nothing for the window; widening to all fields gave a single hit, PMID 42634290 (the glymphatic system review), which was already added on 08/24 and was not duplicated. None of the companies tracked here (Alterity's ATH434, Lundbeck's amlenetug, Ono's ONO-2808, Teva's TEV-56286, Tiziana's foralumab, Ionis' ION464, Dasher Neuroscience's YA-101, BioArctic) issued a new public press release within the window; the MSA industry coverage that did appear was a market research firm's pipeline round-up press release rather than a primary source, and was not included."
+    }
+  },
+  {
     "date": "2026-08-25",
     "dateDisplay": "2026/08/25",
     "tag": "每日掃描",
