@@ -90,6 +90,24 @@
     }
   },
   {
+    "nct": "NCT07531433",
+    "drug": "ATH434 試驗後續用計畫（美國）",
+    "mechanism": "口服小分子鐵調節劑",
+    "phase": "擴大同意使用（Expanded Access，中型規模計畫；非介入性試驗）",
+    "status": "<b>狀態為「可提供（Available）」</b>（2026/04/15 首次登錄並最後更新，資料驗證日 2026/03）。<b>這不是一個新的臨床試驗</b>，而是 Alterity 為<b>已完成 Ph2 試驗 ATH434-201 或 ATH434-202 的病人</b>設立的<b>試驗後續用（post-trial access）管道</b>：ATH434 錠劑<b>口服、每日兩次、隨餐服用，期間最長 12 個月</b>；資格條件為主治醫師評估病人可自續用獲益、先前未曾中止 ATH434 治療、且無會惡化風險效益比的重大身心疾病。<b>地點為美國，收容上限 20 人</b>。與登錄在案的 <b>NCT07729852（ATH434-203）</b>為<b>兩個不同的管道</b>——後者僅開放法國 ATH434-201 完成者、上限 5 人。⚠️ <b>擴大同意使用計畫不設對照組、不以療效為目的，不會產出可用於評估藥效的數據</b>；本筆<b>不含任何療效或安全性結果</b>。",
+    "sponsor": "Alterity Therapeutics",
+    "cell": false,
+    "primary": "—",
+    "url": "https://clinicaltrials.gov/study/NCT07531433",
+    "en": {
+      "drug": "ATH434 post-trial access programme (USA)",
+      "mechanism": "Oral small-molecule iron modulator",
+      "phase": "Expanded access (intermediate-size population programme; not an interventional trial)",
+      "status": "<b>Listed as \"Available\"</b> (first posted and last updated 2026/04/15, record verified 2026/03). <b>This is not a new clinical trial</b> but a <b>post-trial access</b> route set up by Alterity for <b>patients who completed the Phase 2 studies ATH434-201 or ATH434-202</b>: ATH434 tablets taken <b>orally twice daily with food for up to 12 months</b>. Eligibility requires the treating physician to judge that the patient would benefit from continued treatment, that the patient has not previously discontinued ATH434, and that no significant medical or psychiatric condition would worsen the risk-benefit balance. It is <b>sited in the United States with a cap of 20 patients</b>. It is <b>a separate route</b> from the registered <b>NCT07729852 (ATH434-203)</b>, which is open only to French completers of ATH434-201 and capped at 5. ⚠️ <b>An expanded access programme has no control arm, is not designed to measure efficacy, and will not generate data usable to judge the drug's effect</b>; this record carries <b>no efficacy or safety results</b>.",
+      "sponsor": "Alterity Therapeutics"
+    }
+  },
+  {
     "nct": "NCT07729852",
     "drug": "ATH434 延伸試驗（ATH434-203）",
     "mechanism": "口服小分子鐵調節劑",

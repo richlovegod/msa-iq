@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-08-30",
+    "dateDisplay": "2026/08/30",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "<b>新增 1 筆登錄</b>：<b>Alterity 的 ATH434 試驗後續用計畫（NCT07531433）</b>。<b>這不是新的臨床試驗</b>，而是一個<b>擴大同意使用（Expanded Access）計畫、中型規模</b>，狀態為「可提供（Available）」（2026/04/15 首次登錄並最後更新，資料驗證日 2026/03）：開放給<b>已完成 Ph2 試驗 ATH434-201 或 ATH434-202 的病人</b>續用 ATH434 錠劑，<b>口服每日兩次、隨餐服用，最長 12 個月</b>；資格需主治醫師評估可自續用獲益、先前未曾中止 ATH434，且無會惡化風險效益比的重大身心疾病。<b>地點為美國，收容上限 20 人</b>。與平台已收錄的 <b>NCT07729852（ATH434-203）</b>是<b>兩個不同管道</b>——後者僅開放法國 ATH434-201 完成者、上限 5 人。⚠️ <b>擴大同意使用計畫不設對照組、不以療效為目的，不會產出可用於評估藥效的數據</b>；本筆<b>不含任何療效或安全性結果</b>，亦不代表任何法規進展。<b>本次掃描的其餘結果</b>：CT.gov 的 multiple system atrophy 查詢<b>無新的 MSA 療法試驗</b>——窗內異動的 NCT06846658（義大利 Besta 研究所嗅黏膜／血／尿早期生物標記）、NCT03648905（美國 NINDS 慢性自律神經衰竭評估）、NCT07657520（華西醫院高原神經退化世代，已撤回）、NCT05913687（佛羅里達大學帕金森症候群影像鑑別）、NCT04753320（麻省總醫院 PSP 遠距監測）均屬<b>觀察性／影像／生物標記研究</b>，依準則排除；另 NCT04620382（范德堡大學 midodrine 對照腹部加壓、Early Ph1、已完成）為<b>學術性症狀治療的小型比較研究、非疾病修飾療法</b>，本次亦未收錄。其餘命中的 SMA（salanersen、risdiplam）、DMD（ENTR-601-44／-45、GRT6019、DYNE-251）、肌強直性失養症（VX-670、PGN-EDODM1）、前列腺癌（AZD9750）等為「atrophy」字面命中，已逐筆確認適應症後排除。PubMed 窗內命中 1 筆（PMID 42663379）已收錄。追蹤中的業者（Alterity、Lundbeck amlenetug、Ono ONO-2808、Teva TEV-56286、Tiziana foralumab、Ionis ION464、Dasher Neuroscience YA-101、BioArctic exidavnemab、瑞金醫院 α-Syn H21）窗內未見新的一手公開新聞稿。",
+    "link": {
+      "label": "詳見 試驗雷達 ↗",
+      "tab": "si",
+      "anchor": "trialradar"
+    },
+    "en": {
+      "tag": "Daily scan",
+      "body": "<b>One registry record added</b>: <b>Alterity's ATH434 post-trial access programme (NCT07531433)</b>. <b>This is not a new clinical trial</b> but an <b>expanded access programme of intermediate size</b>, listed as \"Available\" (first posted and last updated 2026/04/15, record verified 2026/03). It offers continued ATH434 tablets to <b>patients who completed the Phase 2 studies ATH434-201 or ATH434-202</b>, taken <b>orally twice daily with food for up to 12 months</b>; eligibility requires the treating physician to judge that the patient would benefit from continuing, that the patient has not previously discontinued ATH434, and that no significant medical or psychiatric condition would worsen the risk-benefit balance. It is <b>sited in the United States with a cap of 20 patients</b>. It is <b>a separate route</b> from NCT07729852 (ATH434-203), already recorded here, which is open only to French completers of ATH434-201 and capped at 5. ⚠️ <b>An expanded access programme has no control arm, is not designed to measure efficacy, and will not generate data usable to judge the drug's effect</b>; this record carries <b>no efficacy or safety results</b> and does not represent regulatory progress. <b>The rest of the scan</b>: the ClinicalTrials.gov multiple system atrophy query surfaced <b>no new MSA therapeutic trial</b>. The records that moved in the window — NCT06846658 (the Besta Institute in Italy, olfactory mucosa, blood and urine early biomarkers), NCT03648905 (the US NINDS evaluation of chronic autonomic failure), NCT07657520 (West China Hospital's high-altitude neurodegeneration cohort, withdrawn), NCT05913687 (automated imaging differentiation of parkinsonism at the University of Florida) and NCT04753320 (remote monitoring in PSP at Massachusetts General) — are <b>observational, imaging or biomarker studies</b> and were excluded under the criteria. NCT04620382 (Vanderbilt's completed Early Phase 1 comparison of midodrine against abdominal compression) is <b>a small academic study of symptomatic management rather than a disease-modifying therapy</b> and was likewise not recorded. The remaining hits — SMA (salanersen, risdiplam), DMD (ENTR-601-44/-45, GRT6019, DYNE-251), myotonic dystrophy (VX-670, PGN-EDODM1) and prostate cancer (AZD9750) — matched on the word 'atrophy' and were excluded after checking each indication. PubMed returned one hit in the window (PMID 42663379), already recorded. None of the companies tracked here (Alterity, Lundbeck's amlenetug, Ono's ONO-2808, Teva's TEV-56286, Tiziana's foralumab, Ionis' ION464, Dasher Neuroscience's YA-101, BioArctic's exidavnemab, Ruijin Hospital's α-Syn H21) issued a new primary press release in the window.",
+      "linkLabel": "See Trial Radar ↗"
+    }
+  },
+  {
     "date": "2026-08-28",
     "dateDisplay": "2026/08/28",
     "tag": "每日掃描",
