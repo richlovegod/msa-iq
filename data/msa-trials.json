@@ -1,5 +1,23 @@
 [
   {
+    "nct": "NCT06683365",
+    "drug": "自體腓腸神經組織移植（autologous sural nerve tissue graft，手術植入）",
+    "mechanism": "由病人自身取下<b>周邊神經組織（peripheral nerve tissue, PNT）</b>，以手術植入<b>黑質（substantia nigra）</b>區域。此類自體周邊神經移植的立論基礎為周邊神經在損傷後具備修復性反應、可提供神經滋養與支持性細胞環境；<b>屬組織／細胞層面的介入，而非藥物</b>",
+    "phase": "Ph1（<b>雙盲</b>；4 人接受移植、3 人接受<b>假手術（sham surgery）對照</b>，共 7 人）",
+    "status": "<b>收案中</b>。試驗名稱 <b>LEAP</b>，主持人 <b>Craig van Horne 醫師</b>（美國肯塔基大學，<b>單一站點</b>，主持人即為登錄主辦方）。起始 <b>2025-02-25</b>，<b>估計收案 7 人</b>，主要完成日 <b>2028-12-02</b>；登錄於 <b>2026-08-31</b> 更新。納入對象為<b>診斷為帕金森病（PD）或多系統萎縮症（MSA）</b>之病人，條件限<b>診斷早期、症狀負擔較輕</b>者，術後先追蹤一年。<b>主要評估項目為安全性與可行性（feasibility）</b>，非療效。⚠️ <b>樣本數僅 7 人、單一站點</b>，且 MSA 與 PD 兩個族群合計，<b>MSA 實際人數未於登錄中分列</b>；<b>目前無任何結果公開讀出</b>，不得就療效做任何推論。",
+    "sponsor": "Craig van Horne, MD, PhD（美國肯塔基大學）",
+    "cell": true,
+    "primary": "2028-12",
+    "url": "https://clinicaltrials.gov/study/NCT06683365",
+    "en": {
+      "drug": "Autologous sural nerve tissue graft (surgically implanted)",
+      "mechanism": "<b>Peripheral nerve tissue (PNT)</b> harvested from the patient's own sural nerve and surgically implanted into the <b>substantia nigra</b>. The rationale for autologous peripheral nerve grafting rests on the reparative response peripheral nerve mounts after injury, which may supply neurotrophic factors and a supportive cellular environment; <b>this is a tissue/cell-level intervention rather than a drug</b>",
+      "phase": "Ph1 (<b>double-blind</b>; 4 participants receive the graft and 3 receive <b>sham surgery</b> as control, 7 in total)",
+      "status": "<b>Recruiting.</b> The study is named <b>LEAP</b> and is led by <b>Craig van Horne, MD, PhD</b> (University of Kentucky, USA, a <b>single site</b>, with the investigator also the registered sponsor). It started <b>2025-02-25</b>, with an <b>estimated enrolment of 7</b> and a primary completion date of <b>2028-12-02</b>; the registration was updated on <b>2026-08-31</b>. Eligible participants are people diagnosed with <b>Parkinson's disease (PD) or multiple system atrophy (MSA)</b>, restricted to those <b>early in their diagnosis with a lower symptom burden</b>, and are followed initially for one year after surgery. The <b>primary outcomes are safety and feasibility</b>, not efficacy. ⚠️ <b>The sample is only 7 participants at a single site</b>, pooled across MSA and PD, and <b>the registration does not break out how many will have MSA</b>; <b>no results have been read out publicly</b>, and no inference about efficacy should be drawn.",
+      "sponsor": "Craig van Horne, MD, PhD (University of Kentucky, USA)"
+    }
+  },
+  {
     "nct": "NCT06671938",
     "drug": "Exidavnemab（BAN0805）",
     "mechanism": "靜脈輸注之單株抗體，設計上選擇性結合病理性 α-synuclein 的原纖維／聚集體形式，目標為降低其細胞間擴散",

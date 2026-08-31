@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:42665710",
+    "date": "2026-08-29",
+    "dateDisplay": "2026/08/29",
+    "title": "Glymphatic dysfunction in cerebellar neurodegeneration: mechanistic insights and emerging clinical implications",
+    "journal": "Neurological Sciences 47(9):743 · Rodriguez PF、Rivas LMF、Canino GR（美國佛州 Glyax Medical LLC，合著者任職克里夫蘭診所佛州分院神經科）· doi:10.1007/s10072-026-09351-3",
+    "tag": "類淋巴系統 · 機轉綜論 · 影像評估",
+    "highlight": false,
+    "note": "→ <b>這是一篇綜論（review），不是原始研究，沒有新的病人資料</b>。主題是<b>類淋巴系統（glymphatic system）</b>——一條依賴神經膠細胞的血管周圍清除路徑，透過腦脊髓液與組織間液交換維持中樞神經恆定——在<b>涉及小腦網路的神經退化疾病</b>中的角色。作者聚焦四個疾病：<b>多系統萎縮症（MSA）、第 3 型脊髓小腦萎縮症（SCA3）、進行性核上性麻痺（PSP）與原發性顫抖症</b>。所評估的機轉路徑包括<b>星狀膠細胞血管周足與 Bergmann 膠細胞軟膜足上的 aquaporin-4（AQP4）極性錯置</b>、<b>神經發炎</b>、<b>血管變化</b>與<b>睡眠相依的體液動力學</b>；文中並回顧了以<b>擴散張量影像</b>等進階神經影像方法評估類淋巴功能的作法。→ 對本領域的意義：MSA 的病理核心是<b>寡樹突膠細胞內的 α-synuclein 包涵體</b>，而類淋巴路徑關乎<b>異常蛋白的清除效率</b>，因此本文把 MSA 放進「清除失能」這個跨疾病框架中討論；若相關影像指標日後獲得驗證，可能與<b>生物標記與分期工具</b>的發展有關。⚠️ <b>限制</b>：<b>綜論性質，整理的是新興證據與假說，非因果證明</b>，作者本身亦明言證據仍在浮現階段；文中所述的影像評估方法<b>尚未成為 MSA 的既定臨床工具</b>。<b>三位作者中有兩位任職於一家私人公司（Glyax Medical LLC）</b>，讀者宜自行留意。<b>本文不含任何治療、試驗或療效資料</b>，不得據以推論任何療法的效果。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42665710/",
+    "urlLabel": "論文 ↗ PubMed 42665710",
+    "en": {
+      "journal": "Neurological Sciences 47(9):743 · Rodriguez PF, Rivas LMF, Canino GR (Glyax Medical LLC, Miami, Florida, USA; one co-author is at the Department of Neurology, Cleveland Clinic Florida) · doi:10.1007/s10072-026-09351-3",
+      "tag": "Glymphatic system · mechanism review · imaging assessment",
+      "note": "→ <b>This is a review, not a primary study, and it reports no new patient data.</b> Its subject is the <b>glymphatic system</b> — a glia-dependent perivascular clearance pathway that maintains CNS homeostasis through cerebrospinal-fluid and interstitial-fluid exchange — and its role in <b>neurodegenerative disorders involving cerebellar networks</b>. The authors focus on four conditions: <b>multiple system atrophy (MSA), spinocerebellar ataxia type 3 (SCA3), progressive supranuclear palsy (PSP) and essential tremor</b>. The mechanistic pathways evaluated include <b>aquaporin-4 (AQP4) mispolarisation across astrocytic perivascular and Bergmann glial pial endfeet</b>, <b>neuroinflammation</b>, <b>vascular alterations</b> and <b>sleep-dependent fluid dynamics</b>; the review also surveys advanced neuroimaging approaches, including <b>diffusion tensor imaging</b>, for assessing glymphatic function. → Significance for the field: the pathological core of MSA is <b>alpha-synuclein inclusions within oligodendrocytes</b>, and the glymphatic pathway governs <b>how efficiently abnormal protein is cleared</b>, so this review places MSA within a cross-disease framework of impaired clearance; should the associated imaging measures be validated, they could bear on the development of <b>biomarkers and staging tools</b>. ⚠️ <b>Limitations</b>: <b>as a review it organises emerging evidence and hypotheses rather than establishing causation</b>, and the authors themselves state that the evidence is still emerging; the imaging methods described are <b>not established clinical tools in MSA</b>. <b>Two of the three authors are affiliated with a private company (Glyax Medical LLC)</b>, which readers should weigh for themselves. The paper contains <b>no treatment, trial or efficacy data</b> and supports no inference about any therapy's effect.",
+      "urlLabel": "Paper ↗ PubMed 42665710"
+    }
+  },
+  {
     "id": "pubmed:42663379",
     "date": "2026-08-28",
     "dateDisplay": "2026/08/28",

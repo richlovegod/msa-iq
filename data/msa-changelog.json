@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-08-31",
+    "dateDisplay": "2026/08/31",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "<b>新增 1 筆試驗＋1 則文獻</b>。<b>①試驗</b>：<b>LEAP（NCT06683365）</b>——<b>自體腓腸神經組織移植至黑質</b>的 Ph1 可行性與安全性試驗，主持人 Craig van Horne 醫師（美國肯塔基大學，單一站點），<b>雙盲、含假手術對照</b>，估計收案 <b>7 人（4 移植、3 假手術）</b>，納入<b>診斷早期、症狀負擔較輕</b>的帕金森病或 MSA 病人，起始 2025-02-25、主要完成日 2028-12-02，登錄於 2026-08-31 更新。<b>這是一項組織／細胞層面的介入</b>，但<b>登錄未分列 MSA 的實際人數</b>，且<b>主要評估項目為安全性與可行性、非療效</b>，目前無任何結果讀出。<b>②文獻</b>：<b>類淋巴系統（glymphatic）功能失調在小腦神經退化中的角色</b>綜論，涵蓋 <b>MSA、SCA3、PSP 與原發性顫抖症</b>，機轉包括 AQP4 極性錯置、神經發炎、血管變化與睡眠相依體液動力學，並回顧擴散張量影像等評估方法（<i>Neurological Sciences</i>）；屬綜論、非因果證明，且三位作者中兩位任職於私人公司。<b>本日另完成</b>：ClinicalTrials.gov MSA 條件查詢（已逐筆排除 SMA／DMD／肌強直性失養症等「atrophy」字面命中的無關試驗）與 PubMed 標題查詢，除上述外未見其他新增。",
+    "en": {
+      "tag": "Daily scan",
+      "body": "<b>Added 1 trial and 1 paper.</b> <b>①Trial</b>: <b>LEAP (NCT06683365)</b> — a Phase 1 feasibility and safety study of <b>autologous sural nerve tissue grafting into the substantia nigra</b>, led by Craig van Horne, MD, PhD (University of Kentucky, USA, single site), <b>double-blind with a sham-surgery control</b>, an estimated <b>7 participants (4 graft, 3 sham)</b>, enrolling people with Parkinson's disease or MSA who are <b>early in their diagnosis with a lower symptom burden</b>, started 2025-02-25 with a primary completion date of 2028-12-02, registration updated 2026-08-31. <b>This is a tissue/cell-level intervention</b>, but <b>the registration does not break out how many participants will have MSA</b>, its <b>primary outcomes are safety and feasibility rather than efficacy</b>, and no results have been read out. <b>②Paper</b>: a review of <b>glymphatic dysfunction in cerebellar neurodegeneration</b> spanning <b>MSA, SCA3, PSP and essential tremor</b>, covering AQP4 mispolarisation, neuroinflammation, vascular alterations and sleep-dependent fluid dynamics, and surveying assessment methods including diffusion tensor imaging (<i>Neurological Sciences</i>); it is a review rather than causal evidence, and two of its three authors are affiliated with a private company. <b>Also completed today</b>: the ClinicalTrials.gov MSA condition query (with SMA, DMD, myotonic dystrophy and other incidental \"atrophy\" string matches excluded case by case) and the PubMed title query, which surfaced nothing further."
+    }
+  },
+  {
     "date": "2026-08-30",
     "dateDisplay": "2026/08/30",
     "tag": "每日掃描",
