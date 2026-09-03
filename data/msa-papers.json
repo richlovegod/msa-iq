@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:42676193",
+    "date": "2026-09-01",
+    "dateDisplay": "2026/09/01",
+    "title": "Lower Urinary Tract Symptoms as Diagnostic Clues in Parkinsonism: A Practical Framework for Neurologists",
+    "journal": "Movement Disorders Clinical Practice · Anis S、Anis O、Lenka A、Siddiqui JH（美國克里夫蘭診所神經研究所神經復健中心與泌尿研究所泌尿科；合著者任職維吉尼亞聯邦大學帕金森氏症暨動作障礙中心）· doi:10.1002/mdc3.70780 · 電子版 2026/09/01",
+    "tag": "下泌尿道症狀 · 鑑別診斷 · 臨床實務綜論",
+    "highlight": false,
+    "note": "→ <b>這是一篇臨床實務綜論，不是原始研究，沒有新的病人資料</b>。主題是<b>下泌尿道症狀（LUTS）在巴金森症候群中的診斷價值</b>。作者的出發點：<b>LUTS 是巴金森症候群光譜中最常見的非運動症狀之一，卻長期被低度利用為診斷與處置的訊號</b>。<b>與 MSA 相關的核心判讀</b>：作者指出各疾病的症狀型態不同——<b>尿滯留（urinary retention）指向多系統萎縮症</b>，而<b>帕金森氏症的夜尿多為多因性</b>。文中並提醒<b>抗蕈毒鹼類（antimuscarinic）藥物在此族群中的風險會相互疊加</b>（認知與自律神經負擔）。作者提出的實務架構包含四個步驟：<b>①症狀分類、②殘尿量（postvoid residual）測量、③危險徵象（red flag）辨識、④針對性的藥物處置建議</b>。→ 對本領域的意義：<b>MSA 與帕金森氏症在發病早期的鑑別是本領域最實際的難題</b>，而自律神經功能障礙（含泌尿功能）本就是<b>MSA 現行診斷準則的核心要素</b>；本文把泌尿科的評估工具整理成神經科門診可直接操作的流程，屬<b>臨床照護與診斷路徑</b>層面的資訊，與試驗收案時的診斷純度議題相鄰。⚠️ <b>限制</b>：<b>綜論性質，內容為既有證據的整理與作者的實務建議，非新數據、非系統性回顧，亦未提供任何診斷準確度的量化指標（無敏感度、特異度或 AUC）</b>；所提架構<b>未經前瞻性驗證</b>，作者本身將其定位為實用架構而非已驗證的診斷準則。<b>本文不含任何藥物療效或臨床試驗資料</b>，不得據以推論任何療法的效果，<b>「尿滯留指向 MSA」亦屬型態性提示，不能單獨用於診斷</b>。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42676193/",
+    "urlLabel": "論文 ↗ PubMed 42676193",
+    "en": {
+      "journal": "Movement Disorders Clinical Practice · Anis S, Anis O, Lenka A, Siddiqui JH (Center for Neurological Restoration, Neurological Institute, and Department of Urology, Urological Institute, Cleveland Clinic Foundation, Cleveland, OH, USA; co-author at the VCU Parkinson's Disease and Movement Disorder Center, Virginia Commonwealth University, Richmond, VA, USA) · doi:10.1002/mdc3.70780 · e-published 2026/09/01",
+      "tag": "Lower urinary tract symptoms · differential diagnosis · practice review",
+      "note": "→ <b>This is a clinical practice review, not primary research, and it reports no new patient data.</b> Its subject is the <b>diagnostic value of lower urinary tract symptoms (LUTS) across the parkinsonian spectrum</b>. The authors' premise is that <b>LUTS are among the most prevalent non-motor complaints in these disorders yet remain underused as diagnostic and management signals</b>. <b>The reading that bears on MSA</b>: symptom patterns differ by disease — <b>urinary retention points towards multiple system atrophy</b>, whereas <b>nocturia in Parkinson's disease is typically multifactorial</b>. The review also warns that <b>antimuscarinic drugs carry compounded risks</b> in this population, given the cognitive and autonomic burden already present. The framework the authors propose has four steps: <b>symptom classification, postvoid residual measurement, red-flag identification, and targeted pharmacologic guidance</b>. → Significance for the field: <b>separating MSA from Parkinson's disease early in the course is the field's most practical difficulty</b>, and autonomic dysfunction — urinary function included — is already <b>central to the current MSA diagnostic criteria</b>. This paper translates urological assessment tools into a sequence a neurology clinic can run directly, which sits in the <b>clinical care and diagnostic pathway</b> layer and borders on the question of diagnostic purity at trial enrolment. ⚠️ <b>Limitations</b>: <b>as a review it organises existing evidence into the authors' practical recommendations; it is not new data, not a systematic review, and offers no quantitative measures of diagnostic accuracy — no sensitivity, specificity or AUC</b>. The proposed framework is <b>not prospectively validated</b>, and the authors present it as a pragmatic aid rather than a validated diagnostic rule. <b>It contains no drug efficacy or clinical trial data</b> and supports no inference about any therapy, and the <b>association of urinary retention with MSA is a pattern-level clue that cannot diagnose on its own</b>.",
+      "urlLabel": "Paper ↗ PubMed 42676193"
+    }
+  },
+  {
     "id": "pubmed:42673764",
     "date": "2026-08-31",
     "dateDisplay": "2026/08/31",
