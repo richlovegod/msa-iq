@@ -108,23 +108,6 @@
     }
   },
   {
-    "id": "pubmed:42663379",
-    "date": "2026-08-28",
-    "dateDisplay": "2026/08/28",
-    "title": "AGG repeat expansion and aggregation of BIN1 in multiple system atrophy",
-    "journal": "Brain · Kume K 等（日本；通訊作者 Kawakami H）· doi:10.1093/brain/awag194",
-    "tag": "遺傳學 · BIN1 重複序列擴增 · 病理確診世代",
-    "highlight": true,
-    "note": "→ <b>原始研究</b>。日本團隊檢驗 <b>BIN1 基因的 AGG 重複序列擴增</b>是否與多系統萎縮症相關，共篩檢<b>臨床診斷 MSA 224 例、病理確診 MSA 67 例</b>，對照組為<b>血液對照 574 例、腦組織對照 65 例</b>。結果分兩層，方向並不一致：<b>病理確診組</b>中「重複次數 &gt; 80」的擴增頻率顯著高於腦組織對照——<b>13.4% vs 0%，勝算比為無限大（95% CI 2.1 至無限大），P = 0.003</b>；但<b>臨床診斷組對血液對照則未達統計顯著</b>——<b>4.5% vs 2.4%，勝算比 1.87（95% CI 0.8–4.5），P = 0.16</b>。作者另觀察到 <b>BIN1 蛋白聚集</b>，結論為 BIN1 的 AGG 重複擴增與 BIN1 蛋白聚集「在多系統萎縮症的致病機轉中扮演重要角色」。⚠️ <b>限制</b>：<b>勝算比為無限大是因為腦組織對照組的事件數為零</b>，並非效果量真的無窮大——其 95% 信賴區間下界僅 2.1，且病理組僅 67 例、對照僅 65 例，<b>估計極不精確</b>。<b>臨床診斷世代未能複製此關聯</b>，兩層結果的落差可能反映臨床診斷的異質性，也可能反映病理組的選樣偏差，本研究無法區分。全數受試者為<b>日本族群，是否適用於其他族群未經檢驗</b>；本研究為<b>關聯性與病理觀察，未證明因果</b>，亦<b>不含任何治療介入或療效資料</b>。",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42663379/",
-    "urlLabel": "論文 ↗ PubMed 42663379",
-    "en": {
-      "journal": "Brain · Kume K et al. (Japan; corresponding author Kawakami H) · doi:10.1093/brain/awag194",
-      "tag": "Genetics · BIN1 repeat expansion · pathologically confirmed cohort",
-      "note": "→ <b>Original research.</b> A Japanese group tested whether <b>AGG repeat expansions in the BIN1 gene</b> are associated with multiple system atrophy, screening <b>224 clinically diagnosed and 67 pathologically confirmed MSA cases</b> against <b>574 blood controls and 65 brain controls</b>. The result splits into two layers that do not point the same way. In the <b>pathologically confirmed group</b>, expansions beyond 80 repeats were significantly more frequent than in brain controls — <b>13.4% vs 0%, odds ratio infinity (95% CI 2.1 to infinity), P = 0.003</b>. In the <b>clinically diagnosed group against blood controls the difference did not reach significance</b> — <b>4.5% vs 2.4%, odds ratio 1.87 (95% CI 0.8–4.5), P = 0.16</b>. The authors also report <b>aggregation of the BIN1 protein</b>, and conclude that the AGG repeat expansion in BIN1 together with BIN1 aggregation plays an important part in the pathogenesis of multiple system atrophy. ⚠️ <b>Limitations</b>: <b>the odds ratio is infinite only because the brain control group recorded zero events</b>, not because the effect size is genuinely unbounded — the lower bound of its confidence interval is just 2.1, and with 67 pathological cases against 65 controls the <b>estimate is very imprecise</b>. <b>The clinically diagnosed cohort did not reproduce the association</b>, and this study cannot distinguish whether that gap reflects heterogeneity in clinical diagnosis or selection bias in the pathological series. All participants were <b>Japanese, and generalisability to other populations is untested</b>. The work is <b>associative and pathological, does not establish causation</b>, and <b>contains no therapeutic intervention or efficacy data</b>."
-    }
-  },
-  {
     "id": "pubmed:42634290",
     "date": "2026-08-24",
     "dateDisplay": "2026/08/24",
