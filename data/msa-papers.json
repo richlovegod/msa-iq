@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:42711280",
+    "date": "2026-09-09",
+    "dateDisplay": "2026/09/09",
+    "title": "Comment on the Cerebral Astrocytic Inclusion Pathology in Multiple System Atrophy With a Long Clinical Course",
+    "journal": "Neuropathology 46(5):e70078（2026 年 10 月號）· Homma T、Mochizuki Y、Tobisawa S、Ishizawa K、Takahashi K（日本：埼玉醫科大學國際醫療中心診斷病理科、東京都立神經病院檢查科神經病理與神經內科、板橋望月外科診所）· doi:10.1111/neup.70078 · 2026/09/09 收錄",
+    "tag": "神經病理 · 星形膠細胞包涵體 · 長病程 MSA · <b>通訊／評論（Letter）</b>",
+    "highlight": false,
+    "note": "→ <b>本筆為「已刊出、可查證」之記錄，而非內容摘要。</b>這是一篇<b>刊登於 Neuropathology 的通訊／評論（Publication Type: Letter）</b>，由<b>東京都立神經病院與埼玉醫科大學國際醫療中心</b>的神經病理團隊所寫，主題為<b>長病程多系統萎縮症腦中的星形膠細胞（astrocyte）包涵體病理</b>。⚠️ <b>本站無法摘述其論點</b>：<b>PubMed 記錄未附任何摘要</b>，全文亦非開放取用，因此<b>該文的具體主張、所評論的原著、以及是否提出新的病例或影像資料，均無法自公開來源確認</b>——依本站不編造原則，此處<b>只登錄書目事實，不代寫其結論</b>。→ 之所以仍予收錄，是因為<b>方向本身值得標記</b>：MSA 的病理定義長期以<b>寡突膠細胞胞質包涵體（GCI）</b>為核心，而<b>星形膠細胞的角色相對少被系統性描述</b>；「長病程」個案又是<b>探討病理是否隨病程延長而擴及其他膠細胞族群</b>的少數觀察窗口。⚠️ <b>限制</b>：<b>通訊／評論屬最低層級的文獻類型</b>，非原始研究、無同儕審查等級的完整方法與數據；<b>本文與任何療法、藥物或臨床試驗均無關</b>，不得據以推論治療方向。有意者請自行取閱原文。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42711280/",
+    "urlLabel": "論文 ↗ PubMed 42711280",
+    "en": {
+      "tag": "Neuropathology · astrocytic inclusions · long-course MSA · <b>correspondence (Letter)</b>",
+      "journal": "Neuropathology 46(5):e70078 (October 2026 issue) · Homma T, Mochizuki Y, Tobisawa S, Ishizawa K, Takahashi K (Japan: Department of Diagnostic Pathology, Saitama Medical University International Medical Center; Department of Laboratory Medicine (Neuropathology) and Department of Neurology, Tokyo Metropolitan Neurological Hospital; Mochizuki Surgical Clinic, Itabashi, Tokyo) · doi:10.1111/neup.70078 · indexed 2026/09/09",
+      "note": "→ <b>This entry records a verifiable publication; it is not a summary of its contents.</b> The item is a <b>correspondence piece in Neuropathology (publication type: Letter)</b>, written by the neuropathology group at <b>Tokyo Metropolitan Neurological Hospital and Saitama Medical University International Medical Center</b>, on <b>astrocytic inclusion pathology in the brains of people with a long clinical course of multiple system atrophy</b>. ⚠️ <b>This site cannot summarise its argument</b>: <b>the PubMed record carries no abstract</b> and the full text is not open access, so <b>the letter's specific claims, the article it comments on, and whether it presents new case or imaging material cannot be confirmed from public sources</b> — and under this site's rule against fabrication, <b>only the bibliographic facts are recorded, with no conclusions written on the authors' behalf</b>. → It is recorded nonetheless because <b>the direction itself is worth flagging</b>: the pathological definition of MSA has long centred on <b>glial cytoplasmic inclusions (GCIs) in oligodendrocytes</b>, while <b>the role of astrocytes has been comparatively little described in systematic terms</b>; and long-course cases are one of the few observational windows onto <b>whether the pathology extends into other glial populations as disease duration lengthens</b>. ⚠️ <b>Limitations</b>: <b>correspondence is the lowest tier of publication type</b> — not primary research, and without full peer-reviewed methods or data; and <b>the letter bears on no therapy, drug or clinical trial</b>, so no inference about treatment direction can be drawn from it. Interested readers should consult the original.",
+      "urlLabel": "Paper ↗ PubMed 42711280"
+    }
+  },
+  {
     "id": "pubmed:42696165",
     "date": "2026-09-04",
     "dateDisplay": "2026/09/04",

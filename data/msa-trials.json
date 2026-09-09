@@ -1,5 +1,41 @@
 [
   {
+    "nct": "NCT07514923",
+    "drug": "ALT001（登錄描述為「源自幹細胞分泌之細胞外泌體的神經修復蛋白」）",
+    "mechanism": "登錄將 ALT001 描述為<b>由幹細胞分泌之外泌體（exosome）所衍生的神經修復蛋白</b>，並稱其具「選擇性組裝、標靶遞送、高效組織修復」與神經保護作用。給藥採<b>鞘內注射併靜脈輸注雙途徑</b>：鞘內 130 μg 於第 1、31、61 天；靜脈 130 μg 於第 2–14、32–44±3、62–74±5 天。⚠️ <b>上述機制敘述全數引自主辦方的登錄文字</b>；<b>公開來源未見同儕審查的臨床前資料、蛋白身分或製程說明，本站不代為背書亦不推論其作用機轉</b>",
+    "phase": "早期 Ph1（Early Phase 1；隨機，設有選擇性的開放標示延伸期）",
+    "status": "<b>收案中</b>——<b>本站新收錄</b>。<b>MSA 小腦型（MSA-C）專屬試驗</b>，登錄於 <b>2026-09-09</b> 更新。主辦為<b>北京天壇醫院副院長王擁軍（Yilong Wang）</b>，屬<b>主辦者即主持人（sponsor-investigator）</b>之研究者發起試驗，<b>單一站點（中國北京，北京天壇醫院）</b>。起始 <b>2026-06-10</b>，<b>估計收案 20 人</b>，主要完成日 <b>2027-01-31</b>。<b>兩項主要指標皆為安全性</b>：至第 90±7 天之不良事件與嚴重不良事件發生率、以及實驗室數值異常／生命徵象變化／心電圖異常發生率。⚠️ <b>需誠實標註三點</b>：(1) <b>主要指標不含任何療效項目</b>，本試驗設計上不會產生療效證據；(2) <b>單一站點、n=20、研究者發起</b>，且<b>登錄未載明背後是否有商業開發者</b>；(3) <b>目前無任何結果公開讀出</b>，不得就 ALT001 的療效或安全性做任何推論。",
+    "sponsor": "王擁軍（Yilong Wang，北京天壇醫院，中國）",
+    "cell": true,
+    "primary": "2027-01",
+    "url": "https://clinicaltrials.gov/study/NCT07514923",
+    "en": {
+      "drug": "ALT001 (registered as a 'nerve repair protein derived from cellular exosomes secreted by stem cells')",
+      "mechanism": "The registration describes ALT001 as a <b>nerve repair protein derived from exosomes secreted by stem cells</b>, crediting it with 'selective assembly, targeted delivery, highly efficient tissue repair' and neuroprotective effects. Dosing uses <b>both intrathecal and intravenous routes</b>: 130 μg intrathecally on days 1, 31 and 61, plus 130 μg intravenously on days 2–14, 32–44±3 and 62–74±5. ⚠️ <b>Every element of that mechanistic description is quoted from the sponsor's own registry text</b>; <b>no peer-reviewed preclinical data, protein identity or manufacturing description is available from public sources, and this site neither endorses the claim nor infers a mechanism of action</b>",
+      "phase": "Early Phase 1 (randomised, with an optional open-label extension period)",
+      "status": "<b>Recruiting</b> — <b>newly recorded here</b>. A trial specific to <b>the cerebellar subtype of MSA (MSA-C)</b>, with the registration updated on <b>2026-09-09</b>. The sponsor is <b>Yilong Wang, Vice President of Beijing Tiantan Hospital</b>, as a <b>sponsor-investigator</b> — an investigator-initiated study at a <b>single site (Beijing Tiantan Hospital, Beijing, China)</b>. It started <b>2026-06-10</b>, with an <b>estimated enrolment of 20</b> and a primary completion date of <b>2027-01-31</b>. <b>Both primary outcomes are safety measures</b>: the incidence of adverse and serious adverse events through day 90±7, and the incidence of laboratory abnormalities, vital sign changes and ECG abnormalities. ⚠️ <b>Three things to state honestly</b>: (1) <b>no efficacy measure appears among the primary outcomes</b>, so by design this trial will not generate efficacy evidence; (2) it is a <b>single-site, n=20, investigator-initiated study</b>, and <b>the registration does not name any commercial developer behind it</b>; and (3) <b>no results have been read out publicly</b>, so no inference about the efficacy or safety of ALT001 can be drawn.",
+      "sponsor": "Yilong Wang (Beijing Tiantan Hospital, China)"
+    }
+  },
+  {
+    "nct": "NCT07476352",
+    "drug": "ALT001（登錄描述為「源自幹細胞分泌之細胞外泌體的神經修復蛋白」）",
+    "mechanism": "同 NCT07514923 之 ALT001，惟本試驗<b>僅採靜脈輸注</b>（130 μg，於第 1–14、31–44±3、61–74±5 天，共三個 30 天療程），<b>不含鞘內注射</b>。⚠️ 機制敘述引自主辦方登錄文字，<b>公開來源未見同儕審查之臨床前佐證</b>",
+    "phase": "早期 Ph1（Early Phase 1；<b>開放標示</b>、單臂）",
+    "status": "<b>收案中</b>——<b>本站新收錄</b>。此為 ALT001 的<b>擴充試驗（expansion study）</b>，登錄於 <b>2026-09-09</b> 更新，主辦同為<b>北京天壇醫院王擁軍</b>、<b>單一站點</b>。與姊妹試驗 NCT07514923 的差異有三：<b>①納入全體 MSA（不限小腦型）</b>、<b>②收案規模較大，估計 60 人</b>、<b>③屬開放標示、真實世界條件下的評估</b>。實際起始 <b>2026-06-15</b>，主要完成日 <b>2027-10-30</b>。<b>主要指標包含安全性與療效兩類</b>：至第 180±7 天之不良事件與嚴重不良事件發生率，以及<b>第 15、45±3、75±5、180±14 天之 UMSARS 分數自基線變化</b>。⚠️ <b>需誠實標註</b>：本試驗雖以 UMSARS 為主要指標之一，但<b>為開放標示、單臂、無安慰劑對照</b>——<b>MSA 屬進行性疾病，單臂 UMSARS 變化無法與自然病程區辨</b>，不足以支持療效結論；<b>目前無任何結果公開讀出</b>。",
+    "sponsor": "王擁軍（Yilong Wang，北京天壇醫院，中國）",
+    "cell": true,
+    "primary": "2027-10",
+    "url": "https://clinicaltrials.gov/study/NCT07476352",
+    "en": {
+      "drug": "ALT001 (registered as a 'nerve repair protein derived from cellular exosomes secreted by stem cells')",
+      "mechanism": "The same ALT001 as in NCT07514923, except that this trial uses <b>the intravenous route only</b> (130 μg on days 1–14, 31–44±3 and 61–74±5, across three 30-day cycles), <b>with no intrathecal dosing</b>. ⚠️ The mechanistic description is quoted from the sponsor's registry text; <b>no peer-reviewed preclinical support is available from public sources</b>",
+      "phase": "Early Phase 1 (<b>open-label</b>, single-arm)",
+      "status": "<b>Recruiting</b> — <b>newly recorded here</b>. This is the <b>expansion study</b> of ALT001, registration updated <b>2026-09-09</b>, sponsored by the same <b>Yilong Wang at Beijing Tiantan Hospital</b> at a <b>single site</b>. It differs from its sister trial NCT07514923 in three ways: <b>(1) it enrols MSA generally rather than the cerebellar subtype alone</b>, <b>(2) it is larger, with an estimated enrolment of 60</b>, and <b>(3) it is an open-label assessment under real-world conditions</b>. The actual start date is <b>2026-06-15</b> and the primary completion date <b>2027-10-30</b>. <b>Its primary outcomes span both safety and efficacy</b>: the incidence of adverse and serious adverse events through day 180±7, and <b>change from baseline in UMSARS score at days 15, 45±3, 75±5 and 180±14</b>. ⚠️ <b>To be stated honestly</b>: although UMSARS is among the primary outcomes, the study is <b>open-label, single-arm and has no placebo control</b> — and since <b>MSA is progressive, single-arm UMSARS change cannot be distinguished from natural history</b>, so it cannot support a conclusion about efficacy. <b>No results have been read out publicly.</b>",
+      "sponsor": "Yilong Wang (Beijing Tiantan Hospital, China)"
+    }
+  },
+  {
     "nct": "NCT06683365",
     "drug": "自體腓腸神經組織移植（autologous sural nerve tissue graft，手術植入）",
     "mechanism": "由病人自身取下<b>周邊神經組織（peripheral nerve tissue, PNT）</b>，以手術植入<b>黑質（substantia nigra）</b>區域。此類自體周邊神經移植的立論基礎為周邊神經在損傷後具備修復性反應、可提供神經滋養與支持性細胞環境；<b>屬組織／細胞層面的介入，而非藥物</b>",

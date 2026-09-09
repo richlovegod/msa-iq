@@ -1,5 +1,45 @@
 [
   {
+    "id": "alt001",
+    "company": "北京天壇醫院研究者發起（主辦者即主持人：王擁軍／Yilong Wang，中國）",
+    "drug": "ALT001",
+    "mechanism": "登錄描述為<b>源自幹細胞分泌之外泌體（exosome）的神經修復蛋白</b>，主張具選擇性組裝、標靶遞送與神經保護作用；給藥途徑含<b>鞘內注射與靜脈輸注</b>（依試驗而異）",
+    "phase": "早期 Ph1（兩項並行試驗）",
+    "status": "<b>兩項試驗同步收案中，登錄均於 2026-09-09 更新</b>：<b>NCT07514923</b>（MSA 小腦型專屬、隨機、鞘內併靜脈給藥、n=20、主要指標<b>純為安全性</b>、主要完成日 2027-01）與<b>NCT07476352</b>（擴充試驗、全體 MSA、<b>開放標示單臂</b>、僅靜脈給藥、n=60、主要指標含安全性與 <b>UMSARS 變化</b>、主要完成日 2027-10）。皆為<b>單一站點（北京天壇醫院）、研究者發起</b>。⚠️ <b>目前無任何結果公開讀出</b>。",
+    "highlight": false,
+    "relevance": "外泌體衍生蛋白路線，是本站目前唯一以<b>幹細胞分泌體（secretome）而非細胞本身</b>為藥物實體的 MSA 在研療法",
+    "note": "→ 這條路線與 Mayo、韓國各家的<b>間質幹細胞（MSC）輸注</b>屬同一個「再生／修復」大類，但<b>藥物實體不同</b>：MSC 療法投的是活細胞，本案投的是<b>細胞分泌物的蛋白成分</b>——理論上可迴避活細胞的存活、歸巢與批次一致性問題，也較易標準化與定量。⚠️ <b>但必須誠實標註本案的證據基礎目前極薄</b>：<b>公開來源未見同儕審查的臨床前資料，亦未見蛋白身分、純化方式或製程說明</b>，機制敘述<b>全數僅出自主辦方自填的登錄文字</b>；兩項試驗<b>皆為單一站點、研究者發起、合計 n=80</b>，且<b>登錄未指明背後是否有商業開發者</b>。擴充試驗雖以 UMSARS 為主要指標之一，然<b>開放標示單臂設計無法與 MSA 的自然病程區辨</b>。本站據公開登錄如實收錄其存在與設計，<b>不就其機制主張或潛在療效作任何背書</b>。",
+    "category": "cell",
+    "sources": [
+      {
+        "label": "試驗登錄 NCT07514923（MSA-C）",
+        "url": "https://clinicaltrials.gov/study/NCT07514923"
+      },
+      {
+        "label": "試驗登錄 NCT07476352（擴充試驗）",
+        "url": "https://clinicaltrials.gov/study/NCT07476352"
+      }
+    ],
+    "en": {
+      "company": "Investigator-initiated at Beijing Tiantan Hospital (sponsor-investigator: Yilong Wang, China)",
+      "mechanism": "Registered as a <b>nerve repair protein derived from exosomes secreted by stem cells</b>, claimed to offer selective assembly, targeted delivery and neuroprotection; administered <b>intrathecally and/or intravenously</b> depending on the trial",
+      "phase": "Early Phase 1 (two parallel trials)",
+      "status": "<b>Two trials are recruiting concurrently, both with registrations updated 2026-09-09</b>: <b>NCT07514923</b> (specific to the cerebellar subtype, randomised, intrathecal plus intravenous dosing, n=20, primary outcomes <b>purely safety</b>, primary completion 2027-01) and <b>NCT07476352</b> (the expansion study, MSA generally, <b>open-label single-arm</b>, intravenous only, n=60, primary outcomes covering safety and <b>change in UMSARS</b>, primary completion 2027-10). Both are <b>single-site studies at Beijing Tiantan Hospital, investigator-initiated</b>. ⚠️ <b>No results have been read out publicly.</b>",
+      "relevance": "An exosome-derived protein approach — currently the only MSA therapy tracked here whose drug substance is the <b>stem cell secretome rather than the cells themselves</b>",
+      "note": "→ This sits in the same 'regenerative/repair' family as the <b>mesenchymal stem cell (MSC) infusions</b> from Mayo and the Korean developers, but <b>the drug substance differs</b>: MSC therapies administer living cells, whereas this administers <b>protein components of what those cells secrete</b> — which in principle sidesteps questions of cell survival, homing and batch consistency, and is easier to standardise and quantify. ⚠️ <b>The evidence base here must be described honestly as very thin</b>: <b>no peer-reviewed preclinical data are available publicly, nor any statement of protein identity, purification or manufacturing</b>, and the mechanistic description comes <b>solely from the sponsor's own registry text</b>. Both trials are <b>single-site, investigator-initiated and total n=80</b>, and <b>the registrations name no commercial developer</b>. Although the expansion study lists UMSARS among its primary outcomes, an <b>open-label single-arm design cannot be distinguished from the natural history of MSA</b>. This site records the existence and design of the programme as publicly registered, and <b>endorses neither its mechanistic claims nor any potential efficacy</b>.",
+      "sources": [
+        {
+          "label": "Registry NCT07514923 (MSA-C)",
+          "url": "https://clinicaltrials.gov/study/NCT07514923"
+        },
+        {
+          "label": "Registry NCT07476352 (expansion study)",
+          "url": "https://clinicaltrials.gov/study/NCT07476352"
+        }
+      ]
+    }
+  },
+  {
     "id": "exidavnemab",
     "company": "BioArctic AB（瑞典，Nasdaq Stockholm: BIOA B）",
     "drug": "Exidavnemab（BAN0805）",
