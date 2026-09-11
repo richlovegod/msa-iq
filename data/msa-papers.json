@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:42716220",
+    "date": "2026-09-09",
+    "dateDisplay": "2026/09/09",
+    "title": "Transcranial Alternating Current Stimulation for Treatment of Multiple System Atrophy Cerebellar Type: A Randomized Controlled Trial",
+    "journal": "Brain Stimulation 103205（線上優先）· Chen X、Luo K、Liu X 等，通訊作者 Ni J、Wang N、Fu Y、Gan S；OSCCAR Investigators（中國福建醫科大學附屬第一醫院復健醫學科、神經內科、神經外科、放射科與臨床研究轉化中心；福州大學機械工程及自動化學院；英國利物浦熱帶醫學院全球健康試驗單位）· doi:10.1016/j.brs.2026.103205 · 2026/09/09",
+    "tag": "非藥物介入 · 經顱交流電刺激（tACS）· MSA-C · 隨機雙盲假刺激對照試驗",
+    "highlight": false,
+    "note": "→ <b>這是一項神經調節（非藥物）的隨機、雙盲、假刺激對照試驗，對象為小腦型多系統萎縮症（MSA-C）</b>。研究動機是 tACS 先前在同屬小腦疾病的 SCA3 已有安全性與療效報告。→ <b>設計</b>：每日 40 分鐘、<b>70 Hz、2 mA</b> 的 tACS 或假刺激，<b>每週 5 天、共 2 週</b>；主要指標為<b>第 2 週 UMSARS 總分自基線變化</b>，次要指標含 SARA、SCOPA-AUT、MSA-QoL、步態分析與 fMRI。→ <b>結果</b>：主要指標<b>支持真刺激組</b>——<b>真刺激 −4.48（SD 4.64）vs 假刺激 +0.30（SD 3.98），平均差 −4.78（95% CI −6.61 至 −2.94），P&lt;0.001</b>；<b>無與治療相關的嚴重不良事件</b>。真刺激<b>亦改善 SARA 與步態</b>，但<b>自律神經（SCOPA-AUT）與生活品質（MSA-QoL）未改善</b>。探索性 fMRI 在全連接體層級<b>無任何組間差異通過 FDR 校正</b>；事後種子點分析所見的額葉控制與預設模式網路變化，作者自陳<b>僅屬假說生成、非確證性</b>。⚠️ <b>限制</b>：<b>摘要未載明樣本數</b>，本站不代填；<b>療程與追蹤僅 2 週，無持續效果資料</b>；改善集中於動作量表，<b>自律神經與生活品質未改善</b>；<b>屬症狀層面的短期效果，不構成疾病修飾證據</b>（作者本身即在背景指出 MSA-C 尚無疾病修飾療法）；作者單位以單一機構（福建醫大附一）為主。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42716220/",
+    "urlLabel": "論文 ↗ PubMed 42716220",
+    "en": {
+      "tag": "Non-drug intervention · transcranial alternating current stimulation (tACS) · MSA-C · randomised double-blind sham-controlled trial",
+      "journal": "Brain Stimulation 103205 (online ahead of print) · Chen X, Luo K, Liu X et al., corresponding authors Ni J, Wang N, Fu Y, Gan S; OSCCAR Investigators (China: Departments of Rehabilitation Medicine, Neurology, Neurosurgery and Radiology and the Clinical Research and Translation Center, First Affiliated Hospital of Fujian Medical University; College of Mechanical Engineering and Automation, Fuzhou University; UK: Global Health Trials Unit, Liverpool School of Tropical Medicine) · doi:10.1016/j.brs.2026.103205 · 2026/09/09",
+      "note": "→ <b>A randomised, double-blind, sham-controlled trial of a neuromodulation (non-drug) intervention in the cerebellar type of multiple system atrophy (MSA-C)</b>, motivated by earlier reports of tACS safety and efficacy in SCA3, another cerebellar disorder. → <b>Design</b>: daily 40-minute sessions of <b>70 Hz, 2 mA</b> tACS or sham, <b>5 days a week for 2 weeks</b>; the primary outcome was <b>change in UMSARS total score from baseline to week 2</b>, with SARA, SCOPA-AUT, MSA-QoL, gait analysis and fMRI as secondary assessments. → <b>Results</b>: the primary endpoint <b>favoured active stimulation</b> — <b>active −4.48 (SD 4.64) vs sham +0.30 (SD 3.98), mean difference −4.78 (95% CI −6.61 to −2.94), P&lt;0.001</b> — with <b>no treatment-related serious adverse events</b>. Active tACS <b>also improved SARA and gait</b> but <b>not autonomic symptoms (SCOPA-AUT) or quality of life (MSA-QoL)</b>. Exploratory fMRI showed <b>no between-group effects surviving FDR correction</b> at the whole-connectome level; the frontal control and default mode network changes seen in a post hoc seed screen are described by the authors as <b>hypothesis-generating rather than confirmatory</b>. ⚠️ <b>Limitations</b>: <b>the abstract does not state the sample size</b>, and none is supplied here; <b>treatment and follow-up lasted only 2 weeks, with no data on durability</b>; improvement was confined to motor scales, with <b>no gain in autonomic function or quality of life</b>; this is <b>a short-term symptomatic effect and not evidence of disease modification</b> (the authors themselves note in their background that MSA-C has no disease-modifying treatment); and the author affiliations centre on a single institution (First Affiliated Hospital of Fujian Medical University).",
+      "urlLabel": "Paper ↗ PubMed 42716220"
+    }
+  },
+  {
     "id": "pubmed:42711280",
     "date": "2026-09-09",
     "dateDisplay": "2026/09/09",
