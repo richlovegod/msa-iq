@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-09-14",
+    "dateDisplay": "2026/09/14",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "<b>新增 1 則文獻；無試驗異動。</b><b>抗 Yo 抗體相關小腦共濟失調在影像上模仿 MSA：「十字麵包徵」的診斷陷阱</b>（Annals of Indian Academy of Neurology，印度 Sree Chitra Tirunal 研究所 Vijayaraghavan A 等，doi:10.4103/aian.aian_288_26，2026/09/11 線上）。⚠️ <b>PubMed 未附摘要</b>，本站<b>僅登錄書目事實與標題主張，病例細節一律不代填</b>；收錄理由為十字麵包徵常被視為支持 MSA-C 的影像線索、但並非 MSA 專屬，副腫瘤性病因誤判的後果完全不同。<b>本日其餘掃描結果</b>：ClinicalTrials.gov 窗內<b>無新的 MSA 試驗、亦無追蹤中試驗狀態異動</b>——Teva 延伸試驗 NCT07197866 於今日更新登錄，經核對<b>狀態仍為收案中、主要完成日仍為 2029-05-03、估計收案 200 人</b>，無實質變更；ALT001 兩案（NCT07514923／NCT07476352）已在檔；ENCell EN001（肌少症）、Roche RO7204239（SMA）等<b>「atrophy」字面命中者依例排除</b>，蘇州大學附二院 MAPS-NH（NCT07805967）屬觀察性。PubMed 窗內另兩筆（42716220、42711280）<b>已收錄</b>。<b>產業面窗內無一手的資料或法規里程碑</b>：Alterity ATH434、Lundbeck amlenetug、小野 ONO-2808、Teva emrusolmin、Tiziana foralumab、Ionis ION464、Mayo MSC、思捷優達 YA-101 窗內均無新公告。",
+    "en": {
+      "tag": "Daily scan",
+      "body": "<b>One paper added; no trial changes.</b> <b>Anti-Yo antibody-associated cerebellar ataxia mimicking MSA on imaging: a diagnostic pitfall of the hot cross bun sign</b> (Annals of Indian Academy of Neurology; Vijayaraghavan A et al., Sree Chitra Tirunal Institute, India; doi:10.4103/aian.aian_288_26; online 2026/09/11). ⚠️ <b>PubMed carries no abstract</b>, so <b>only the bibliographic facts and the title's claim are recorded, with no case details filled in</b>; it is included because the hot cross bun sign is often read as supporting MSA-C yet is not specific to MSA, and misattributing a paraneoplastic cause has very different consequences. <b>The rest of today's scan</b>: ClinicalTrials.gov showed <b>no new MSA trials and no status changes among tracked trials</b> — Teva's extension study NCT07197866 posted a registry update today, and on checking <b>it remains recruiting with primary completion still 2029-05-03 and estimated enrolment of 200</b>, with no substantive change; the two ALT001 trials (NCT07514923 and NCT07476352) are already on file; ENCell's EN001 (sarcopenia), Roche's RO7204239 (SMA) and similar <b>matches on the word 'atrophy' were excluded as usual</b>, and Soochow University's MAPS-NH (NCT07805967) is observational. The other two PubMed hits in the window (42716220 and 42711280) <b>were already recorded</b>. <b>No first-party data or regulatory milestone on the industry side</b>: Alterity's ATH434, Lundbeck's amlenetug, Ono's ONO-2808, Teva's emrusolmin, Tiziana's foralumab, Ionis' ION464, the Mayo MSC programme and Dasher's YA-101 all issued nothing in the window."
+    }
+  },
+  {
     "date": "2026-09-12",
     "dateDisplay": "2026/09/12",
     "tag": "每日掃描 · 擴大文獻查詢範圍",

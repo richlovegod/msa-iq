@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:42734469",
+    "date": "2026-09-11",
+    "dateDisplay": "2026/09/11",
+    "title": "Anti-Yo-Associated Cerebellar Ataxia Mimicking the Radiologic Features of Multiple System Atrophy: A Diagnostic Pitfall of the Hot Cross Bun Sign",
+    "journal": "Annals of Indian Academy of Neurology（線上優先）· Vijayaraghavan A、Koshy KG、Prasannakumar S、Kumar AA（印度喀拉拉邦特里凡得琅 Sree Chitra Tirunal 醫學科學與技術研究所神經科、神經放射科）· doi:10.4103/aian.aian_288_26 · 2026/09/11 線上刊出、2026/09/14 收錄於 PubMed",
+    "tag": "鑑別診斷 · 影像陷阱 · 「十字麵包徵」（hot cross bun sign）· 抗 Yo 抗體副腫瘤性小腦共濟失調",
+    "highlight": false,
+    "note": "→ <b>本筆為「已刊出、可查證」之記錄，而非內容摘要。</b>⚠️ <b>PubMed 記錄未附摘要</b>，因此本站<u>只能核實標題、作者單位與刊載資訊</u>；<b>病例人數、年齡、腫瘤類型、影像細節、治療與預後均無法自公開來源確認，本站不臆測、不填數字</b>。→ <b>可核實的內容</b>：依標題，作者報告一例（或數例）<b>與抗 Yo 抗體相關的小腦共濟失調，其影像表現模仿 MSA</b>，並將之定位為<b>「十字麵包徵」的診斷陷阱</b>。→ <b>為什麼放進雷達</b>：橋腦的<b>十字麵包徵</b>常被視為支持<b>小腦型 MSA（MSA-C）</b>的影像線索，但此徵象並非 MSA 專屬；<b>抗 Yo（PCA-1）抗體相關的副腫瘤性小腦退化</b>屬可能須尋找潛在腫瘤的後天性病因，若誤判為 MSA，治療方向即完全不同。對<b>臨床試驗收案</b>而言，這也提醒<b>影像徵象不能取代完整的鑑別檢查</b>。⚠️ <b>限制</b>：<b>個案報告等級、無摘要可供核對</b>，不得據以推論十字麵包徵在 MSA 以外疾病中的出現頻率；<b>本文與任何 MSA 療法或試驗均無關</b>。有意者請自行取閱原文。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42734469/",
+    "urlLabel": "論文 ↗ PubMed 42734469",
+    "en": {
+      "tag": "Differential diagnosis · imaging pitfall · hot cross bun sign · anti-Yo paraneoplastic cerebellar ataxia",
+      "journal": "Annals of Indian Academy of Neurology (online ahead of print) · Vijayaraghavan A, Koshy KG, Prasannakumar S, Kumar AA (Departments of Neurology and Neuroradiology, Sree Chitra Tirunal Institute for Medical Sciences and Technology, Trivandrum, Kerala, India) · doi:10.4103/aian.aian_288_26 · published online 2026/09/11, indexed in PubMed 2026/09/14",
+      "note": "→ <b>This entry records a verifiable publication; it is not a summary of its contents.</b> ⚠️ <b>The PubMed record carries no abstract</b>, so this site <u>can confirm only the title, author affiliations and publication details</u>; <b>the number of cases, ages, tumour type, imaging details, treatment and outcome cannot be confirmed from public sources, and nothing is guessed or filled in here</b>. → <b>What is verifiable</b>: per the title, the authors report <b>anti-Yo antibody-associated cerebellar ataxia whose imaging mimicked MSA</b>, framed as <b>a diagnostic pitfall of the hot cross bun sign</b>. → <b>Why it is on the radar</b>: the pontine <b>hot cross bun sign</b> is often read as supporting <b>cerebellar-type MSA (MSA-C)</b>, but it is not specific to MSA; <b>anti-Yo (PCA-1) paraneoplastic cerebellar degeneration</b> is an acquired cause that may warrant a search for an underlying tumour, so mistaking it for MSA would send management in an entirely different direction. For <b>trial enrolment</b>, it is also a reminder that <b>an imaging sign cannot substitute for a full diagnostic work-up</b>. ⚠️ <b>Limitations</b>: <b>case-report level, with no abstract to check against</b>, so it supports no inference about how often the sign occurs outside MSA; <b>the paper bears on no MSA therapy or trial</b>. Interested readers should consult the original.",
+      "urlLabel": "Paper ↗ PubMed 42734469"
+    }
+  },
+  {
     "id": "pubmed:42707903",
     "date": "2026-09-03",
     "dateDisplay": "2026/09/03",
