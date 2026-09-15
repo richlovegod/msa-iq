@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-09-15",
+    "dateDisplay": "2026/09/15",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "<b>新增 1 則文獻；無試驗異動。</b><b>以聲門氣流語音分析區分早期 PD 與 MSA-P</b>（Journal of Communication Disorders 124:106696，法國 INRIA 波爾多中心 Daoudi K 等，含波爾多與土魯斯 MSA 參考中心，doi:10.1016/j.jcomdis.2026.106696，2026/09/12 線上）：<b>快速交替發音（DDK）任務較能揭露 MSA-P 特有的聲門異常</b>，早期 PD 未見聲門氣流受損。⚠️ <b>摘要未載任何數值（人數、準確度等），本站不代填</b>；與療法無關。<b>本日其餘掃描結果</b>：ClinicalTrials.gov 窗內<b>無新的 MSA 試驗、亦無追蹤中試驗狀態異動</b>——最近更新仍為 09/14 Teva NCT07197866（已核對無實質變更）；Nantes 大學醫院結腸切片研究 NCT01353183 為已完成之觀察性研究、不收；ENCell EN001（肌少症）、Roche RO7204239（SMA）等「atrophy」字面命中者依例排除。PubMed 窗內另一筆 42734469 <b>已收錄</b>。<b>產業面窗內無一手的資料或法規里程碑</b>：Alterity ATH434、Lundbeck amlenetug、小野 ONO-2808、Teva emrusolmin、Tiziana foralumab、Ionis ION464、Mayo MSC、思捷優達 YA-101 窗內均無新公告。",
+    "en": {
+      "tag": "Daily scan",
+      "body": "<b>One paper added; no trial changes.</b> <b>Glottal flow speech analysis to separate early PD from MSA-P</b> (Journal of Communication Disorders 124:106696; Daoudi K et al., INRIA centre at the University of Bordeaux, with the Bordeaux and Toulouse MSA reference centres; doi:10.1016/j.jcomdis.2026.106696; online 2026/09/12): <b>diadochokinesis (DDK) tasks were valuable in revealing MSA-P-specific glottal disruptions</b>, while early PD showed no glottal flow impairment. ⚠️ <b>The abstract gives no numbers (sample size, accuracy and so on), and none is filled in here</b>; it bears on no therapy. <b>The rest of today's scan</b>: ClinicalTrials.gov showed <b>no new MSA trials and no status changes among tracked trials</b> — the latest update remains Teva's NCT07197866 of 09/14 (already checked, no substantive change); Nantes University Hospital's colonic biopsy study NCT01353183 is a completed observational study and was not recorded; ENCell's EN001 (sarcopenia), Roche's RO7204239 (SMA) and similar matches on the word 'atrophy' were excluded as usual. The other PubMed hit in the window, 42734469, <b>was already recorded</b>. <b>No first-party data or regulatory milestone on the industry side</b>: Alterity's ATH434, Lundbeck's amlenetug, Ono's ONO-2808, Teva's emrusolmin, Tiziana's foralumab, Ionis' ION464, the Mayo MSC programme and Dasher's YA-101 all issued nothing in the window."
+    }
+  },
+  {
     "date": "2026-09-14",
     "dateDisplay": "2026/09/14",
     "tag": "每日掃描",
