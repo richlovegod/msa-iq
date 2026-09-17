@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-09-17",
+    "dateDisplay": "2026/09/17",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "新增 1 筆試驗（<b>小野藥品 ONO-2808 樞紐性 Ph3 試驗 NCT07825402</b>，2026/09/17 登錄 CT.gov、尚未開始收案，限 MSA-P 亞型）並同步更新競品全景該資產狀態；新增 1 則相關新聞。ClinicalTrials.gov 窗內其餘 3 筆 MSA 命中皆為既有試驗之登錄異動、非新試驗；PubMed 近 7 天窗內無清單外新文獻。",
+    "link": { "label": "詳見 臨床試驗雷達 ↗", "tab": "si", "anchor": "trialradar" },
+    "en": {
+      "tag": "Daily scan",
+      "body": "Added 1 trial (<b>Ono's ONO-2808 pivotal Ph3 trial, NCT07825402</b>, registered on CT.gov 2026/09/17, not yet recruiting, restricted to the MSA-P subtype) and updated the corresponding asset's status on the competitor landscape; added 1 related news item. The other 3 MSA hits in the ClinicalTrials.gov window were registry updates to already-tracked trials, not new trials; no new papers outside the existing list appeared in the 7-day PubMed window.",
+      "linkLabel": "See Trial Radar ↗"
+    }
+  },
+  {
     "date": "2026-09-16",
     "dateDisplay": "2026/09/16",
     "tag": "每日掃描",

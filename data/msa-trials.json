@@ -1,5 +1,22 @@
 [
   {
+    "nct": "NCT07825402",
+    "drug": "ONO-2808",
+    "mechanism": "S1P5 受體促效劑（口服）",
+    "phase": "Ph3（樞紐性）",
+    "status": "<b>本站新收錄</b>——2026-09-17 首次登錄 CT.gov，<b>尚未開始收案</b>。隨機、雙盲、安慰劑對照，<b>限 MSA-P 亞型</b>，口服治療 48 週。估計 2027-01 開始收案、2029-10 主要完成。登錄未載入組人數與收案地點；承接 Ph2（NCT05923866）之樞紐性後續試驗，由小野藥品主導。",
+    "sponsor": "小野藥品 Ono Pharmaceutical",
+    "cell": false,
+    "primary": "2029-10",
+    "url": "https://clinicaltrials.gov/study/NCT07825402",
+    "en": {
+      "mechanism": "S1P5 receptor agonist (oral)",
+      "phase": "Ph3 (pivotal)",
+      "status": "<b>Newly recorded here</b> — first registered on CT.gov 2026-09-17, <b>not yet recruiting</b>. Randomized, double-blind, placebo-controlled, <b>restricted to the MSA-P subtype</b>, oral treatment for 48 weeks. Estimated start 2027-01 and primary completion 2029-10. The registration does not yet give enrollment size or sites; it is the pivotal follow-on to Ph2 (NCT05923866), led by Ono Pharmaceutical.",
+      "sponsor": "Ono Pharmaceutical"
+    }
+  },
+  {
     "nct": "NCT07514923",
     "drug": "ALT001（登錄描述為「源自幹細胞分泌之細胞外泌體的神經修復蛋白」）",
     "mechanism": "登錄將 ALT001 描述為<b>由幹細胞分泌之外泌體（exosome）所衍生的神經修復蛋白</b>，並稱其具「選擇性組裝、標靶遞送、高效組織修復」與神經保護作用。給藥採<b>鞘內注射併靜脈輸注雙途徑</b>：鞘內 130 μg 於第 1、31、61 天；靜脈 130 μg 於第 2–14、32–44±3、62–74±5 天。⚠️ <b>上述機制敘述全數引自主辦方的登錄文字</b>；<b>公開來源未見同儕審查的臨床前資料、蛋白身分或製程說明，本站不代為背書亦不推論其作用機轉</b>",

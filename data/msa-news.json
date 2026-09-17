@@ -1,5 +1,32 @@
 [
   {
+    "id": "ono2808-ph3-registered-2026-09",
+    "date": "2026-09-17",
+    "dateDisplay": "2026/09",
+    "level": "info",
+    "tag": "Ph3 登錄",
+    "body": "<b>小野藥品 ONO-2808</b>（S1P5 促效劑）樞紐性 <b>Ph3 試驗（NCT07825402）於 2026/09/17 登錄 CT.gov</b>，<b>尚未開始收案</b>：隨機雙盲安慰劑對照、口服、<b>限 MSA-P 亞型</b>、療程 48 週，估計 2027/01 開始收案、2029/10 主要完成。承接 2026/05 WPC 發表之 Ph2 核心數據（MSA-P 次族群 mUMSARS 變化：安慰劑 3.90 vs 高劑量 1.16）。",
+    "note": "→ 登錄未載入組人數與收案地點，屬 Ph2→Ph3 銜接的正式里程碑，非新療效數據。",
+    "links": [
+      {
+        "label": "NCT07825402 ↗",
+        "url": "https://clinicaltrials.gov/study/NCT07825402"
+      }
+    ],
+    "en": {
+      "dateDisplay": "2026/09",
+      "tag": "Ph3 registered",
+      "body": "<b>Ono's ONO-2808</b> (S1P5 agonist) pivotal <b>Ph3 trial (NCT07825402) was registered on CT.gov on 2026/09/17</b> and is <b>not yet recruiting</b>: randomized, double-blind, placebo-controlled, oral, <b>restricted to the MSA-P subtype</b>, 48-week treatment; estimated start 2027/01 and primary completion 2029/10. It follows the Ph2 core data presented at WPC in 2026/05 (MSA-P subgroup mUMSARS change: 3.90 placebo vs 1.16 high dose).",
+      "note": "→ The registration does not yet give enrollment size or sites; this is a formal Ph2-to-Ph3 milestone, not new efficacy data.",
+      "links": [
+        {
+          "label": "NCT07825402 ↗",
+          "url": "https://clinicaltrials.gov/study/NCT07825402"
+        }
+      ]
+    }
+  },
+  {
     "id": "ath434-patent-2026-08",
     "date": "2026-08-12",
     "dateDisplay": "2026/08",
@@ -173,33 +200,6 @@
         {
           "label": "NCT06706622 ↗",
           "url": "https://clinicaltrials.gov/study/NCT06706622"
-        }
-      ]
-    }
-  },
-  {
-    "id": "mayo-msc-rct",
-    "date": "2026-01-01",
-    "dateDisplay": "進行中",
-    "level": "info",
-    "tag": "細胞治療",
-    "body": "<b>Mayo Clinic 鞘內自體 MSC</b> 的隨機雙盲安慰劑對照 Ph2（NCT05167721）進行中，主要完成預估 2026/12——MSA 細胞治療的關鍵驗證。",
-    "note": "→ 先前 Ph1/2（n=24）對照為歷史配對；此試驗補上同期安慰劑對照。",
-    "links": [
-      {
-        "label": "NCT05167721 ↗",
-        "url": "https://clinicaltrials.gov/study/NCT05167721"
-      }
-    ],
-    "en": {
-      "dateDisplay": "Ongoing",
-      "tag": "Cell therapy",
-      "body": "<b>Mayo Clinic's intrathecal autologous MSC</b> randomised, double-blind, placebo-controlled Ph2 (NCT05167721) is ongoing, with primary completion estimated 2026/12 — the pivotal test for cell therapy in MSA.",
-      "note": "→ The earlier Ph1/2 (n=24) used matched historical controls; this trial adds a concurrent placebo.",
-      "links": [
-        {
-          "label": "NCT05167721 ↗",
-          "url": "https://clinicaltrials.gov/study/NCT05167721"
         }
       ]
     }

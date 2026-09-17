@@ -342,18 +342,18 @@
     "company": "小野藥品 Ono Pharmaceutical（與 Deciphera）",
     "drug": "ONO-2808",
     "mechanism": "S1P5 受體促效劑（口服）",
-    "phase": "Ph2（NCT05923866）",
-    "status": "雙盲核心部分完成，規劃 Ph3",
+    "phase": "Ph2 完成（NCT05923866）→ Ph3 已登錄（NCT07825402）",
+    "status": "Ph3 樞紐性試驗已登錄 CT.gov，尚未開始收案",
     "highlight": true,
     "relevance": "進度最前段之一",
-    "note": "→ 2025/10 公司公布期中分析見療效訊號；2026/05 於第 7 屆世界帕金森大會（WPC）發表 24 週雙盲核心部分：MSA-P 次族群 mUMSARS 自基線變化 安慰劑 3.90 vs 中劑量 1.39、高劑量 1.16；TEAE 發生率與安慰劑相當（91% vs 93%）；MRI 見劑量依存的腦萎縮抑制傾向。公司表示與 Deciphera 規劃樞紐性 Ph3。（次族群結果、非全體主要終點）",
+    "note": "→ 2025/10 公司公布期中分析見療效訊號；2026/05 於第 7 屆世界帕金森大會（WPC）發表 24 週雙盲核心部分：MSA-P 次族群 mUMSARS 自基線變化 安慰劑 3.90 vs 中劑量 1.39、高劑量 1.16；TEAE 發生率與安慰劑相當（91% vs 93%）；MRI 見劑量依存的腦萎縮抑制傾向。→ <b>2026/09/17 樞紐性 Ph3 試驗（NCT07825402）登錄 CT.gov</b>：隨機雙盲安慰劑對照、口服、限 MSA-P 亞型、療程 48 週，預估 2027/01 開始收案、2029/10 主要完成；登錄資訊未載入組人數與收案地點。（Ph2 為次族群結果、非全體主要終點）",
     "en": {
       "company": "Ono Pharmaceutical (with Deciphera)",
       "mechanism": "S1P5 receptor agonist (oral)",
-      "phase": "Ph2 (NCT05923866)",
-      "status": "Double-blind core part complete; Ph3 planned",
+      "phase": "Ph2 complete (NCT05923866) → Ph3 registered (NCT07825402)",
+      "status": "Pivotal Ph3 trial registered on CT.gov, not yet recruiting",
       "relevance": "Among the most advanced",
-      "note": "Ono reported efficacy signals at an interim analysis in 2025/10, and presented the 24-week double-blind core part at the 7th World Parkinson Congress in 2026/05: in the MSA-P subgroup, change from baseline in mUMSARS was 3.90 on placebo vs 1.39 (medium dose) and 1.16 (high dose); TEAE rates were similar to placebo (91% vs 93%); MRI showed a dose-dependent trend toward suppressed brain atrophy. Ono and Deciphera plan a pivotal Ph3. (Subgroup findings, not an overall primary endpoint.)",
+      "note": "Ono reported efficacy signals at an interim analysis in 2025/10, and presented the 24-week double-blind core part at the 7th World Parkinson Congress in 2026/05: in the MSA-P subgroup, change from baseline in mUMSARS was 3.90 on placebo vs 1.39 (medium dose) and 1.16 (high dose); TEAE rates were similar to placebo (91% vs 93%); MRI showed a dose-dependent trend toward suppressed brain atrophy. → <b>On 2026/09/17 the pivotal Ph3 trial (NCT07825402) was registered on CT.gov</b>: randomized, double-blind, placebo-controlled, oral, restricted to the MSA-P subtype, 48-week treatment; estimated start 2027/01 and primary completion 2029/10; the registration does not yet give enrollment size or sites. (Ph2 findings are subgroup results, not the overall primary endpoint.)",
       "sources": [
         {
           "label": "Ono interim analysis release, 2025/10/09",
@@ -366,6 +366,10 @@
         {
           "label": "ClinicalTrials NCT05923866",
           "url": "https://clinicaltrials.gov/study/NCT05923866"
+        },
+        {
+          "label": "ClinicalTrials NCT07825402 (Ph3)",
+          "url": "https://clinicaltrials.gov/study/NCT07825402"
         }
       ]
     },
@@ -381,6 +385,10 @@
       {
         "label": "ClinicalTrials NCT05923866",
         "url": "https://clinicaltrials.gov/study/NCT05923866"
+      },
+      {
+        "label": "ClinicalTrials NCT07825402（Ph3）",
+        "url": "https://clinicaltrials.gov/study/NCT07825402"
       }
     ]
   },
