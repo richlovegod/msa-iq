@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:42742667",
+    "date": "2026-09-15",
+    "dateDisplay": "2026/09/15",
+    "title": "Sleep-Autonomic Interactions in Parkinson's Disease and Multiple System Atrophy: A Comparative Study Using Structural Equation Modeling",
+    "journal": "Movement Disorders Clinical Practice（線上優先）· Jin B、Lee Y、Lee S、Yoon BA、Jeong YJ、Cheon SM（韓國釜山東亞大學醫學院 神經科／預防醫學科／核子醫學科）· doi:10.1002/mdc3.70817 · 2026/09/15 線上",
+    "tag": "非運動症狀 · 睡眠與自主神經功能 · PD vs MSA 比較 · 回溯性單中心",
+    "highlight": false,
+    "note": "→ <b>比較 PD 與 MSA 的睡眠與自主神經表現，並以結構方程模型（SEM）檢視兩者關聯</b>：回溯分析有睡眠主訴、<b>未用藥</b>的 <b>PD 136 人、MSA 67 人</b>，皆接受多導睡眠檢查、自主神經功能檢查與心臟 MIBG 造影。→ <b>結果（摘要）</b>：MSA 組 <b>N3 深睡較少、呼吸中止低通氣指數較高（35.4 vs 23.2 次／小時）</b>、最低血氧較低；<b>姿勢性血壓下降較大、自主神經綜合嚴重度分數較高</b>；心臟 MIBG 攝取降低則見於 PD 組。SEM 顯示 MSA 中<b>自主神經失調與睡眠破壞顯著相關（β = −0.68，P = 0.006）</b>，解釋力高於 PD（R² 0.54 vs 0.29）。作者結論主張兩個面向應整合處置。⚠️ <b>限制</b>：<b>單一中心、回溯性</b>，僅納入有睡眠主訴者（選樣偏差）；PD 組年齡較大；SEM 為相關性模型，不能推論因果；摘要未載 MSA 亞型（MSA-P／MSA-C）分布與診斷確定度；<b>本文與任何 MSA 療法或試驗均無關</b>。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42742667/",
+    "urlLabel": "論文 ↗ PubMed 42742667",
+    "en": {
+      "tag": "Non-motor symptoms · sleep and autonomic function · PD vs MSA · retrospective single-centre",
+      "journal": "Movement Disorders Clinical Practice (online ahead of print) · Jin B, Lee Y, Lee S, Yoon BA, Jeong YJ, Cheon SM (Departments of Neurology, Preventive Medicine and Nuclear Medicine, Dong-A University College of Medicine, Busan, Korea) · doi:10.1002/mdc3.70817 · online 2026/09/15",
+      "note": "→ <b>Compares sleep and autonomic profiles in PD and MSA and uses structural equation modelling (SEM) to examine how they relate</b>: a retrospective analysis of <b>drug-naïve</b> patients with sleep complaints — <b>136 with PD and 67 with MSA</b> — all of whom had polysomnography, autonomic function tests and cardiac MIBG scintigraphy. → <b>Results (abstract)</b>: the MSA group had <b>less N3 sleep, a higher apnoea-hypopnoea index (35.4 vs 23.2 events/h)</b> and lower minimum oxygen saturation, plus <b>larger orthostatic blood pressure drops and higher composite autonomic severity scores</b>; reduced cardiac MIBG uptake was seen in PD. In MSA, SEM showed <b>autonomic dysfunction significantly associated with greater sleep disruption (β = −0.68, P = 0.006)</b>, with more explanatory power than in PD (R² 0.54 vs 0.29). The authors call for integrated management of both domains. ⚠️ <b>Limitations</b>: <b>single-centre and retrospective</b>, restricted to patients with sleep complaints (selection bias); the PD group was older; SEM is correlational and cannot establish causation; the abstract does not give the MSA subtype (MSA-P/MSA-C) split or diagnostic certainty; <b>the paper bears on no MSA therapy or trial</b>.",
+      "urlLabel": "Paper ↗ PubMed 42742667"
+    }
+  },
+  {
     "id": "pubmed:42735526",
     "date": "2026-09-12",
     "dateDisplay": "2026/09/12",

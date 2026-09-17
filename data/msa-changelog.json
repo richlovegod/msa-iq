@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-09-16",
+    "dateDisplay": "2026/09/16",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "<b>新增 1 則文獻；無試驗異動。</b><b>PD 與 MSA 的睡眠－自主神經交互作用比較</b>（Movement Disorders Clinical Practice，韓國釜山東亞大學 Cheon SM 等，PubMed 42742667，2026/09/15 線上）：回溯分析未用藥的 PD 136 人、MSA 67 人，MSA 組睡眠呼吸中止與自主神經失調較重，且兩者關聯較強（SEM β = −0.68，P = 0.006）。⚠️ 單中心回溯、僅納入有睡眠主訴者，與療法無關。<b>本日其餘掃描結果</b>：ClinicalTrials.gov 窗內無新的 MSA 試驗、亦無追蹤中試驗狀態異動；產業面窗內無一手的資料或法規里程碑。",
+    "link": { "label": "詳見 文獻雷達 ↗", "tab": "si", "anchor": "litradar" },
+    "en": {
+      "tag": "Daily scan",
+      "body": "<b>One paper added; no trial changes.</b> <b>Sleep-autonomic interactions compared in PD and MSA</b> (Movement Disorders Clinical Practice; Cheon SM et al., Dong-A University, Busan, Korea; PubMed 42742667; online 2026/09/15): a retrospective analysis of 136 drug-naïve PD and 67 MSA patients found more severe sleep apnoea and autonomic dysfunction in MSA, and a stronger link between the two (SEM β = −0.68, P = 0.006). ⚠️ Single-centre, retrospective, limited to patients with sleep complaints; unrelated to therapy. <b>The rest of today's scan</b>: no new MSA trials and no status changes among tracked trials on ClinicalTrials.gov; no first-hand data or regulatory milestones from industry in the window.",
+      "linkLabel": "See Literature Radar ↗"
+    }
+  },
+  {
     "date": "2026-09-15",
     "dateDisplay": "2026/09/15",
     "tag": "每日掃描",
