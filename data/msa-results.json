@@ -339,5 +339,37 @@
       ],
       "dateDisplay": "2026/07 (online)"
     }
+  },
+  {
+    "id": "foralumab-pet-2026-07",
+    "date": "2026-07-31",
+    "dateDisplay": "2026/07",
+    "competitor": "Tiziana Life Sciences",
+    "drug": "Foralumab 鼻噴",
+    "trial": "Ph2a（NCT06868628）",
+    "sourceType": "新聞稿",
+    "level": "info",
+    "readout": "公司追加公布 Ph2a 第 3 名 MSA 受試者的定量 PET 影像：標準化攝取值（SUV）降約 34%、SUV 比值（SUVR）降約 26%，方向與前 2 名受試者（2026/05 公布）一致。**累計僅 n=3、開放標籤、無對照組，仍無臨床療效數據。**本站先前僅收錄 2026/05/14 之 n=2 版本，本次補齊此追加公告。",
+    "implication": "→ 免疫調節路線的早期機轉訊號持續累積，但樣本量與設計限制不變，與 MSC 的抗神經發炎敘事相鄰、值得追蹤。",
+    "links": [
+      {
+        "label": "Tiziana 新聞稿 2026/07/31",
+        "url": "https://www.globenewswire.com/news-release/2026/07/31/3336721/0/en/Tiziana-Reports-Reduction-in-Brain-Inflammation-in-Third-Multiple-System-Atrophy-Patient-Treated-with-Intranasal-Foralumab.html"
+      }
+    ],
+    "en": {
+      "drug": "Nasal foralumab",
+      "trial": "Ph2a (NCT06868628)",
+      "sourceType": "Press release",
+      "readout": "The company reported quantitative PET imaging from a 3rd MSA patient in the Ph2a: standardized uptake value (SUV) down ~34% and SUV ratio (SUVR) down ~26%, directionally consistent with the first 2 patients reported in 2026/05. **Cumulative n=3, open-label, uncontrolled, still no clinical efficacy data.** This site had previously recorded only the n=2 version from 2026/05/14; this entry catches up on that follow-on release.",
+      "implication": "→ The early mechanistic signal for the immune-modulation route keeps accumulating, but the sample size and design limitations are unchanged; adjacent to the anti-neuroinflammation narrative of MSC and worth continued tracking.",
+      "links": [
+        {
+          "label": "Tiziana release 2026/07/31",
+          "url": "https://www.globenewswire.com/news-release/2026/07/31/3336721/0/en/Tiziana-Reports-Reduction-in-Brain-Inflammation-in-Third-Multiple-System-Atrophy-Patient-Treated-with-Intranasal-Foralumab.html"
+        }
+      ],
+      "dateDisplay": "2026/07"
+    }
   }
 ]

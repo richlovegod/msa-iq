@@ -449,13 +449,13 @@
     "status": "收案中",
     "highlight": false,
     "relevance": "免疫調節路線（與 MSC 抗神經發炎機制相鄰）",
-    "note": "→ 以 PET 影像測微膠細胞活化為主要評估。2026/05/14 公司公布前 2 名 MSA 受試者的定量 PET：基底核與視丘攝取顯著下降。**僅 2 人、極早期，尚無臨床療效數據。**",
+    "note": "→ 以 PET 影像測微膠細胞活化為主要評估。2026/05/14 公司公布前 2 名 MSA 受試者的定量 PET：基底核與視丘攝取顯著下降；2026/07/31 追加公布第 3 名受試者，SUV 降約 34%、SUVR 降約 26%。**累計僅 3 人、開放標籤無對照，尚無臨床療效數據。**",
     "en": {
       "mechanism": "Fully human anti-CD3 monoclonal antibody given nasally; immune modulation reducing microglial activation",
       "phase": "Ph2a (NCT06868628)",
       "status": "Recruiting",
       "relevance": "Immune-modulation route (adjacent to the anti-neuroinflammatory MSC mechanism)",
-      "note": "Microglial activation on PET is the primary measure. On 2026/05/14 the company reported quantitative PET from its first 2 MSA patients: significantly reduced basal ganglia and thalamic uptake. **Only 2 patients, very early, with no clinical efficacy data yet.**",
+      "note": "Microglial activation on PET is the primary measure. On 2026/05/14 the company reported quantitative PET from its first 2 MSA patients: significantly reduced basal ganglia and thalamic uptake; on 2026/07/31 it added a 3rd patient, showing ~34% SUV and ~26% SUVR reduction. **Only 3 patients cumulative, open-label and uncontrolled, with no clinical efficacy data yet.**",
       "drug": "Foralumab (nasal)",
       "sources": [
         {
@@ -465,6 +465,10 @@
         {
           "label": "Tiziana PET results release, 2026/05/14",
           "url": "https://www.globenewswire.com/news-release/2026/05/14/3294743/0/en/Tiziana-Reports-Reduced-Brain-Inflammation-in-Multiple-System-Atrophy-Patients-Treated-with-Intranasal-Foralumab.html"
+        },
+        {
+          "label": "Tiziana 3rd-patient release, 2026/07/31",
+          "url": "https://www.globenewswire.com/news-release/2026/07/31/3336721/0/en/Tiziana-Reports-Reduction-in-Brain-Inflammation-in-Third-Multiple-System-Atrophy-Patient-Treated-with-Intranasal-Foralumab.html"
         }
       ]
     },
@@ -476,6 +480,10 @@
       {
         "label": "Tiziana PET 結果新聞稿 2026/05/14",
         "url": "https://www.globenewswire.com/news-release/2026/05/14/3294743/0/en/Tiziana-Reports-Reduced-Brain-Inflammation-in-Multiple-System-Atrophy-Patients-Treated-with-Intranasal-Foralumab.html"
+      },
+      {
+        "label": "Tiziana 第3名受試者新聞稿 2026/07/31",
+        "url": "https://www.globenewswire.com/news-release/2026/07/31/3336721/0/en/Tiziana-Reports-Reduction-in-Brain-Inflammation-in-Third-Multiple-System-Atrophy-Patient-Treated-with-Intranasal-Foralumab.html"
       }
     ]
   },

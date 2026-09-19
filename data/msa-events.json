@@ -18,17 +18,17 @@
   {
     "id": "intl-msa-congress",
     "name": "International MSA Congress（Mission MSA）",
-    "date": null,
-    "dateDisplay": "",
-    "location": "—",
-    "relevance": "MSA 專屬國際科學暨臨床大會，集結研究者、臨床醫師、產業與病友。下屆日期待官網公布。",
+    "date": "2027-09-03",
+    "dateDisplay": "2027/09/03–05",
+    "location": "美國德州達拉斯（The Westin Galleria Dallas，另提供線上參與）",
+    "relevance": "MSA 專屬國際科學暨臨床大會，集結研究者、臨床醫師、產業與病友。下屆已公布地點與日期，由 Mission MSA 與 UT Southwestern MSA 卓越中心合辦。",
     "highlight": false,
     "url": "https://missionmsa.org/internationalmsacongress/",
     "competitors": [],
     "en": {
       "name": "International MSA Congress (Mission MSA)",
-      "location": "—",
-      "relevance": "The MSA-specific international scientific and clinical congress bringing together researchers, clinicians, industry and families. Next date to be announced."
+      "location": "Dallas, TX, USA (The Westin Galleria Dallas; virtual attendance also offered)",
+      "relevance": "The MSA-specific international scientific and clinical congress bringing together researchers, clinicians, industry and families. The next edition's location and dates are now announced, co-hosted by Mission MSA and the UT Southwestern MSA Center of Excellence."
     }
   },
   {
