@@ -1,5 +1,18 @@
 [
   {
+    "date": "2026-09-19",
+    "dateDisplay": "2026/09/19",
+    "tag": "每日掃描",
+    "level": "info",
+    "body": "⚠️ <b>網路存取異常</b>：今日 ClinicalTrials.gov 與 PubMed／NCBI（eutils、pubmed.ncbi.nlm.nih.gov）在雲端執行環境的網路層被組織層級 egress 政策整段擋下（HTTP 403），本日<b>無法執行 CT.gov 查詢或用 PubMed E-utilities 查文獻</b>；改以 WebSearch 逐一查核追蹤中資產（Alterity ATH434、Lundbeck amlenetug、Ono ONO-2808、Teva emrusolmin/TEV-56286、Tiziana foralumab）近況，查得內容皆與平台既有記錄一致（多為 5–7 月已發布之會議簡報／新聞重申），<b>本日未新增文獻或試驗</b>（非無新內容，而是掃描管道當日不可用）。同一網路政策也擋下 richlovegod.github.io（公開網址）本身，本日無法依手冊用 curl 驗證發布結果，僅以 `git status -sb` ahead 0 作為送達 GitHub 的證明。此限制若持續，將於後續每日條目持續註明。",
+    "link": { "label": "詳見 更新紀錄 ↗", "tab": "ov" },
+    "en": {
+      "tag": "Daily scan",
+      "body": "⚠️ <b>Network access disruption</b>: today ClinicalTrials.gov and PubMed/NCBI (eutils, pubmed.ncbi.nlm.nih.gov) were both blocked outright at the network layer of the cloud execution environment by an organisation-level egress policy (HTTP 403); today's run <b>could not query ClinicalTrials.gov or PubMed via E-utilities</b>. WebSearch was used instead to check the status of tracked assets one by one (Alterity ATH434, Lundbeck amlenetug, Ono ONO-2808, Teva emrusolmin/TEV-56286, Tiziana foralumab); everything found was consistent with what is already recorded (mostly restatements of conference presentations and news from May–July 2026), and <b>no paper or trial was added today</b> (not because there was none, but because the scanning channel was unavailable). The same network policy also blocked richlovegod.github.io (the public site) itself, so today's publish could not be verified with curl per the manual; the only evidence is `git status -sb` showing ahead 0 after the push. If this restriction persists, it will continue to be flagged in subsequent daily entries.",
+      "linkLabel": "See Changelog ↗"
+    }
+  },
+  {
     "date": "2026-09-17",
     "dateDisplay": "2026/09/17",
     "tag": "每日掃描",
