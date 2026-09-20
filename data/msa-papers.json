@@ -1,5 +1,23 @@
 [
   {
+    "id": "pubmed:42760624",
+    "date": "2026-09-18",
+    "dateDisplay": "2026/09/18",
+    "title": "Serum Metabolomic Profiles Unveil Biomarkers and Core Metabolic Pathways in Multiple System Atrophy Patients",
+    "journal": "Movement Disorders（線上優先）· Wan L、Chen Z 等（中國中南大學湘雅醫院神經科／國家老年疾病臨床醫學研究中心）· doi:10.1002/mds.70541 · 2026/09/18 線上",
+    "tag": "生物標記 · 血清代謝體學 · 診斷／鑑別診斷 · 體外機轉驗證",
+    "highlight": false,
+    "note": "→ <b>以非標靶代謝體學（UHPLC-QE-MS）分析血清，尋找 MSA 的代謝特徵與潛在生物標記</b>：<b>85 名 MSA 病人對 85 名健康對照</b>之發現世代，另以<b>內部驗證世代（MSA 37／對照 36）與外部驗證世代（MSA 44／PD 44／對照 42）</b>做目標代謝體學驗證，並以 <b>MO3.13 細胞與過表現 hSNCA 之 SH-SY5Y 細胞</b>做體外機轉驗證。→ <b>結果</b>：找到 <b>112（正模式）＋70（負模式）個差異代謝物</b>，路徑分析指向精胺酸／脯胺酸代謝、戊糖磷酸路徑、支鏈胺基酸合成、嘌呤代謝、精胺酸生合成與<b>核黃素（riboflavin）代謝</b>共 6 條顯著路徑；<b>核黃素—黃嘌呤（xanthine）組合可有效區分 MSA 與健康對照</b>（內部驗證 AUC 0.876、外部驗證 AUC 0.943）；MSA 病人<b>黃嘌呤濃度較健康對照與 PD 病人低</b>，加入神經絲輕鏈（NfL）後可將 <b>MSA 對 PD 鑑別診斷的 AUC 從 0.821 提升至 0.890</b>；體外實驗中<b>核黃素與黃嘌呤補充皆可提升 hSNCA 過表現 MO3.13 細胞存活率、減少細胞凋亡</b>，但在 SH-SY5Y 細胞中<b>僅核黃素有效</b>。⚠️ <b>本文為早期生物標記／機轉探索性研究，非治療性試驗</b>；核黃素／黃嘌呤之體外保護效應<b>不構成臨床療效證據</b>，作者本身亦稱需進一步驗證；MSA 亞型（MSA-P／MSA-C）分布未見於摘要。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42760624/",
+    "urlLabel": "論文 ↗ PubMed 42760624",
+    "en": {
+      "tag": "Biomarkers · serum metabolomics · diagnosis/differential diagnosis · in-vitro mechanism validation",
+      "journal": "Movement Disorders (online ahead of print) · Wan L, Chen Z, et al. (Department of Neurology, Xiangya Hospital, Central South University / National Clinical Research Center for Geriatric Diseases, China) · doi:10.1002/mds.70541 · online 2026/09/18",
+      "note": "→ <b>Untargeted serum metabolomics (UHPLC-QE-MS) to find MSA's metabolic signature and candidate biomarkers</b>: a discovery cohort of <b>85 MSA patients vs 85 healthy controls</b>, with targeted-metabolomics validation in an <b>internal cohort (37 MSA/36 controls) and an external cohort (44 MSA/44 PD/42 controls)</b>, plus in-vitro mechanistic validation in <b>MO3.13 cells and hSNCA-overexpressing SH-SY5Y cells</b>. → <b>Results</b>: <b>112 (positive mode) + 70 (negative mode) differential metabolites</b> were found, with pathway analysis pointing to arginine/proline metabolism, the pentose phosphate pathway, branched-chain amino acid biosynthesis, purine metabolism, arginine biosynthesis and <b>riboflavin metabolism</b> as six significant pathways; a <b>riboflavin-xanthine panel distinguished MSA from healthy controls</b> (internal AUC 0.876, external AUC 0.943); MSA patients had <b>lower xanthine than both healthy controls and PD patients</b>, and adding it to neurofilament light chain (NfL) raised the <b>MSA-vs-PD differential-diagnosis AUC from 0.821 to 0.890</b>; in vitro, <b>both riboflavin and xanthine supplementation improved viability and reduced apoptosis in hSNCA-overexpressing MO3.13 cells</b>, but <b>only riboflavin worked in SH-SY5Y cells</b>. ⚠️ <b>This is early-stage biomarker/mechanism discovery research, not a therapeutic trial</b>; the in-vitro protective effects of riboflavin/xanthine are <b>not clinical efficacy evidence</b>, as the authors themselves note further validation is needed; the abstract does not report the MSA-P/MSA-C subtype split.",
+      "urlLabel": "Paper ↗ PubMed 42760624"
+    }
+  },
+  {
     "id": "pubmed:42742667",
     "date": "2026-09-15",
     "dateDisplay": "2026/09/15",
