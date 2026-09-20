@@ -336,5 +336,23 @@
       "status": "Biogen announced discontinuation in 2025/02",
       "sponsor": "Ionis / Biogen"
     }
+  },
+  {
+    "nct": "NCT05526391",
+    "drug": "TAK-341（MEDI1341）",
+    "mechanism": "單株抗體，標的 α-synuclein C端區域",
+    "phase": "Ph2（樞紐性）",
+    "status": "<b>本站新收錄——已完成，宣告失敗</b>。隨機雙盲安慰劑對照，靜脈輸注每 4 週一次，北美/歐洲/亞洲 56 站點收案 159 人，2025-07 完成。主要指標第 52 週 Modified UMSARS 分數變化。武田 2025-10-31 財報揭露主要與次要終點均未達標，TAK-341 自產品線移除；2026-03 AD/PD 大會發表完整結果：安全可耐受、惟兩組無顯著差異，開發計畫終止。",
+    "sponsor": "Takeda（原研 AstraZeneca／MedImmune）",
+    "cell": false,
+    "primary": "2025-07",
+    "url": "https://clinicaltrials.gov/study/NCT05526391",
+    "en": {
+      "drug": "TAK-341 (MEDI1341)",
+      "mechanism": "Monoclonal antibody targeting the C-terminal region of alpha-synuclein",
+      "phase": "Ph2 (pivotal)",
+      "status": "<b>Newly recorded here — completed, reported as a failure</b>. Randomised, double-blind, placebo-controlled, IV infusion every 4 weeks, 159 patients across 56 sites in North America/Europe/Asia, completed 2025-07. Primary endpoint was change in Modified UMSARS at week 52. Takeda's 2025-10-31 earnings disclosure stated neither primary nor secondary endpoints were met and TAK-341 was removed from the pipeline; full results presented at the 2026-03 AD/PD conference showed the drug was safe and tolerated but with no significant between-group difference; the programme has been discontinued.",
+      "sponsor": "Takeda (originated by AstraZeneca/MedImmune)"
+    }
   }
 ]

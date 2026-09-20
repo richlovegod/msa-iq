@@ -1,5 +1,48 @@
 [
   {
+    "id": "tak341-ph2-fail-2026",
+    "date": "2025-10-31",
+    "dateDisplay": "2025/10 財報揭露 · 2026/03 AD/PD 完整發表",
+    "level": "neg",
+    "tag": "試驗讀出 · 主動盤點新收錄",
+    "body": "<b>武田／AstraZeneca 的 TAK-341（MEDI1341，anti-α-synuclein 單株抗體）樞紐性 Ph2（NCT05526391）確認失敗、開發終止</b>。試驗為隨機雙盲安慰劑對照，每 4 週靜脈輸注一次，於北美／歐洲／亞洲 56 站點收案 159 人，2025/07 完成；主要指標為第 52 週 Modified UMSARS 分數變化。武田於 2025/10/31 第三季財報文件中揭露<b>主要與次要終點均未達統計顯著</b>，並將 TAK-341 自產品線移除；完整數據其後於 2026/03 AD/PD 國際大會發表，結果為<b>安全性可耐受、但治療組與安慰劑組無顯著差異</b>。本站先前未收錄此資產與此試驗，本次為主動盤點（active discovery）後首次收錄。",
+    "note": "→ 這是繼 Biohaven verdiperstat（M-STAR Ph3，2021）與 Ionis/Biogen ION464（2025）後，MSA 領域第三個由大型藥廠終止的 anti-α-synuclein／抗神經退化資產。⚠️ 本次掃描期間 ClinicalTrials.gov、PubMed 與多數新聞網域遭組織層級網路政策阻擋（HTTP 403），本站無法直接讀取武田財報原文或 AD/PD 海報全文，以上僅根據可透過搜尋索引到之 FierceBiotech、AlzForum、Neurology 摘要頁等次級來源彙整；具體 UMSARS 數值尚未見於本站可查證之公開索引摘要中列出，本站不代填。",
+    "links": [
+      {
+        "label": "ClinicalTrials NCT05526391 ↗",
+        "url": "https://clinicaltrials.gov/study/NCT05526391"
+      },
+      {
+        "label": "FierceBiotech 報導 ↗",
+        "url": "https://www.fiercebiotech.com/biotech/takeda-drops-astrazeneca-partnered-neurological-drug-after-phase-2-failure"
+      },
+      {
+        "label": "ALZFORUM — TAK-341 ↗",
+        "url": "https://www.alzforum.org/therapeutics/tak-341"
+      }
+    ],
+    "en": {
+      "dateDisplay": "2025/10 disclosure · 2026/03 AD/PD full presentation",
+      "tag": "Trial readout · newly added via active discovery",
+      "body": "<b>Takeda/AstraZeneca's TAK-341 (MEDI1341, an anti-alpha-synuclein monoclonal antibody) pivotal Ph2 (NCT05526391) has been confirmed a failure and the programme discontinued</b>. The trial was randomised, double-blind, placebo-controlled, with IV infusions every 4 weeks, enrolling 159 patients across 56 sites in North America, Europe and Asia, completing in 2025/07; the primary endpoint was change in Modified UMSARS at week 52. Takeda disclosed in its 2025/10/31 Q3 earnings materials that <b>neither the primary nor secondary endpoints were met</b> and removed TAK-341 from its pipeline; full data were subsequently presented at the 2026/03 AD/PD International Conference, showing the drug was <b>safe and well tolerated but with no significant difference</b> versus placebo. This site had not previously tracked this asset or trial; it is added here following active discovery.",
+      "note": "→ The third large-pharma anti-alpha-synuclein/anti-neurodegenerative asset halted in MSA, after Biohaven's verdiperstat (M-STAR Ph3, 2021) and Ionis/Biogen's ION464 (2025). ⚠️ During this scan, ClinicalTrials.gov, PubMed and most news domains were blocked by an organisation-level network policy (HTTP 403), so this site could not directly read Takeda's earnings filing or the AD/PD poster; the above is compiled from secondary sources indexed via search — FierceBiotech, AlzForum, a Neurology abstract page — and specific UMSARS figures are not yet available from a source this site could verify, so none are supplied.",
+      "links": [
+        {
+          "label": "ClinicalTrials NCT05526391 ↗",
+          "url": "https://clinicaltrials.gov/study/NCT05526391"
+        },
+        {
+          "label": "FierceBiotech coverage ↗",
+          "url": "https://www.fiercebiotech.com/biotech/takeda-drops-astrazeneca-partnered-neurological-drug-after-phase-2-failure"
+        },
+        {
+          "label": "ALZFORUM — TAK-341 ↗",
+          "url": "https://www.alzforum.org/therapeutics/tak-341"
+        }
+      ]
+    }
+  },
+  {
     "id": "ono2808-ph3-registered-2026-09",
     "date": "2026-09-17",
     "dateDisplay": "2026/09",
@@ -146,60 +189,6 @@
         {
           "label": "Press release ↗",
           "url": "https://www.biospace.com/press-releases/alterity-therapeutics-receives-fda-end-of-phase-2-meeting-minutes-confirming-registrational-pathway-for-ath434-in-multiple-system-atrophy"
-        }
-      ]
-    }
-  },
-  {
-    "id": "ono2808-wpc-2026",
-    "date": "2026-05-27",
-    "dateDisplay": "2026/05",
-    "level": "win",
-    "tag": "正面讀出",
-    "body": "<b>小野藥品 ONO-2808</b>（S1P5 促效劑）於世界帕金森大會發表 Ph2 24 週核心數據：MSA-P 次族群 mUMSARS 變化 安慰劑 3.90 vs 高劑量 1.16；規劃樞紐 Ph3。",
-    "note": "→ 非 α-synuclein 標的的第二個正面訊號；屬次族群分析。",
-    "links": [
-      {
-        "label": "Ono 新聞稿 ↗",
-        "url": "https://www.ono-pharma.com/en/news/20260528.html"
-      }
-    ],
-    "en": {
-      "dateDisplay": "2026/05",
-      "tag": "Positive readout",
-      "body": "<b>Ono's ONO-2808</b> (S1P5 agonist) presented 24-week Ph2 core data at the World Parkinson Congress: in the MSA-P subgroup, mUMSARS change was 3.90 on placebo vs 1.16 on the high dose; a pivotal Ph3 is planned.",
-      "note": "→ A second positive signal from a non-alpha-synuclein target; based on a subgroup analysis.",
-      "links": [
-        {
-          "label": "Ono release ↗",
-          "url": "https://www.ono-pharma.com/en/news/20260528.html"
-        }
-      ]
-    }
-  },
-  {
-    "id": "mascot-ph3",
-    "date": "2026-01-15",
-    "dateDisplay": "進行中",
-    "level": "info",
-    "tag": "Ph3 進行中",
-    "body": "<b>Lundbeck amlenetug</b> 的 Ph3 <b>MASCOT</b>（NCT06706622）已停止收案、試驗進行中，主要完成預估 2028/02——目前 MSA 唯一在跑的 Ph3 疾病修飾試驗。",
-    "note": "→ Ph2 AMULET 主要終點未達（減緩 19%、未達顯著）仍進 Ph3。",
-    "links": [
-      {
-        "label": "NCT06706622 ↗",
-        "url": "https://clinicaltrials.gov/study/NCT06706622"
-      }
-    ],
-    "en": {
-      "dateDisplay": "Ongoing",
-      "tag": "Ph3 ongoing",
-      "body": "<b>Lundbeck's amlenetug</b> Ph3 <b>MASCOT</b> (NCT06706622) has closed enrolment and is ongoing, with primary completion estimated 2028/02 — currently the only Ph3 disease-modifying trial running in MSA.",
-      "note": "→ It advanced despite the Ph2 AMULET missing its primary endpoint (19% slowing, not significant).",
-      "links": [
-        {
-          "label": "NCT06706622 ↗",
-          "url": "https://clinicaltrials.gov/study/NCT06706622"
         }
       ]
     }

@@ -371,5 +371,53 @@
       ],
       "dateDisplay": "2026/07"
     }
+  },
+  {
+    "id": "tak341-ph2-fail",
+    "date": "2025-10-31",
+    "dateDisplay": "2025/10 財報揭露 · 2026/03 AD/PD 完整發表",
+    "competitor": "Takeda（原研 AstraZeneca／MedImmune）",
+    "drug": "TAK-341（MEDI1341）",
+    "trial": "NCT05526391 · 樞紐性 Ph2（隨機雙盲安慰劑對照，n=159，56站點）",
+    "sourceType": "財報揭露＋會議發表（次級來源彙整，見下方⚠️）",
+    "level": "neg",
+    "readout": "**主要與次要終點均未達統計顯著**：以第 52 週 Modified UMSARS 分數變化為主要指標。武田於 2025-10-31 第三季財報文件中揭露未達終點並將 TAK-341 自產品線移除；2026-03 AD/PD 國際大會發表完整結果，結論為治療安全可耐受，但治療組與安慰劑組無顯著差異。⚠️ 具體 UMSARS 數值武田尚未見於本站可查證之公開索引摘要中列出，本站不代填；本次掃描 ClinicalTrials.gov／PubMed／多數新聞網域遭組織層級網路政策阻擋，以下彙整僅根據可經搜尋索引到的 FierceBiotech、AlzForum、Neurology 摘要頁等次級來源，未能直接讀取武田財報原文或 AD/PD 海報全文。",
+    "implication": "→ MSA 領域第三個由大型藥廠止步的 anti-α-synuclein／抗神經退化資產（繼 Biohaven verdiperstat 2021、Ionis/Biogen ION464 2025），也是抗體類別中少數以近 160 人樞紐規模仍未過關者；本站先前未追蹤此資產，本次為主動盤點後首次收錄。",
+    "links": [
+      {
+        "label": "ClinicalTrials NCT05526391",
+        "url": "https://clinicaltrials.gov/study/NCT05526391"
+      },
+      {
+        "label": "FierceBiotech：武田終止 TAK-341 開發",
+        "url": "https://www.fiercebiotech.com/biotech/takeda-drops-astrazeneca-partnered-neurological-drug-after-phase-2-failure"
+      },
+      {
+        "label": "ALZFORUM — TAK-341",
+        "url": "https://www.alzforum.org/therapeutics/tak-341"
+      }
+    ],
+    "en": {
+      "competitor": "Takeda (originated by AstraZeneca/MedImmune)",
+      "trial": "NCT05526391 · Pivotal Ph2 (randomised, double-blind, placebo-controlled, n=159, 56 sites)",
+      "sourceType": "Earnings disclosure + conference presentation (secondary sources, see caveat below)",
+      "readout": "**Neither the primary nor secondary endpoints reached statistical significance**, with change in Modified UMSARS at week 52 as the primary endpoint. Takeda disclosed the miss in its 2025-10-31 Q3 earnings materials and removed TAK-341 from its pipeline; full results were presented at the 2026-03 AD/PD International Conference, concluding the drug was safe and well tolerated but showed no significant between-group difference. ⚠️ Specific UMSARS figures are not available from a source this site could verify, so none are supplied; during this scan ClinicalTrials.gov, PubMed and most news domains were blocked by an organisation-level network policy, so the summary above relies on secondary sources indexed via search (FierceBiotech, AlzForum, a Neurology abstract page) rather than a direct reading of Takeda's filing or the AD/PD poster.",
+      "implication": "→ The third large-pharma anti-alpha-synuclein/anti-neurodegenerative asset to be halted in MSA, after Biohaven's verdiperstat (2021) and Ionis/Biogen's ION464 (2025), and one of the few antibody programmes to fail at a near-160-patient pivotal scale; this site had not previously tracked this asset and adds it here following active discovery.",
+      "links": [
+        {
+          "label": "ClinicalTrials NCT05526391",
+          "url": "https://clinicaltrials.gov/study/NCT05526391"
+        },
+        {
+          "label": "FierceBiotech: Takeda drops TAK-341",
+          "url": "https://www.fiercebiotech.com/biotech/takeda-drops-astrazeneca-partnered-neurological-drug-after-phase-2-failure"
+        },
+        {
+          "label": "ALZFORUM — TAK-341",
+          "url": "https://www.alzforum.org/therapeutics/tak-341"
+        }
+      ],
+      "dateDisplay": "2025/10 disclosure · 2026/03 AD/PD full presentation"
+    }
   }
 ]

@@ -571,5 +571,53 @@
         }
       ]
     }
+  },
+  {
+    "id": "tak341",
+    "company": "武田製藥 Takeda（原研 AstraZeneca／MedImmune）",
+    "drug": "TAK-341（MEDI1341）",
+    "mechanism": "單株抗體，結合人類 α-synuclein C端區域；臨床前小鼠模型中曾顯示可減緩細胞間 α-synuclein 病理擴散",
+    "phase": "Ph2（樞紐性，已完成，未進入後續階段）",
+    "status": "<b>本站主動盤點後新收錄——樞紐性 Ph2（NCT05526391）已宣告失敗、開發計畫終止</b>。試驗為隨機、雙盲、安慰劑對照，靜脈輸注每 4 週一次，於北美／歐洲／亞洲共 56 站點收案 <b>159 人</b>，2025-07 完成；主要指標為第 52 週 <b>Modified UMSARS</b> 分數變化。武田於 <b>2025-10-31</b> 第三季財報文件中揭露<b>主要與次要終點均未達統計顯著</b>，並將 TAK-341 自產品線移除；完整數據其後於 <b>2026-03 AD/PD 國際大會</b>發表，結論為治療安全可耐受，但治療組與安慰劑組<b>無顯著差異</b>。⚠️ 本次掃描期間 ClinicalTrials.gov、PubMed 及多數新聞網域遭組織層級網路政策阻擋，本站無法直接讀取武田財報原文或 AD/PD 海報全文；以下彙整僅根據可透過搜尋索引到之 FierceBiotech、AlzForum、Neurology 摘要頁等來源，具體 UMSARS 數值武田尚未見於本站可查證之公開索引摘要中列出，本站不代填。",
+    "highlight": false,
+    "relevance": "機制對手（失敗）",
+    "note": "→ 與 Lundbeck amlenetug 同屬 anti-α-synuclein 單株抗體路線，是繼 Biohaven verdiperstat（M-STAR Ph3，2021）與 Ionis／Biogen ION464（2025 終止）後，MSA 領域第三個由大型藥廠止步的抗神經退化資產，也是抗體類別中少數以近 160 人樞紐規模仍未能過關的案例。與細胞治療機制完全不同，但同屬「打得到 α-synuclein 標的、未必能改變病程」的失敗類別，可作為評估其他抗體/寡核苷酸路線風險的參照。",
+    "category": "asyn",
+    "sources": [
+      {
+        "label": "試驗登錄 NCT05526391",
+        "url": "https://clinicaltrials.gov/study/NCT05526391"
+      },
+      {
+        "label": "FierceBiotech：武田終止 TAK-341 開發",
+        "url": "https://www.fiercebiotech.com/biotech/takeda-drops-astrazeneca-partnered-neurological-drug-after-phase-2-failure"
+      },
+      {
+        "label": "ALZFORUM — TAK-341",
+        "url": "https://www.alzforum.org/therapeutics/tak-341"
+      }
+    ],
+    "en": {
+      "company": "Takeda (originated by AstraZeneca/MedImmune)",
+      "mechanism": "A monoclonal antibody binding the C-terminal region of human alpha-synuclein; preclinically shown in mouse models to attenuate cell-to-cell spread of alpha-synuclein pathology",
+      "phase": "Ph2 (pivotal, completed, not advanced further)",
+      "status": "<b>Newly added here following active discovery — the pivotal Ph2 (NCT05526391) has been reported as a failure and the programme discontinued</b>. The trial was randomised, double-blind, placebo-controlled, with intravenous infusions every 4 weeks, enrolling <b>159 patients</b> across 56 sites in North America, Europe and Asia; it completed in <b>2025-07</b>. The primary endpoint was change on the <b>Modified UMSARS</b> at week 52. Takeda disclosed in its <b>2025-10-31</b> Q3 earnings materials that <b>neither the primary nor secondary endpoints were met</b>, and removed TAK-341 from its pipeline; full data were subsequently presented at the <b>2026-03 AD/PD International Conference</b>, concluding the drug was safe and well tolerated but showed <b>no significant difference</b> versus placebo. ⚠️ During this scan, ClinicalTrials.gov, PubMed and most news domains were blocked by an organisation-level network policy, so this site could not directly read Takeda's earnings filing or the AD/PD poster; the summary above is compiled from what could be indexed via search — FierceBiotech, AlzForum and a Neurology abstract page — and specific UMSARS figures are not yet available from a source this site could verify, so none are supplied here.",
+      "relevance": "Mechanistic peer (failed)",
+      "note": "→ Another anti-alpha-synuclein monoclonal antibody, in the same class as Lundbeck's amlenetug — TAK-341 is the third large-pharma anti-neurodegenerative asset to be halted in MSA, after Biohaven's verdiperstat (M-STAR Ph3, 2021) and Ionis/Biogen's ION464 (discontinued 2025), and one of the few antibody programmes to fail at a near-160-patient pivotal scale. Mechanistically distinct from cell therapy, but part of the same 'reaches the alpha-synuclein target without necessarily altering the disease course' failure category, useful as a reference point when assessing risk in other antibody/oligonucleotide routes.",
+      "sources": [
+        {
+          "label": "Registry NCT05526391",
+          "url": "https://clinicaltrials.gov/study/NCT05526391"
+        },
+        {
+          "label": "FierceBiotech: Takeda drops TAK-341",
+          "url": "https://www.fiercebiotech.com/biotech/takeda-drops-astrazeneca-partnered-neurological-drug-after-phase-2-failure"
+        },
+        {
+          "label": "ALZFORUM — TAK-341",
+          "url": "https://www.alzforum.org/therapeutics/tak-341"
+        }
+      ]
+    }
   }
 ]
